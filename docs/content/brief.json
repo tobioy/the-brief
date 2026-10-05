@@ -1,0 +1,81 @@
+{
+  "updated": "2026-10-05",
+  "week": "Week of 28 September 2026",
+  "stories": [
+    {
+      "id": "br-2026-09-29-iran",
+      "date": "2026-09-29",
+      "tag": "Middle East",
+      "unit": "D2",
+      "title": "US and Iran talk through Qatar at the UN",
+      "body": "Indirect US–Iran talks continued in New York during the UN General Assembly, with Qatar as the go-between. Iran wants the Strait of Hormuz reopened, sanctions lifted, about $12 billion in frozen assets released and a ceasefire including Lebanon before nuclear talks. Washington wants all issues, including the nuclear programme, negotiated together. President Trump has signalled a deal is unlikely before the 3 November US midterm elections.",
+      "why": "Oil prices, fuel import costs and shipping insurance for Nigeria all track the Hormuz crisis.",
+      "source": {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/9/29/us-iran-talks-in-new-york-whats-the-latest"},
+      "cards": [
+        {"front": "Who is mediating US–Iran talks as of late September 2026?", "back": "Qatar, with indirect talks in New York during the UN General Assembly."},
+        {"front": "What does Iran want settled before nuclear talks?", "back": "Hormuz reopened, sanctions lifted, ~$12bn in frozen assets released, and a regional ceasefire including Lebanon."}
+      ]
+    },
+    {
+      "id": "br-2026-09-26-ukraine",
+      "date": "2026-09-26",
+      "tag": "Europe",
+      "unit": "D1",
+      "title": "US tries to revive Russia–Ukraine talks",
+      "body": "After envoys Steve Witkoff and Jared Kushner met President Putin in early September and then went to Kyiv, President Zelenskyy rejected the proposal's territorial concessions. Russia claims gains in Donbas, while Ukraine recently pushed Russian forces back near Lyman. Moscow insists on Ukrainian neutrality and control of all of Donbas. British, French and German advisers joined the Kyiv meeting, signalling European resistance to concessions.",
+      "why": "The war still affects world grain, fertiliser and fuel prices, which feed Nigerian inflation.",
+      "source": {"name": "Christian Science Monitor", "url": "https://www.csmonitor.com/World/Europe/2026/0926/russia-ukraine-peace-talks-donbas-europe-trump"},
+      "cards": [
+        {"front": "Why did Zelenskyy reject the September 2026 US proposal?", "back": "It required territorial concessions in the east (Donbas)."}
+      ]
+    },
+    {
+      "id": "br-2026-09-23-gaza",
+      "date": "2026-09-23",
+      "tag": "Middle East",
+      "unit": "D3",
+      "title": "Board of Peace sets out $2.4bn Gaza reconstruction plan",
+      "body": "The Board of Peace, created under UN Security Council Resolution 2803 and chaired by President Trump, unveiled a $2.4 billion recovery plan for Gaza. The ceasefire that began on 10 October 2025 is fragile: Israel reported 18 violations between 15 and 29 September, and Palestinians continue to be killed in Israeli strikes.",
+      "why": "Nigeria backs a two-state solution; the Gaza file is a standard current-affairs interview question.",
+      "source": {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/9/23/board-of-peace-plans-2-4bn-gaza-reconstruction-as-israel-kills-seven"},
+      "cards": [
+        {"front": "How large is the Board of Peace's Gaza recovery plan?", "back": "$2.4 billion (announced September 2026)."}
+      ]
+    },
+    {
+      "id": "br-2026-08-22-sahel",
+      "date": "2026-08-22",
+      "tag": "Sahel",
+      "unit": "C1",
+      "title": "Nigeria and the Sahel: two security systems that don't talk",
+      "body": "Analysts warn that the split between ECOWAS and the Alliance of Sahel States leaves gaps that groups such as JNIM, ISWAP and Lakurawa exploit along the Nigeria–Niger border. Relations are strained: Burkina Faso detained 11 Nigerian Air Force personnel in December 2025, and on 30 July 2026 the AES states rejected President Tinubu's criticism of their security record.",
+      "why": "Nigeria's North-west and North-east share a long border with Niger; cooperation gaps let fighters and weapons move freely.",
+      "source": {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/8/22/nigeria-and-the-sahel-a-growing-security-divide"},
+      "cards": [
+        {"front": "When did the AES states reject Tinubu's criticism of their security record?", "back": "After his remarks on 30 July 2026."}
+      ]
+    },
+    {
+      "id": "br-2026-07-banditry",
+      "date": "2026-07-15",
+      "tag": "Nigeria",
+      "unit": "B1",
+      "title": "Banditry in the North-west is getting worse",
+      "body": "Recorded banditry incidents in the North-west nearly doubled in 2025, to 599 incidents with 2,742 casualties. Zamfara and Sokoto are the epicentre. Researchers describe growing links between bandit gangs and jihadist groups; JNIM reportedly sent about 100 fighters to support Lakurawa in early 2026.",
+      "why": "This is Nigeria's fastest-growing security threat and a likely exam and interview topic.",
+      "source": {"name": "Africa Defense Forum", "url": "https://adf-magazine.com/2026/07/nigerias-banditry-crisis-worsens/"},
+      "cards": []
+    },
+    {
+      "id": "br-2026-04-29-fm",
+      "date": "2026-04-29",
+      "tag": "Nigeria",
+      "unit": "A2",
+      "title": "New Foreign Minister: Bianca Odumegwu-Ojukwu",
+      "body": "President Tinubu elevated Ambassador Bianca Odumegwu-Ojukwu from Minister of State to Minister of Foreign Affairs after Yusuf Tuggar stepped down to take part in the 2027 elections. Ambassador Sola Enikanolaiye was nominated as Minister of State.",
+      "why": "Office holders are a common general-knowledge question, and Tuggar was the author of the 4-D foreign policy.",
+      "source": {"name": "State House, Abuja", "url": "https://statehouse.gov.ng/president-tinubu-names-bianca-odumegwu-ojukwu-as-minister-of-foreign-affairs-nominates-amb-sola-enikanolaiye-as-minister-of-state/"},
+      "cards": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "updated": "2026-10-05",
+  "goalMinutes": 35,
+  "days": [
+    {"day": 1, "title": "The Agency and the Nigerian state", "units": ["A1", "A2"], "diagnostic": true, "drill": "mixed", "interview": "iv-01", "interviewNote": "Write your self-appraisal in the builder, then say it out loud."},
+    {"day": 2, "title": "North-west banditry, North-central kidnapping", "units": ["B1"], "drill": "percentages", "interview": "iv-01"},
+    {"day": 3, "title": "North-east, South-east, South-west, South-south", "units": ["B2"], "drill": "synonyms", "interview": "iv-02"},
+    {"day": 4, "title": "Sahel coups, the AES and ECOWAS", "units": ["C1"], "drill": "ratios", "interview": "iv-03"},
+    {"day": 5, "title": "The Russia–Ukraine war", "units": ["D1"], "drill": "comprehension", "interview": "iv-08", "interviewNote": "If you're unsure of a fact, reason out loud."},
+    {"day": 6, "title": "The US/Israel–Iran war", "units": ["D2"], "drill": "series", "interview": "iv-10"},
+    {"day": 7, "title": "Checkpoint 1: mock test", "units": [], "mock": 40, "drill": "none", "interview": "iv-01", "interviewNote": "Full self-appraisal, timed."},
+    {"day": 8, "title": "Israel and Palestine", "units": ["D3"], "drill": "tables", "interview": "iv-05"},
+    {"day": 9, "title": "Global trade and Nigeria's economy", "units": ["E1"], "drill": "interest", "interview": "iv-06"},
+    {"day": 10, "title": "Terrorism and religious extremism", "units": ["F1"], "drill": "idioms", "interview": "iv-11"},
+    {"day": 11, "title": "Trafficking and organised crime", "units": ["F2"], "drill": "logic", "interview": "iv-13"},
+    {"day": 12, "title": "4-D foreign policy, Sudan and DR Congo", "units": ["G1", "D4"], "drill": "correction", "interview": "iv-16"},
+    {"day": 13, "title": "Intelligence basics and interview prep", "units": ["A3", "I1"], "drill": "mixed", "interview": "mock", "interviewNote": "Mock interview: 8 questions back to back."},
+    {"day": 14, "title": "Checkpoint 2: full mock exam", "units": [], "mock": 60, "drill": "none", "interview": "mock", "interviewNote": "Mock interview, then compare your scores with day 7."}
+  ]
+}
