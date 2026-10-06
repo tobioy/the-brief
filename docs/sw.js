@@ -1,6 +1,6 @@
 /* Offline support. The app shell is cached; study content is fetched fresh when online
    and falls back to the cached copy offline, so weekly updates arrive on next open. */
-var VERSION = 'brief-v1';
+var VERSION = 'brief-v2';
 var SHELL = ['./', 'index.html', 'styles.css', 'app.js', 'manifest.webmanifest', 'icons/icon-192.png', 'icons/apple-touch-icon.png'];
 var CONTENT = ['units', 'cards', 'questions', 'english', 'interview', 'brief', 'plan'].map(function (f) { return 'content/' + f + '.json'; });
 

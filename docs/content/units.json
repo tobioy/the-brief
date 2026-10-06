@@ -1,396 +1,853 @@
 {
-  "updated": "2026-10-05",
+  "updated": "2026-10-06",
   "modules": [
-    {"id": "A", "title": "The Agency and the Nigerian state", "short": "Agency & state"},
-    {"id": "B", "title": "Nigeria's security map", "short": "Nigeria security"},
-    {"id": "C", "title": "Sahel, ECOWAS and the AES", "short": "Sahel & ECOWAS"},
-    {"id": "D", "title": "Global conflicts", "short": "Global conflicts"},
-    {"id": "E", "title": "Global trade and the economy", "short": "Trade & economy"},
-    {"id": "F", "title": "Transnational threats", "short": "Threats"},
-    {"id": "G", "title": "Nigeria's foreign policy", "short": "Foreign policy"},
-    {"id": "H", "title": "Aptitude: English and maths", "short": "English & maths"},
-    {"id": "I", "title": "Interview", "short": "Interview"}
+    {
+      "id": "A",
+      "title": "The Agency and the Nigerian state",
+      "short": "Agency & state"
+    },
+    {
+      "id": "B",
+      "title": "Nigeria's security map",
+      "short": "Nigeria security"
+    },
+    {
+      "id": "C",
+      "title": "Sahel, ECOWAS and the AES",
+      "short": "Sahel & ECOWAS"
+    },
+    {
+      "id": "D",
+      "title": "Global conflicts",
+      "short": "Global conflicts"
+    },
+    {
+      "id": "E",
+      "title": "Global trade and the economy",
+      "short": "Trade & economy"
+    },
+    {
+      "id": "F",
+      "title": "Transnational threats",
+      "short": "Threats"
+    },
+    {
+      "id": "G",
+      "title": "Nigeria's foreign policy",
+      "short": "Foreign policy"
+    },
+    {
+      "id": "H",
+      "title": "Aptitude: English and maths",
+      "short": "English & maths"
+    },
+    {
+      "id": "I",
+      "title": "Interview",
+      "short": "Interview"
+    }
   ],
   "units": [
     {
-      "id": "A1", "module": "A", "title": "The NIA and Nigeria's intelligence community", "minutes": 7,
+      "id": "A1",
+      "module": "A",
+      "title": "The NIA and Nigeria's intelligence community",
+      "minutes": 7,
       "sections": [
-        {"h": "Where the NIA came from", "p": [
-          "Until 1986 Nigeria had a single civilian intelligence body, the National Security Organisation (NSO). In 1986 the Babangida government dissolved it and, through the National Security Agencies Act (Decree No. 19 of 1986), split its work between three agencies.",
-          "The State Security Service (now the Department of State Services, DSS) took domestic security. The National Intelligence Agency (NIA) took foreign intelligence and counter-intelligence abroad. The Defence Intelligence Agency (DIA) took military intelligence."
-        ]},
-        {"h": "What the NIA is for", "p": [
-          "The Act gives the NIA responsibility for the general maintenance of Nigeria's security outside Nigeria on matters that are not military, plus other external intelligence tasks the President may assign.",
-          "In plain terms: the NIA watches threats and opportunities beyond Nigeria's borders (foreign governments, terrorist networks abroad, transnational crime, diplomatic and economic developments) and advises government before problems reach Nigeria."
-        ]},
-        {"h": "Who it reports to", "p": [
-          "The intelligence agencies are coordinated by the Office of the National Security Adviser (ONSA). The National Security Adviser is Mallam Nuhu Ribadu, appointed in June 2023.",
-          "The Director-General of the NIA is Ambassador Mohammed Mohammed, appointed by President Tinubu on 26 August 2024. He replaced Ambassador Ahmed Rufai Abubakar. On the same day Adeola Ajayi was appointed Director-General of the DSS.",
-          "The Chief of Defence Intelligence, who heads the DIA, is Major-General E.A.P. Undiendeye."
-        ]},
-        {"h": "How to talk about it in an interview", "p": [
-          "Show that you know the difference between the three agencies, that you understand the NIA works abroad and mostly out of public view, and that discretion is part of the job.",
-          "Avoid speculating about operations or naming officers beyond the public leadership. A good line: “I understand the Agency's work protects Nigeria's interests outside our borders, and that much of it can never be discussed publicly.”"
-        ]}
+        {
+          "h": "Where the NIA came from",
+          "p": [
+            "Until 1986 Nigeria had a single civilian intelligence body, the National Security Organisation (NSO). In 1986 the Babangida government dissolved it and, through the National Security Agencies Act (Decree No. 19 of 1986), split its work between three agencies.",
+            "The State Security Service (now the Department of State Services, DSS) took domestic security. The National Intelligence Agency (NIA) took foreign intelligence and counter-intelligence abroad. The Defence Intelligence Agency (DIA) took military intelligence."
+          ]
+        },
+        {
+          "h": "What the NIA is for",
+          "p": [
+            "The Act gives the NIA responsibility for the general maintenance of Nigeria's security outside Nigeria on matters that are not military, plus other external intelligence tasks the President may assign.",
+            "In plain terms: the NIA watches threats and opportunities beyond Nigeria's borders (foreign governments, terrorist networks abroad, transnational crime, diplomatic and economic developments) and advises government before problems reach Nigeria."
+          ]
+        },
+        {
+          "h": "Who it reports to",
+          "p": [
+            "The intelligence agencies are coordinated by the Office of the National Security Adviser (ONSA). The National Security Adviser is Mallam Nuhu Ribadu, appointed in June 2023.",
+            "The Director-General of the NIA is Ambassador Mohammed Mohammed, appointed by President Tinubu on 26 August 2024. He replaced Ambassador Ahmed Rufai Abubakar. On the same day Adeola Ajayi was appointed Director-General of the DSS.",
+            "The Chief of Defence Intelligence, who heads the DIA, is Major-General E.A.P. Undiendeye."
+          ]
+        },
+        {
+          "h": "How to talk about it in an interview",
+          "p": [
+            "Show that you know the difference between the three agencies, that you understand the NIA works abroad and mostly out of public view, and that discretion is part of the job.",
+            "Avoid speculating about operations or naming officers beyond the public leadership. A good line: “I understand the Agency's work protects Nigeria's interests outside our borders, and that much of it can never be discussed publicly.”"
+          ]
+        }
       ],
       "sources": [
-        {"name": "Federal Ministry of Information: Tinubu appoints new DGs of NIA and DSS (26 Aug 2024)", "url": "https://fmino.gov.ng/president-tinubu-appoints-new-directors-general-of-nia-dss/"},
-        {"name": "State House: President Tinubu changes service chiefs (24 Oct 2025)", "url": "https://statehouse.gov.ng/president-tinubu-changes-service-chiefs"}
+        {
+          "name": "Federal Ministry of Information: Tinubu appoints new DGs of NIA and DSS (26 Aug 2024)",
+          "url": "https://fmino.gov.ng/president-tinubu-appoints-new-directors-general-of-nia-dss/"
+        },
+        {
+          "name": "State House: President Tinubu changes service chiefs (24 Oct 2025)",
+          "url": "https://statehouse.gov.ng/president-tinubu-changes-service-chiefs"
+        }
       ]
     },
     {
-      "id": "A2", "module": "A", "title": "How the Nigerian state is organised", "minutes": 6,
+      "id": "A2",
+      "module": "A",
+      "title": "How the Nigerian state is organised",
+      "minutes": 6,
       "sections": [
-        {"h": "The basics", "p": [
-          "Nigeria is a federal republic run under the 1999 Constitution (as amended). It has a presidential system with three arms of government: the executive (President), the legislature (National Assembly) and the judiciary (headed by the Supreme Court).",
-          "The National Assembly has two chambers: the Senate with 109 senators (three per state plus one for the FCT) and the House of Representatives with 360 members."
-        ]},
-        {"h": "States and zones", "p": [
-          "There are 36 states plus the Federal Capital Territory (Abuja), and 774 local government areas.",
-          "The six geopolitical zones are used for planning and politics. North-west: Jigawa, Kaduna, Kano, Katsina, Kebbi, Sokoto, Zamfara. North-east: Adamawa, Bauchi, Borno, Gombe, Taraba, Yobe. North-central: Benue, Kogi, Kwara, Nasarawa, Niger, Plateau (and the FCT). South-west: Ekiti, Lagos, Ogun, Ondo, Osun, Oyo. South-east: Abia, Anambra, Ebonyi, Enugu, Imo. South-south: Akwa Ibom, Bayelsa, Cross River, Delta, Edo, Rivers."
-        ]},
-        {"h": "Who holds the key offices (checked 5 Oct 2026)", "p": [
-          "President: Bola Ahmed Tinubu (since 29 May 2023). Vice-President: Kashim Shettima. Senate President: Godswill Akpabio. Speaker of the House: Tajudeen Abbas. Chief Justice: Kudirat Kekere-Ekun.",
-          "Minister of Foreign Affairs: Ambassador Bianca Odumegwu-Ojukwu (elevated in April 2026 after Yusuf Tuggar stepped down to contest the 2027 elections). Minister of Defence: General Christopher Musa (rtd), the former Chief of Defence Staff.",
-          "Service chiefs appointed 24 October 2025: Chief of Defence Staff General Olufemi Oluyede; Chief of Army Staff Waidi Shaibu; Chief of Naval Staff Idi Abbas; Chief of Air Staff Sunday Kelvin Aneke.",
-          "These names change. The weekly update re-checks them, and you should check them again in the week before the exam."
-        ]}
+        {
+          "h": "The basics",
+          "p": [
+            "Nigeria is a federal republic run under the 1999 Constitution (as amended). It has a presidential system with three arms of government: the executive (President), the legislature (National Assembly) and the judiciary (headed by the Supreme Court).",
+            "The National Assembly has two chambers: the Senate with 109 senators (three per state plus one for the FCT) and the House of Representatives with 360 members."
+          ]
+        },
+        {
+          "h": "States and zones",
+          "p": [
+            "There are 36 states plus the Federal Capital Territory (Abuja), and 774 local government areas.",
+            "The six geopolitical zones are used for planning and politics. North-west: Jigawa, Kaduna, Kano, Katsina, Kebbi, Sokoto, Zamfara. North-east: Adamawa, Bauchi, Borno, Gombe, Taraba, Yobe. North-central: Benue, Kogi, Kwara, Nasarawa, Niger, Plateau (and the FCT). South-west: Ekiti, Lagos, Ogun, Ondo, Osun, Oyo. South-east: Abia, Anambra, Ebonyi, Enugu, Imo. South-south: Akwa Ibom, Bayelsa, Cross River, Delta, Edo, Rivers."
+          ]
+        },
+        {
+          "h": "Who holds the key offices (checked 5 Oct 2026)",
+          "p": [
+            "President: Bola Ahmed Tinubu (since 29 May 2023). Vice-President: Kashim Shettima. Senate President: Godswill Akpabio. Speaker of the House: Tajudeen Abbas. Chief Justice: Kudirat Kekere-Ekun.",
+            "Minister of Foreign Affairs: Ambassador Bianca Odumegwu-Ojukwu (elevated in April 2026 after Yusuf Tuggar stepped down to contest the 2027 elections). Minister of Defence: General Christopher Musa (rtd), the former Chief of Defence Staff.",
+            "Service chiefs appointed 24 October 2025: Chief of Defence Staff General Olufemi Oluyede; Chief of Army Staff Waidi Shaibu; Chief of Naval Staff Idi Abbas; Chief of Air Staff Sunday Kelvin Aneke.",
+            "These names change. The weekly update re-checks them, and you should check them again in the week before the exam."
+          ]
+        }
       ],
       "sources": [
-        {"name": "State House: Bianca Odumegwu-Ojukwu named Minister of Foreign Affairs (29 Apr 2026)", "url": "https://statehouse.gov.ng/president-tinubu-names-bianca-odumegwu-ojukwu-as-minister-of-foreign-affairs-nominates-amb-sola-enikanolaiye-as-minister-of-state/"},
-        {"name": "Voice of Nigeria: Senate confirms ex-CDS Musa as Defence Minister", "url": "https://von.gov.ng/defence-minister-nigerian-senate-screens-confirms-ex-cds-musa/"},
-        {"name": "State House: President Tinubu changes service chiefs (24 Oct 2025)", "url": "https://statehouse.gov.ng/president-tinubu-changes-service-chiefs"}
+        {
+          "name": "State House: Bianca Odumegwu-Ojukwu named Minister of Foreign Affairs (29 Apr 2026)",
+          "url": "https://statehouse.gov.ng/president-tinubu-names-bianca-odumegwu-ojukwu-as-minister-of-foreign-affairs-nominates-amb-sola-enikanolaiye-as-minister-of-state/"
+        },
+        {
+          "name": "Voice of Nigeria: Senate confirms ex-CDS Musa as Defence Minister",
+          "url": "https://von.gov.ng/defence-minister-nigerian-senate-screens-confirms-ex-cds-musa/"
+        },
+        {
+          "name": "State House: President Tinubu changes service chiefs (24 Oct 2025)",
+          "url": "https://statehouse.gov.ng/president-tinubu-changes-service-chiefs"
+        }
       ]
     },
     {
-      "id": "A3", "module": "A", "title": "Intelligence basics", "minutes": 7,
+      "id": "A3",
+      "module": "A",
+      "title": "Intelligence basics",
+      "minutes": 7,
       "sections": [
-        {"h": "The intelligence cycle", "p": [
-          "Intelligence work is usually described as a cycle: 1) planning and direction (what do decision-makers need to know?), 2) collection, 3) processing, 4) analysis and production, 5) dissemination to the people who need it, then feedback that starts the next round."
-        ]},
-        {"h": "Kinds of intelligence", "p": [
-          "HUMINT: from people (sources, informants, diplomats). SIGINT: from intercepted communications and signals. IMINT or GEOINT: from imagery and maps. OSINT: from open sources such as news, social media and public records. FININT: from financial transactions.",
-          "Strategic intelligence informs long-term policy (for example, where the Sahel crisis is heading). Tactical intelligence supports a specific operation."
-        ]},
-        {"h": "Counter-intelligence and secrecy", "p": [
-          "Counter-intelligence protects Nigeria's own secrets and people from foreign spying, recruitment and sabotage.",
-          "Access to classified material is on a need-to-know basis. Nigeria's Official Secrets Act (1962) makes it an offence to disclose classified information.",
-          "Good analysis separates facts from judgments, states how confident the analyst is, and considers alternative explanations."
-        ]},
-        {"h": "Why this matters for you", "p": [
-          "You won't be expected to know tradecraft. You may be asked why intelligence matters to a country, how open-source information helps, or what you would do if a friend asked about your work. The answer to the last one is always: say nothing about it."
-        ]}
+        {
+          "h": "The intelligence cycle",
+          "p": [
+            "Intelligence work is usually described as a cycle: 1) planning and direction (what do decision-makers need to know?), 2) collection, 3) processing, 4) analysis and production, 5) dissemination to the people who need it, then feedback that starts the next round."
+          ]
+        },
+        {
+          "h": "Kinds of intelligence",
+          "p": [
+            "HUMINT: from people (sources, informants, diplomats). SIGINT: from intercepted communications and signals. IMINT or GEOINT: from imagery and maps. OSINT: from open sources such as news, social media and public records. FININT: from financial transactions.",
+            "Strategic intelligence informs long-term policy (for example, where the Sahel crisis is heading). Tactical intelligence supports a specific operation."
+          ]
+        },
+        {
+          "h": "Counter-intelligence and secrecy",
+          "p": [
+            "Counter-intelligence protects Nigeria's own secrets and people from foreign spying, recruitment and sabotage.",
+            "Access to classified material is on a need-to-know basis. Nigeria's Official Secrets Act (1962) makes it an offence to disclose classified information.",
+            "Good analysis separates facts from judgments, states how confident the analyst is, and considers alternative explanations."
+          ]
+        },
+        {
+          "h": "Why this matters for you",
+          "p": [
+            "You won't be expected to know tradecraft. You may be asked why intelligence matters to a country, how open-source information helps, or what you would do if a friend asked about your work. The answer to the last one is always: say nothing about it."
+          ]
+        }
       ],
       "sources": []
     },
     {
-      "id": "B1", "module": "B", "title": "North-west banditry and North-central kidnapping", "minutes": 9,
+      "id": "A4",
+      "module": "A",
+      "title": "Nigeria's history in brief",
+      "minutes": 7,
       "sections": [
-        {"h": "North-west: banditry", "p": [
-          "Armed gangs, often called bandits, operate across Zamfara, Sokoto, Katsina, Kebbi and Kaduna, and into Niger State. They raid villages, rustle cattle, impose “taxes” on farmers and kidnap for ransom. They hide in large forests such as Rugu and Kamuku.",
-          "Roots: competition between farmers and herders for land and water, cattle rustling, illegal gold mining in Zamfara, and too few police for huge rural areas.",
-          "In 2025 there were 599 recorded banditry incidents in the North-west with 2,742 casualties, nearly double the year before. Around 30,000 gang members are estimated to operate across the north. Bello Turji is one of the best-known bandit leaders."
-        ]},
-        {"h": "Bandits as terrorists, and Lakurawa", "p": [
-          "In 2022 a Federal High Court declared bandit groups to be terrorist organisations, which allows tougher military and legal action. The same year the Terrorism (Prevention and Prohibition) Act 2022 replaced earlier anti-terror law.",
-          "Lakurawa is a newer armed group on the Sokoto and Kebbi border with Niger. It began as fighters invited in to protect communities from bandits, then turned on them. It mixes crime with jihadist links. In early 2026 the al-Qaeda affiliate JNIM reportedly sent about 100 fighters to support it."
-        ]},
-        {"h": "The United States and the north-west", "p": [
-          "In October 2025 the United States designated Nigeria a “Country of Particular Concern” over religious freedom. On 25 December 2025 US forces struck Islamic State targets in Sokoto State, which US officials said was done with Nigeria's cooperation.",
-          "In an interview, show that you understand both sides: Nigeria's government says the violence affects Muslims and Christians alike and is driven by crime and terrorism, while some foreign critics frame it as religious persecution."
-        ]},
-        {"h": "North-central: kidnapping and farmer–herder violence", "p": [
-          "The North-central zone (Benue, Plateau, Nasarawa, Kogi, Kwara, Niger and the FCT) suffers kidnap-for-ransom on highways and in rural areas, and deadly clashes between herders and farming communities. Benue introduced an anti-open-grazing law in 2017.",
-          "Notable attacks: the March 2022 attack on the Abuja–Kaduna train; the June 2025 killings at Yelwata in Benue; and in November 2025 the abduction of more than 300 pupils and staff from St Mary's Catholic School, Papiri, in Niger State.",
-          "Mass school kidnappings started with Chibok in Borno in 2014 and spread to the North-west and North-central, for example Kuriga in Kaduna in March 2024."
-        ]}
+        {
+          "h": "Colonial Nigeria",
+          "p": [
+            "Britain took Lagos as a colony in 1861 and expanded inland. The journalist Flora Shaw (later Lady Lugard) suggested the name “Nigeria”, after the River Niger, in 1897.",
+            "On 1 January 1914 Lord Frederick Lugard amalgamated the Northern and Southern Protectorates into one Nigeria.",
+            "Herbert Macaulay founded the Nigerian National Democratic Party in 1923 and is called the father of Nigerian nationalism. The 1929 Aba Women's Riot was a major protest against colonial taxation.",
+            "A series of colonial constitutions moved Nigeria toward self-rule: Clifford (1922, first elected members), Richards (1946), Macpherson (1951) and Lyttelton (1954, which made Nigeria a federation)."
+          ]
+        },
+        {
+          "h": "Independence and the First Republic",
+          "p": [
+            "Nigeria became independent on 1 October 1960, with Sir Abubakar Tafawa Balewa as Prime Minister and Nnamdi Azikiwe as Governor-General. It became a republic on 1 October 1963, with Azikiwe as ceremonial President.",
+            "The regional premiers included Ahmadu Bello (North), Obafemi Awolowo and later Samuel Akintola (West) and Michael Okpara (East)."
+          ]
+        },
+        {
+          "h": "Coups and civil war",
+          "p": [
+            "The first military coup, on 15 January 1966, killed Balewa and others; Major-General Johnson Aguiyi-Ironsi became head of state. A counter-coup in July 1966 brought Lieutenant-Colonel Yakubu Gowon to power.",
+            "In 1967 Gowon created 12 states. The Eastern Region declared itself the Republic of Biafra under Odumegwu Ojukwu, and the civil war lasted from 6 July 1967 to 15 January 1970.",
+            "Murtala Mohammed took power in July 1975 and was assassinated on 13 February 1976. Olusegun Obasanjo then led the transition to the Second Republic and handed power to the elected President Shehu Shagari on 1 October 1979."
+          ]
+        },
+        {
+          "h": "From military rule to the Fourth Republic",
+          "p": [
+            "Muhammadu Buhari overthrew Shagari on 31 December 1983. Ibrahim Babangida took over in August 1985. The presidential election of 12 June 1993, believed won by M.K.O. Abiola, was annulled. Ernest Shonekan led an Interim National Government until Sani Abacha seized power in November 1993. Abacha died on 8 June 1998 and Abdulsalami Abubakar organised the return to civilian rule.",
+            "The Fourth Republic began on 29 May 1999 with President Obasanjo. He was followed by Umaru Musa Yar'Adua (2007, died in office in May 2010), Goodluck Jonathan (2010), Muhammadu Buhari (2015, the first opposition candidate to defeat a sitting president) and Bola Tinubu (2023).",
+            "Since 2019, Democracy Day has been celebrated on 12 June instead of 29 May, in honour of the 1993 election. The capital moved from Lagos to Abuja on 12 December 1991."
+          ]
+        }
       ],
       "sources": [
-        {"name": "Africa Defense Forum: Nigeria's banditry crisis worsens (Jul 2026)", "url": "https://adf-magazine.com/2026/07/nigerias-banditry-crisis-worsens/"},
-        {"name": "Council on Foreign Relations: Nigeria Security Tracker", "url": "https://www.cfr.org/nigeria/nigeria-security-tracker/p29483"},
-        {"name": "Al Jazeera: US launches Christmas Day strikes on IS targets in Nigeria", "url": "https://www.ewn.co.za/2025/12/26/us-launches-christmas-day-strikes-on-is-targets-in-nigeria"}
+        {
+          "name": "Encyclopaedia Britannica: History of Nigeria",
+          "url": "https://www.britannica.com/place/Nigeria/History"
+        }
       ]
     },
     {
-      "id": "B2", "module": "B", "title": "North-east, South-east, South-west and South-south", "minutes": 10,
+      "id": "A5",
+      "module": "A",
+      "title": "Civics, geography and national symbols",
+      "minutes": 6,
       "sections": [
-        {"h": "North-east: Boko Haram and ISWAP", "p": [
-          "Boko Haram was founded in Maiduguri, Borno State, around 2002 by Mohammed Yusuf. After he was killed in police custody in 2009, Abubakar Shekau turned the group to mass violence. In April 2014 it kidnapped 276 schoolgirls from Chibok.",
-          "In 2015 Shekau pledged allegiance to the Islamic State. In 2016 the group split: the Islamic State West Africa Province (ISWAP) and Shekau's faction, Jama'atu Ahlis Sunna Lidda'awati wal-Jihad (JAS). Shekau died in May 2021 during a clash with ISWAP.",
-          "Nigeria's military campaign in the North-east is Operation Hadin Kai. Operation Safe Corridor (started 2016, based in Gombe) de-radicalises and reintegrates former fighters.",
-          "The Multinational Joint Task Force (MNJTF), headquartered in N'Djamena, brings together Nigeria, Niger, Chad, Cameroon and Benin around Lake Chad. Niger withdrew in March 2025, leaving a gap in border cooperation."
-        ]},
-        {"h": "South-east: IPOB", "p": [
-          "The Indigenous People of Biafra (IPOB) was founded in 2012 by Nnamdi Kanu to campaign for a separate state of Biafra, recalling the 1967–1970 civil war. A Nigerian court declared it a terrorist organisation in 2017. Its armed wing, the Eastern Security Network (ESN), was formed in December 2020.",
-          "Kanu was brought back to Nigeria from Kenya in June 2021. On 20 November 2025 the Federal High Court convicted him on terrorism charges and sentenced him to life imprisonment. IPOB rejected the judgment.",
-          "Since 2021 “sit-at-home” orders have shut down Monday business across much of the South-east, hurting the regional economy. Killings by unknown gunmen and attacks on police and electoral offices are part of the picture."
-        ]},
-        {"h": "South-west", "p": [
-          "Main threats: kidnapping on highways and farms, cultism, and clashes between farmers and herders. In January 2020 the six south-west states launched the Western Nigeria Security Network, known as Amotekun.",
-          "There is a Yoruba self-determination movement (often called Oodua or Yoruba Nation), associated with activist Sunday Igboho. On 5 June 2022 gunmen attacked St Francis Catholic Church in Owo, Ondo State; the government blamed ISWAP."
-        ]},
-        {"h": "South-south: the Niger Delta", "p": [
-          "The oil-producing Niger Delta has a history of militancy over pollution, poverty and control of oil revenue. Groups such as MEND attacked oil installations in the 2000s. The 2009 Presidential Amnesty Programme paid and retrained ex-militants. The Niger Delta Avengers resumed attacks in 2016.",
-          "Today's main problems are crude oil theft, illegal refining, pipeline vandalism and sea piracy and robbery in the Gulf of Guinea. The Deep Blue Project, launched in 2021, gave Nigeria new ships, aircraft and a command centre to police its waters, and piracy has fallen since."
-        ]}
+        {
+          "h": "The Constitution",
+          "p": [
+            "The 1999 Constitution is the supreme law. Chapter II sets out the Fundamental Objectives and Directive Principles of State Policy, which courts cannot enforce directly. Chapter IV lists fundamental human rights, which courts can enforce.",
+            "Section 14(2)(b) says that the security and welfare of the people shall be the primary purpose of government. Section 14(3) sets out the federal character principle: appointments should reflect Nigeria's diversity.",
+            "The President serves a four-year term and can serve at most two terms. The Not Too Young To Run Act (2018) lowered the minimum age for President from 40 to 35. Elections are run by the Independent National Electoral Commission (INEC), set up in 1998."
+          ]
+        },
+        {
+          "h": "Geography",
+          "p": [
+            "Nigeria borders Benin to the west, Niger to the north, Chad to the north-east and Cameroon to the east, with the Gulf of Guinea (Atlantic Ocean) to the south.",
+            "The River Niger and River Benue meet at Lokoja in Kogi State. The highest point is Chappal Waddi (about 2,419 m) in Taraba State. Kainji Dam on the Niger, in Niger State, is a major hydroelectric plant.",
+            "Oil was first found in commercial quantities at Oloibiri, in present-day Bayelsa State, in 1956. Lagos is the largest city. Nigeria is Africa's most populous country, with well over 200 million people.",
+            "The Bakassi Peninsula was handed to Cameroon after a 2002 International Court of Justice ruling and the 2006 Greentree Agreement; the handover was completed in August 2008."
+          ]
+        },
+        {
+          "h": "States over time",
+          "p": [
+            "Nigeria had three regions at independence (a fourth, the Mid-West, was created in 1963). Gowon created 12 states in 1967; there were 19 in 1976, 21 in 1987, 30 in 1991 and 36 in 1996."
+          ]
+        },
+        {
+          "h": "National symbols",
+          "p": [
+            "The green-white-green flag was designed by Michael Taiwo Akinkunmi. Green stands for agriculture and the land; white for peace and unity.",
+            "The coat of arms has a black shield (Nigeria's fertile soil) crossed by a white wavy Y (the Niger and Benue rivers), an eagle (strength), two horses (dignity) and costus spectabilis flowers. The motto is “Unity and Faith, Peace and Progress”.",
+            "In May 2024 the original 1960 anthem, “Nigeria, We Hail Thee”, was restored as the national anthem, replacing “Arise, O Compatriots” (adopted in 1978), which is now the national song.",
+            "The naira replaced the Nigerian pound on 1 January 1973. One naira is 100 kobo.",
+            "Wole Soyinka won the Nobel Prize in Literature in 1986, the first African to win it."
+          ]
+        }
       ],
       "sources": [
-        {"name": "Al Jazeera: Nigeria jails separatist leader Nnamdi Kanu for life (20 Nov 2025)", "url": "https://www.aljazeera.com/news/2025/11/20/nigeria-convicts-separatist-leader-nnamdi-kanu-on-terrorism-charges"},
-        {"name": "Al Jazeera: Nigeria and the Sahel, a growing security divide (22 Aug 2026)", "url": "https://www.aljazeera.com/news/2026/8/22/nigeria-and-the-sahel-a-growing-security-divide"},
-        {"name": "International Crisis Group: Nigeria", "url": "https://www.crisisgroup.org/africa/west-africa/nigeria"}
+        {
+          "name": "Constitution of the Federal Republic of Nigeria 1999 (as amended), Constitute Project",
+          "url": "https://www.constituteproject.org/constitution/Nigeria_2011"
+        },
+        {
+          "name": "Encyclopaedia Britannica: Nigeria",
+          "url": "https://www.britannica.com/place/Nigeria"
+        }
       ]
     },
     {
-      "id": "C1", "module": "C", "title": "Coups in the Sahel, the AES and ECOWAS", "minutes": 10,
+      "id": "B1",
+      "module": "B",
+      "title": "North-west banditry and North-central kidnapping",
+      "minutes": 9,
       "sections": [
-        {"h": "The coups", "p": [
-          "Mali had coups in August 2020 and May 2021 (Colonel Assimi Goïta). Burkina Faso had two in 2022: January (Damiba) and September (Captain Ibrahim Traoré). Niger's army overthrew President Mohamed Bazoum on 26 July 2023 and General Abdourahamane Tchiani took power.",
-          "The juntas said civilian governments and French forces had failed to stop jihadist violence. Popular frustration and anti-French feeling helped them."
-        ]},
-        {"h": "How ECOWAS responded", "p": [
-          "After the Niger coup, ECOWAS, then chaired by President Tinubu, imposed heavy sanctions, closed borders and threatened military intervention to restore Bazoum. Nigeria cut its electricity supply to Niger.",
-          "Intervention never happened. Sanctions hurt ordinary people on both sides of the border and were lifted in February 2024."
-        ]},
-        {"h": "The Alliance of Sahel States (AES)", "p": [
-          "On 16 September 2023 Mali, Burkina Faso and Niger signed the Liptako-Gourma Charter, a mutual defence pact creating the Alliance of Sahel States. In January 2024 they announced they were leaving ECOWAS. In July 2024 they formed a confederation. Their exit from ECOWAS took effect on 29 January 2025.",
-          "The AES has announced a joint military force and moved closer to Russia. Russia's Africa Corps replaced the Wagner group in Mali in 2025. French troops left all three countries by the end of 2023, and US forces left Niger in 2024. In September 2025 the three states said they would leave the International Criminal Court."
-        ]},
-        {"h": "What it means for Nigeria", "p": [
-          "Nigeria shares a border of about 1,600 km with Niger, touching Sokoto, Kebbi, Katsina, Jigawa, Yobe and Borno. Families, trade and cattle routes cross it every day.",
-          "Security: Niger's withdrawal from the MNJTF in March 2025 weakened cooperation against ISWAP and Boko Haram. Groups such as JNIM and Lakurawa exploit the gap between two security systems that do not talk to each other.",
-          "Diplomatic friction: in December 2025 Burkina Faso detained 11 Nigerian Air Force personnel over an airspace entry. On 30 July 2026 Tinubu criticised security in the AES states, and they rejected his assessment. In April 2026 coordinated attacks in Mali killed the defence minister, Sadio Camara.",
-          "Economy: trade with Niger, the electricity supply, and projects such as the Trans-Saharan Gas Pipeline (Nigeria–Niger–Algeria) depend on good relations. A balanced interview answer: Nigeria needs working security cooperation with its neighbours whatever their government, while still supporting a return to constitutional rule."
-        ]}
+        {
+          "h": "North-west: banditry",
+          "p": [
+            "Armed gangs, often called bandits, operate across Zamfara, Sokoto, Katsina, Kebbi and Kaduna, and into Niger State. They raid villages, rustle cattle, impose “taxes” on farmers and kidnap for ransom. They hide in large forests such as Rugu and Kamuku.",
+            "Roots: competition between farmers and herders for land and water, cattle rustling, illegal gold mining in Zamfara, and too few police for huge rural areas.",
+            "In 2025 there were 599 recorded banditry incidents in the North-west with 2,742 casualties, nearly double the year before. Around 30,000 gang members are estimated to operate across the north. Bello Turji is one of the best-known bandit leaders."
+          ]
+        },
+        {
+          "h": "Bandits as terrorists, and Lakurawa",
+          "p": [
+            "In 2022 a Federal High Court declared bandit groups to be terrorist organisations, which allows tougher military and legal action. The same year the Terrorism (Prevention and Prohibition) Act 2022 replaced earlier anti-terror law.",
+            "Lakurawa is a newer armed group on the Sokoto and Kebbi border with Niger. It began as fighters invited in to protect communities from bandits, then turned on them. It mixes crime with jihadist links. In early 2026 the al-Qaeda affiliate JNIM reportedly sent about 100 fighters to support it."
+          ]
+        },
+        {
+          "h": "The United States and the north-west",
+          "p": [
+            "In October 2025 the United States designated Nigeria a “Country of Particular Concern” over religious freedom. On 25 December 2025 US forces struck Islamic State targets in Sokoto State, which US officials said was done with Nigeria's cooperation.",
+            "In an interview, show that you understand both sides: Nigeria's government says the violence affects Muslims and Christians alike and is driven by crime and terrorism, while some foreign critics frame it as religious persecution."
+          ]
+        },
+        {
+          "h": "North-central: kidnapping and farmer–herder violence",
+          "p": [
+            "The North-central zone (Benue, Plateau, Nasarawa, Kogi, Kwara, Niger and the FCT) suffers kidnap-for-ransom on highways and in rural areas, and deadly clashes between herders and farming communities. Benue introduced an anti-open-grazing law in 2017.",
+            "Notable attacks: the March 2022 attack on the Abuja–Kaduna train; the June 2025 killings at Yelwata in Benue; and in November 2025 the abduction of more than 300 pupils and staff from St Mary's Catholic School, Papiri, in Niger State.",
+            "Mass school kidnappings started with Chibok in Borno in 2014 and spread to the North-west and North-central, for example Kuriga in Kaduna in March 2024."
+          ]
+        }
       ],
       "sources": [
-        {"name": "Al Jazeera: Nigeria and the Sahel, a growing security divide (22 Aug 2026)", "url": "https://www.aljazeera.com/news/2026/8/22/nigeria-and-the-sahel-a-growing-security-divide"},
-        {"name": "International Crisis Group: A Splinter in the Sahel", "url": "https://www.crisisgroup.org/qna/africa/sahel/burkina-faso-mali-niger/splinter-sahel-can-divorce-ecowas-be-averted"},
-        {"name": "The Conversation: ECOWAS without the Sahel states", "url": "https://theconversation.com/ecowas-without-the-sahel-states-how-the-split-is-testing-free-movement-and-regional-legitimacy-274501"}
+        {
+          "name": "Africa Defense Forum: Nigeria's banditry crisis worsens (Jul 2026)",
+          "url": "https://adf-magazine.com/2026/07/nigerias-banditry-crisis-worsens/"
+        },
+        {
+          "name": "Council on Foreign Relations: Nigeria Security Tracker",
+          "url": "https://www.cfr.org/nigeria/nigeria-security-tracker/p29483"
+        },
+        {
+          "name": "Al Jazeera: US launches Christmas Day strikes on IS targets in Nigeria",
+          "url": "https://www.ewn.co.za/2025/12/26/us-launches-christmas-day-strikes-on-is-targets-in-nigeria"
+        }
       ]
     },
     {
-      "id": "D1", "module": "D", "title": "The Russia–Ukraine war", "minutes": 8,
+      "id": "B2",
+      "module": "B",
+      "title": "North-east, South-east, South-west and South-south",
+      "minutes": 10,
       "sections": [
-        {"h": "How it started", "p": [
-          "Russia annexed Crimea from Ukraine in 2014 and backed separatist fighters in the eastern Donbas region (Donetsk and Luhansk).",
-          "On 24 February 2022 Russia launched a full-scale invasion. Its push on Kyiv failed. In September 2022 Russia claimed to annex four Ukrainian regions (Donetsk, Luhansk, Zaporizhzhia and Kherson), which most of the world does not recognise. Ukraine took back ground around Kharkiv and Kherson that autumn."
-        ]},
-        {"h": "The war since", "p": [
-          "Ukraine's 2023 counter-offensive failed to break through. Since then the war has become a slow, costly fight along a front line of roughly 1,100 km (700 miles), with heavy use of drones and missile strikes on cities and energy infrastructure.",
-          "In March 2023 the International Criminal Court issued an arrest warrant for President Putin over the deportation of Ukrainian children."
-        ]},
-        {"h": "Peace efforts", "p": [
-          "Since 2025 the Trump administration has pushed for a deal. Trump and Putin met in Alaska in August 2025. Russian and Ukrainian delegations held direct talks in Istanbul in 2025, which produced prisoner exchanges.",
-          "In early September 2026 US envoys Steve Witkoff and Jared Kushner met Putin and then went to Kyiv. President Zelenskyy rejected the proposal's territorial concessions. Russia demands that Ukraine stay out of NATO, accept Russian control of all of Donbas and parts of Zaporizhzhia, and limit its army. European governments (UK, France, Germany) are backing Ukraine and discussing security guarantees."
-        ]},
-        {"h": "Why it matters to Nigeria and Africa", "p": [
-          "The war pushed up world prices of wheat, fertiliser and fuel, which fed inflation in Nigeria. The Black Sea Grain Initiative (July 2022 to July 2023), brokered by Türkiye and the UN, briefly eased grain exports.",
-          "Nigeria voted for the March 2022 UN General Assembly resolution demanding Russian withdrawal, while keeping relations with both sides. A good interview line: Nigeria supports sovereignty and territorial integrity under the UN Charter and a negotiated peace."
-        ]}
+        {
+          "h": "North-east: Boko Haram and ISWAP",
+          "p": [
+            "Boko Haram was founded in Maiduguri, Borno State, around 2002 by Mohammed Yusuf. After he was killed in police custody in 2009, Abubakar Shekau turned the group to mass violence. In April 2014 it kidnapped 276 schoolgirls from Chibok.",
+            "In 2015 Shekau pledged allegiance to the Islamic State. In 2016 the group split: the Islamic State West Africa Province (ISWAP) and Shekau's faction, Jama'atu Ahlis Sunna Lidda'awati wal-Jihad (JAS). Shekau died in May 2021 during a clash with ISWAP.",
+            "Nigeria's military campaign in the North-east is Operation Hadin Kai. Operation Safe Corridor (started 2016, based in Gombe) de-radicalises and reintegrates former fighters.",
+            "The Multinational Joint Task Force (MNJTF), headquartered in N'Djamena, brings together Nigeria, Niger, Chad, Cameroon and Benin around Lake Chad. Niger withdrew in March 2025, leaving a gap in border cooperation."
+          ]
+        },
+        {
+          "h": "South-east: IPOB",
+          "p": [
+            "The Indigenous People of Biafra (IPOB) was founded in 2012 by Nnamdi Kanu to campaign for a separate state of Biafra, recalling the 1967–1970 civil war. A Nigerian court declared it a terrorist organisation in 2017. Its armed wing, the Eastern Security Network (ESN), was formed in December 2020.",
+            "Kanu was brought back to Nigeria from Kenya in June 2021. On 20 November 2025 the Federal High Court convicted him on terrorism charges and sentenced him to life imprisonment. IPOB rejected the judgment.",
+            "Since 2021 “sit-at-home” orders have shut down Monday business across much of the South-east, hurting the regional economy. Killings by unknown gunmen and attacks on police and electoral offices are part of the picture."
+          ]
+        },
+        {
+          "h": "South-west",
+          "p": [
+            "Main threats: kidnapping on highways and farms, cultism, and clashes between farmers and herders. In January 2020 the six south-west states launched the Western Nigeria Security Network, known as Amotekun.",
+            "There is a Yoruba self-determination movement (often called Oodua or Yoruba Nation), associated with activist Sunday Igboho. On 5 June 2022 gunmen attacked St Francis Catholic Church in Owo, Ondo State; the government blamed ISWAP."
+          ]
+        },
+        {
+          "h": "South-south: the Niger Delta",
+          "p": [
+            "The oil-producing Niger Delta has a history of militancy over pollution, poverty and control of oil revenue. Groups such as MEND attacked oil installations in the 2000s. The 2009 Presidential Amnesty Programme paid and retrained ex-militants. The Niger Delta Avengers resumed attacks in 2016.",
+            "Today's main problems are crude oil theft, illegal refining, pipeline vandalism and sea piracy and robbery in the Gulf of Guinea. The Deep Blue Project, launched in 2021, gave Nigeria new ships, aircraft and a command centre to police its waters, and piracy has fallen since."
+          ]
+        }
       ],
       "sources": [
-        {"name": "Christian Science Monitor: As US pitches peace talks, Russia trusts its military strategy (26 Sep 2026)", "url": "https://www.csmonitor.com/World/Europe/2026/0926/russia-ukraine-peace-talks-donbas-europe-trump"},
-        {"name": "Al Jazeera: US envoys arrive in Kyiv after meeting Putin (5 Sep 2026)", "url": "https://www.aljazeera.com/news/2026/9/5/russias-putin-meets-us-envoys-to-discuss-trump-proposal-to-end-ukraine-war"},
-        {"name": "UK House of Commons Library: Ukraine, a new push for peace", "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-12198/"}
+        {
+          "name": "Al Jazeera: Nigeria jails separatist leader Nnamdi Kanu for life (20 Nov 2025)",
+          "url": "https://www.aljazeera.com/news/2025/11/20/nigeria-convicts-separatist-leader-nnamdi-kanu-on-terrorism-charges"
+        },
+        {
+          "name": "Al Jazeera: Nigeria and the Sahel, a growing security divide (22 Aug 2026)",
+          "url": "https://www.aljazeera.com/news/2026/8/22/nigeria-and-the-sahel-a-growing-security-divide"
+        },
+        {
+          "name": "International Crisis Group: Nigeria",
+          "url": "https://www.crisisgroup.org/africa/west-africa/nigeria"
+        }
       ]
     },
     {
-      "id": "D2", "module": "D", "title": "The US/Israel–Iran war", "minutes": 9,
+      "id": "C1",
+      "module": "C",
+      "title": "Coups in the Sahel, the AES and ECOWAS",
+      "minutes": 10,
       "sections": [
-        {"h": "Background", "p": [
-          "Iran has been an Islamic Republic since the 1979 revolution and is hostile to Israel and the United States. The 2015 nuclear deal (JCPOA) limited Iran's nuclear programme in return for lifting sanctions; the US left it in 2018.",
-          "Iran and Israel exchanged direct strikes in 2024. In June 2025 they fought a 12-day war, during which the US bombed Iran's nuclear sites at Fordow, Natanz and Isfahan. UN sanctions on Iran were reimposed in September 2025."
-        ]},
-        {"h": "The 2026 war", "p": [
-          "On 28 February 2026 US and Israeli air strikes killed Iran's Supreme Leader, Ayatollah Ali Khamenei, and other senior officials, while nuclear talks were still under way. Iran fired missiles and drones at Israel and at US bases and Gulf states.",
-          "Gulf states including Saudi Arabia, the UAE, Kuwait and Bahrain were drawn in on the US side. Iran's allies (Hezbollah in Lebanon, Iraqi militias and Yemen's Houthis, who joined on 28 March) fought alongside it.",
-          "In late March Iran closed the Strait of Hormuz, through which about a fifth of the world's oil passes, stranding over 150 ships."
-        ]},
-        {"h": "Talks and ceasefires", "p": [
-          "Pakistan hosted the Islamabad Talks on 12–13 April 2026. They failed and the US imposed a naval blockade on Iran. Pakistan then brokered the Islamabad Memorandum on 17 June, which lifted both blockades, and a US–Iran ceasefire was announced on 28 June.",
-          "The ceasefire collapsed on 8 July when Iran attacked commercial ships, and the blockades resumed.",
-          "Since then Qatar has carried indirect talks, including in New York during the UN General Assembly in September 2026. Iran wants the Strait reopened, sanctions lifted, about $12 billion in frozen assets released and a ceasefire including Lebanon before nuclear talks. The US wants everything, including the nuclear programme, negotiated together. Oman and China have also played roles; China refused US calls to help reopen the Strait by force."
-        ]},
-        {"h": "Why it matters to Nigeria", "p": [
-          "Higher oil prices raise Nigeria's export earnings but also raise the cost of imported fuel and of shipping and insurance. Many Nigerians live and work in the Gulf.",
-          "A good interview line: Nigeria's interest is de-escalation, freedom of navigation and a negotiated settlement under the UN Charter, and the crisis shows why Nigeria should refine more of its own oil."
-        ]}
+        {
+          "h": "The coups",
+          "p": [
+            "Mali had coups in August 2020 and May 2021 (Colonel Assimi Goïta). Burkina Faso had two in 2022: January (Damiba) and September (Captain Ibrahim Traoré). Niger's army overthrew President Mohamed Bazoum on 26 July 2023 and General Abdourahamane Tchiani took power.",
+            "The juntas said civilian governments and French forces had failed to stop jihadist violence. Popular frustration and anti-French feeling helped them."
+          ]
+        },
+        {
+          "h": "How ECOWAS responded",
+          "p": [
+            "After the Niger coup, ECOWAS, then chaired by President Tinubu, imposed heavy sanctions, closed borders and threatened military intervention to restore Bazoum. Nigeria cut its electricity supply to Niger.",
+            "Intervention never happened. Sanctions hurt ordinary people on both sides of the border and were lifted in February 2024."
+          ]
+        },
+        {
+          "h": "The Alliance of Sahel States (AES)",
+          "p": [
+            "On 16 September 2023 Mali, Burkina Faso and Niger signed the Liptako-Gourma Charter, a mutual defence pact creating the Alliance of Sahel States. In January 2024 they announced they were leaving ECOWAS. In July 2024 they formed a confederation. Their exit from ECOWAS took effect on 29 January 2025.",
+            "The AES has announced a joint military force and moved closer to Russia. Russia's Africa Corps replaced the Wagner group in Mali in 2025. French troops left all three countries by the end of 2023, and US forces left Niger in 2024. In September 2025 the three states said they would leave the International Criminal Court."
+          ]
+        },
+        {
+          "h": "What it means for Nigeria",
+          "p": [
+            "Nigeria shares a border of about 1,600 km with Niger, touching Sokoto, Kebbi, Katsina, Jigawa, Yobe and Borno. Families, trade and cattle routes cross it every day.",
+            "Security: Niger's withdrawal from the MNJTF in March 2025 weakened cooperation against ISWAP and Boko Haram. Groups such as JNIM and Lakurawa exploit the gap between two security systems that do not talk to each other.",
+            "Diplomatic friction: in December 2025 Burkina Faso detained 11 Nigerian Air Force personnel over an airspace entry. On 30 July 2026 Tinubu criticised security in the AES states, and they rejected his assessment. In April 2026 coordinated attacks in Mali killed the defence minister, Sadio Camara.",
+            "Economy: trade with Niger, the electricity supply, and projects such as the Trans-Saharan Gas Pipeline (Nigeria–Niger–Algeria) depend on good relations. A balanced interview answer: Nigeria needs working security cooperation with its neighbours whatever their government, while still supporting a return to constitutional rule."
+          ]
+        }
       ],
       "sources": [
-        {"name": "Al Jazeera: US–Iran talks in New York, what's the latest? (29 Sep 2026)", "url": "https://www.aljazeera.com/news/2026/9/29/us-iran-talks-in-new-york-whats-the-latest"},
-        {"name": "Council on Foreign Relations: Conflict with Iran (Global Conflict Tracker)", "url": "https://www.cfr.org/global-conflict-tracker/conflict/confrontation-between-united-states-and-iran"},
-        {"name": "Wikipedia: 2026 Iran war (timeline for orientation)", "url": "https://en.wikipedia.org/wiki/2026_Iran_war"}
+        {
+          "name": "Al Jazeera: Nigeria and the Sahel, a growing security divide (22 Aug 2026)",
+          "url": "https://www.aljazeera.com/news/2026/8/22/nigeria-and-the-sahel-a-growing-security-divide"
+        },
+        {
+          "name": "International Crisis Group: A Splinter in the Sahel",
+          "url": "https://www.crisisgroup.org/qna/africa/sahel/burkina-faso-mali-niger/splinter-sahel-can-divorce-ecowas-be-averted"
+        },
+        {
+          "name": "The Conversation: ECOWAS without the Sahel states",
+          "url": "https://theconversation.com/ecowas-without-the-sahel-states-how-the-split-is-testing-free-movement-and-regional-legitimacy-274501"
+        }
       ]
     },
     {
-      "id": "D3", "module": "D", "title": "Israel and Palestine", "minutes": 9,
+      "id": "D1",
+      "module": "D",
+      "title": "The Russia–Ukraine war",
+      "minutes": 8,
       "sections": [
-        {"h": "Roots of the conflict", "p": [
-          "Israel was founded in 1948; hundreds of thousands of Palestinians fled or were expelled (Palestinians call it the Nakba). In the 1967 Six-Day War Israel occupied the West Bank, East Jerusalem and Gaza.",
-          "The 1993 Oslo Accords created the Palestinian Authority and promised a path to a two-state solution, which has not been achieved. Hamas took control of Gaza in 2007."
-        ]},
-        {"h": "The Gaza war", "p": [
-          "On 7 October 2023 Hamas attacked southern Israel, killing about 1,200 people and taking about 250 hostages. Israel's military campaign in Gaza killed more than 67,000 Palestinians by October 2025, according to Gaza's health ministry, and destroyed most of the territory. A famine was confirmed in Gaza City in August 2025.",
-          "South Africa brought a genocide case against Israel at the International Court of Justice in December 2023. In November 2024 the International Criminal Court issued arrest warrants for Prime Minister Netanyahu and former defence minister Gallant, and for a Hamas leader.",
-          "In September 2025 the UK, France, Canada and Australia recognised the State of Palestine."
-        ]},
-        {"h": "The ceasefire and the Board of Peace", "p": [
-          "President Trump published a 20-point peace plan on 29 September 2025. A ceasefire took effect on 10 October 2025 and the living hostages were released on 13 October.",
-          "On 17 November 2025 the UN Security Council passed Resolution 2803, endorsing a Board of Peace (chaired by Trump) to oversee Gaza's transition and an International Stabilization Force. A Palestinian technocratic committee, the National Committee for the Administration of Gaza, was set up to run daily affairs.",
-          "In September 2026 the Board of Peace unveiled a $2.4 billion reconstruction plan, but violence continues: Israel reported 18 ceasefire violations between 15 and 29 September, and Palestinians are still being killed."
-        ]},
-        {"h": "Nigeria's position", "p": [
-          "Nigeria has long supported a two-state solution, with an independent Palestinian state living alongside Israel in security. It maintains diplomatic relations with Israel and recognises Palestine."
-        ]}
+        {
+          "h": "How it started",
+          "p": [
+            "Russia annexed Crimea from Ukraine in 2014 and backed separatist fighters in the eastern Donbas region (Donetsk and Luhansk).",
+            "On 24 February 2022 Russia launched a full-scale invasion. Its push on Kyiv failed. In September 2022 Russia claimed to annex four Ukrainian regions (Donetsk, Luhansk, Zaporizhzhia and Kherson), which most of the world does not recognise. Ukraine took back ground around Kharkiv and Kherson that autumn."
+          ]
+        },
+        {
+          "h": "The war since",
+          "p": [
+            "Ukraine's 2023 counter-offensive failed to break through. Since then the war has become a slow, costly fight along a front line of roughly 1,100 km (700 miles), with heavy use of drones and missile strikes on cities and energy infrastructure.",
+            "In March 2023 the International Criminal Court issued an arrest warrant for President Putin over the deportation of Ukrainian children."
+          ]
+        },
+        {
+          "h": "Peace efforts",
+          "p": [
+            "Since 2025 the Trump administration has pushed for a deal. Trump and Putin met in Alaska in August 2025. Russian and Ukrainian delegations held direct talks in Istanbul in 2025, which produced prisoner exchanges.",
+            "In early September 2026 US envoys Steve Witkoff and Jared Kushner met Putin and then went to Kyiv. President Zelenskyy rejected the proposal's territorial concessions. Russia demands that Ukraine stay out of NATO, accept Russian control of all of Donbas and parts of Zaporizhzhia, and limit its army. European governments (UK, France, Germany) are backing Ukraine and discussing security guarantees."
+          ]
+        },
+        {
+          "h": "Why it matters to Nigeria and Africa",
+          "p": [
+            "The war pushed up world prices of wheat, fertiliser and fuel, which fed inflation in Nigeria. The Black Sea Grain Initiative (July 2022 to July 2023), brokered by Türkiye and the UN, briefly eased grain exports.",
+            "Nigeria voted for the March 2022 UN General Assembly resolution demanding Russian withdrawal, while keeping relations with both sides. A good interview line: Nigeria supports sovereignty and territorial integrity under the UN Charter and a negotiated peace."
+          ]
+        }
       ],
       "sources": [
-        {"name": "UK House of Commons Library: Gaza 2026, Board of Peace and National Transitional Committee", "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-10492/"},
-        {"name": "Al Jazeera: Board of Peace plans $2.4bn Gaza reconstruction (23 Sep 2026)", "url": "https://www.aljazeera.com/news/2026/9/23/board-of-peace-plans-2-4bn-gaza-reconstruction-as-israel-kills-seven"},
-        {"name": "FDD Long War Journal: Board of Peace unveils Gaza recovery plan (29 Sep 2026)", "url": "https://www.fdd.org/analysis/2026/09/29/board-of-peace-unveils-gaza-recovery-plan-israel-reports-18-ceasefire-violations-sept-15-29/"}
+        {
+          "name": "Christian Science Monitor: As US pitches peace talks, Russia trusts its military strategy (26 Sep 2026)",
+          "url": "https://www.csmonitor.com/World/Europe/2026/0926/russia-ukraine-peace-talks-donbas-europe-trump"
+        },
+        {
+          "name": "Al Jazeera: US envoys arrive in Kyiv after meeting Putin (5 Sep 2026)",
+          "url": "https://www.aljazeera.com/news/2026/9/5/russias-putin-meets-us-envoys-to-discuss-trump-proposal-to-end-ukraine-war"
+        },
+        {
+          "name": "UK House of Commons Library: Ukraine, a new push for peace",
+          "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-12198/"
+        }
       ]
     },
     {
-      "id": "D4", "module": "D", "title": "Other conflicts to know: Sudan and DR Congo", "minutes": 5,
+      "id": "D2",
+      "module": "D",
+      "title": "The US/Israel–Iran war",
+      "minutes": 9,
       "sections": [
-        {"h": "Sudan", "p": [
-          "War broke out on 15 April 2023 between the Sudanese Armed Forces (General Abdel Fattah al-Burhan) and the paramilitary Rapid Support Forces (General Mohamed Hamdan Dagalo, “Hemedti”).",
-          "It has created the world's largest displacement crisis, with more than 12 million people forced from their homes, and famine. In October 2025 the RSF captured El Fasher in Darfur, with reports of mass killings. The US, Saudi Arabia, the UAE and Egypt (the “Quad”) have pushed for a truce."
-        ]},
-        {"h": "Eastern DR Congo", "p": [
-          "The M23 rebel group, which UN experts say is backed by Rwanda, captured Goma in January 2025 and Bukavu in February 2025. The US brokered a DRC–Rwanda peace agreement signed in Washington in June 2025, and Qatar mediated a framework between the DRC government and M23. Fighting has continued despite both."
-        ]},
-        {"h": "Why these matter", "p": [
-          "They show the patterns an intelligence analyst watches: foreign backing of armed groups, competition over minerals, mediation by Gulf states and the US, and humanitarian crises that drive migration."
-        ]}
+        {
+          "h": "Background",
+          "p": [
+            "Iran has been an Islamic Republic since the 1979 revolution and is hostile to Israel and the United States. The 2015 nuclear deal (JCPOA) limited Iran's nuclear programme in return for lifting sanctions; the US left it in 2018.",
+            "Iran and Israel exchanged direct strikes in 2024. In June 2025 they fought a 12-day war, during which the US bombed Iran's nuclear sites at Fordow, Natanz and Isfahan. UN sanctions on Iran were reimposed in September 2025."
+          ]
+        },
+        {
+          "h": "The 2026 war",
+          "p": [
+            "On 28 February 2026 US and Israeli air strikes killed Iran's Supreme Leader, Ayatollah Ali Khamenei, and other senior officials, while nuclear talks were still under way. Iran fired missiles and drones at Israel and at US bases and Gulf states.",
+            "Gulf states including Saudi Arabia, the UAE, Kuwait and Bahrain were drawn in on the US side. Iran's allies (Hezbollah in Lebanon, Iraqi militias and Yemen's Houthis, who joined on 28 March) fought alongside it.",
+            "In late March Iran closed the Strait of Hormuz, through which about a fifth of the world's oil passes, stranding over 150 ships."
+          ]
+        },
+        {
+          "h": "Talks and ceasefires",
+          "p": [
+            "Pakistan hosted the Islamabad Talks on 12–13 April 2026. They failed and the US imposed a naval blockade on Iran. Pakistan then brokered the Islamabad Memorandum on 17 June, which lifted both blockades, and a US–Iran ceasefire was announced on 28 June.",
+            "The ceasefire collapsed on 8 July when Iran attacked commercial ships, and the blockades resumed.",
+            "Since then Qatar has carried indirect talks, including in New York during the UN General Assembly in September 2026. Iran wants the Strait reopened, sanctions lifted, about $12 billion in frozen assets released and a ceasefire including Lebanon before nuclear talks. The US wants everything, including the nuclear programme, negotiated together. Oman and China have also played roles; China refused US calls to help reopen the Strait by force."
+          ]
+        },
+        {
+          "h": "Why it matters to Nigeria",
+          "p": [
+            "Higher oil prices raise Nigeria's export earnings but also raise the cost of imported fuel and of shipping and insurance. Many Nigerians live and work in the Gulf.",
+            "A good interview line: Nigeria's interest is de-escalation, freedom of navigation and a negotiated settlement under the UN Charter, and the crisis shows why Nigeria should refine more of its own oil."
+          ]
+        }
       ],
       "sources": [
-        {"name": "Council on Foreign Relations: Global Conflict Tracker", "url": "https://www.cfr.org/global-conflict-tracker"},
-        {"name": "International Crisis Group: CrisisWatch", "url": "https://www.crisisgroup.org/crisiswatch"}
+        {
+          "name": "Al Jazeera: US–Iran talks in New York, what's the latest? (29 Sep 2026)",
+          "url": "https://www.aljazeera.com/news/2026/9/29/us-iran-talks-in-new-york-whats-the-latest"
+        },
+        {
+          "name": "Council on Foreign Relations: Conflict with Iran (Global Conflict Tracker)",
+          "url": "https://www.cfr.org/global-conflict-tracker/conflict/confrontation-between-united-states-and-iran"
+        },
+        {
+          "name": "Wikipedia: 2026 Iran war (timeline for orientation)",
+          "url": "https://en.wikipedia.org/wiki/2026_Iran_war"
+        }
       ]
     },
     {
-      "id": "E1", "module": "E", "title": "Global trade, economic decline and Nigeria", "minutes": 9,
+      "id": "D3",
+      "module": "D",
+      "title": "Israel and Palestine",
+      "minutes": 9,
       "sections": [
-        {"h": "Key terms", "p": [
-          "Recession: two consecutive quarters of falling GDP. Stagflation: slow growth plus high inflation. Protectionism: using tariffs and quotas to shield local industry. A tariff is a tax on imports.",
-          "De-globalisation or “fragmentation”: countries trading more with allies and less with rivals, and moving supply chains closer to home."
-        ]},
-        {"h": "What is slowing world trade", "p": [
-          "Since April 2025 the United States has imposed broad “reciprocal” tariffs on most trading partners, including Nigeria, and others have responded. The US–China trade fight continues.",
-          "The US African Growth and Opportunity Act (AGOA), which gave duty-free access to many African exports, lapsed in September 2025 and its future has been uncertain since.",
-          "Wars disrupt trade routes: the Russia–Ukraine war hit grain and fertiliser, Houthi attacks hit the Red Sea, and in 2026 the Iran war closed the Strait of Hormuz, sending oil and shipping costs up."
-        ]},
-        {"h": "Nigeria's economy", "p": [
-          "Nigeria depends heavily on oil for government revenue and foreign exchange. It is a member of OPEC (since 1971).",
-          "Since May 2023 the government removed the petrol subsidy and let the naira float, which caused a sharp rise in prices. The Dangote refinery (650,000 barrels a day, near Lagos) began production in 2024 and reduces dependence on imported fuel. New tax reform laws signed in 2025 took effect in 2026.",
-          "In October 2025 Nigeria was removed from the FATF “grey list” for money-laundering monitoring. In January 2025 it became a BRICS partner country. It is part of the African Continental Free Trade Area (AfCFTA), which began trading in January 2021."
-        ]},
-        {"h": "How to answer economy questions", "p": [
-          "Link global events to Nigerian effects: oil prices affect revenue and fuel costs; tariffs affect exports; a strong dollar affects the naira; food prices affect stability and can feed insecurity.",
-          "Economic security is national security: unemployment and poverty make recruitment by criminal and extremist groups easier."
-        ]}
+        {
+          "h": "Roots of the conflict",
+          "p": [
+            "Israel was founded in 1948; hundreds of thousands of Palestinians fled or were expelled (Palestinians call it the Nakba). In the 1967 Six-Day War Israel occupied the West Bank, East Jerusalem and Gaza.",
+            "The 1993 Oslo Accords created the Palestinian Authority and promised a path to a two-state solution, which has not been achieved. Hamas took control of Gaza in 2007."
+          ]
+        },
+        {
+          "h": "The Gaza war",
+          "p": [
+            "On 7 October 2023 Hamas attacked southern Israel, killing about 1,200 people and taking about 250 hostages. Israel's military campaign in Gaza killed more than 67,000 Palestinians by October 2025, according to Gaza's health ministry, and destroyed most of the territory. A famine was confirmed in Gaza City in August 2025.",
+            "South Africa brought a genocide case against Israel at the International Court of Justice in December 2023. In November 2024 the International Criminal Court issued arrest warrants for Prime Minister Netanyahu and former defence minister Gallant, and for a Hamas leader.",
+            "In September 2025 the UK, France, Canada and Australia recognised the State of Palestine."
+          ]
+        },
+        {
+          "h": "The ceasefire and the Board of Peace",
+          "p": [
+            "President Trump published a 20-point peace plan on 29 September 2025. A ceasefire took effect on 10 October 2025 and the living hostages were released on 13 October.",
+            "On 17 November 2025 the UN Security Council passed Resolution 2803, endorsing a Board of Peace (chaired by Trump) to oversee Gaza's transition and an International Stabilization Force. A Palestinian technocratic committee, the National Committee for the Administration of Gaza, was set up to run daily affairs.",
+            "In September 2026 the Board of Peace unveiled a $2.4 billion reconstruction plan, but violence continues: Israel reported 18 ceasefire violations between 15 and 29 September, and Palestinians are still being killed."
+          ]
+        },
+        {
+          "h": "Nigeria's position",
+          "p": [
+            "Nigeria has long supported a two-state solution, with an independent Palestinian state living alongside Israel in security. It maintains diplomatic relations with Israel and recognises Palestine."
+          ]
+        }
       ],
       "sources": [
-        {"name": "IMF: World Economic Outlook", "url": "https://www.imf.org/en/Publications/WEO"},
-        {"name": "WTO: Global Trade Outlook", "url": "https://www.wto.org/english/res_e/publications_e/trade_outlook_e.htm"},
-        {"name": "Central Bank of Nigeria", "url": "https://www.cbn.gov.ng/"}
+        {
+          "name": "UK House of Commons Library: Gaza 2026, Board of Peace and National Transitional Committee",
+          "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-10492/"
+        },
+        {
+          "name": "Al Jazeera: Board of Peace plans $2.4bn Gaza reconstruction (23 Sep 2026)",
+          "url": "https://www.aljazeera.com/news/2026/9/23/board-of-peace-plans-2-4bn-gaza-reconstruction-as-israel-kills-seven"
+        },
+        {
+          "name": "FDD Long War Journal: Board of Peace unveils Gaza recovery plan (29 Sep 2026)",
+          "url": "https://www.fdd.org/analysis/2026/09/29/board-of-peace-unveils-gaza-recovery-plan-israel-reports-18-ceasefire-violations-sept-15-29/"
+        }
       ]
     },
     {
-      "id": "F1", "module": "F", "title": "Terrorism and religious extremism", "minutes": 8,
+      "id": "D4",
+      "module": "D",
+      "title": "Other conflicts to know: Sudan and DR Congo",
+      "minutes": 5,
       "sections": [
-        {"h": "What terrorism is", "p": [
-          "Terrorism is the use or threat of violence, usually against civilians, to intimidate a population or force a government to act for political, religious or ideological ends. In Nigeria the governing law is the Terrorism (Prevention and Prohibition) Act 2022, which also created the National Counter Terrorism Centre under the Office of the National Security Adviser."
-        ]},
-        {"h": "Groups to know", "p": [
-          "In Nigeria: JAS (Boko Haram), ISWAP, Ansaru (linked to al-Qaeda), Lakurawa, and bandit groups declared terrorists. IPOB is also proscribed as a terrorist organisation.",
-          "In the Sahel: JNIM (al-Qaeda's Sahel affiliate, formed 2017) and Islamic State Sahel Province. Elsewhere in Africa: al-Shabaab (Somalia) and IS affiliates in Mozambique and the DR Congo.",
-          "According to the Global Terrorism Index, the Sahel has become the world's epicentre of terrorism, accounting for over half of global terrorism deaths in recent editions."
-        ]},
-        {"h": "Why people join", "p": [
-          "Common drivers: poverty and unemployment, poor governance and corruption, grievances against security forces, lack of education (including the large number of out-of-school children), local disputes that armed groups exploit, and online propaganda.",
-          "Religious extremism twists faith into a justification for violence. Most victims of jihadist groups in Nigeria are themselves Muslims."
-        ]},
-        {"h": "How Nigeria responds", "p": [
-          "Military operations (such as Operation Hadin Kai in the North-east), intelligence-led arrests, cutting off terrorist financing through the Nigerian Financial Intelligence Unit (NFIU), and de-radicalisation through Operation Safe Corridor.",
-          "Nigeria adopted a Policy Framework and National Action Plan for Preventing and Countering Violent Extremism in 2017, which stresses community engagement, education and good governance alongside force."
-        ]}
+        {
+          "h": "Sudan",
+          "p": [
+            "War broke out on 15 April 2023 between the Sudanese Armed Forces (General Abdel Fattah al-Burhan) and the paramilitary Rapid Support Forces (General Mohamed Hamdan Dagalo, “Hemedti”).",
+            "It has created the world's largest displacement crisis, with more than 12 million people forced from their homes, and famine. In October 2025 the RSF captured El Fasher in Darfur, with reports of mass killings. The US, Saudi Arabia, the UAE and Egypt (the “Quad”) have pushed for a truce."
+          ]
+        },
+        {
+          "h": "Eastern DR Congo",
+          "p": [
+            "The M23 rebel group, which UN experts say is backed by Rwanda, captured Goma in January 2025 and Bukavu in February 2025. The US brokered a DRC–Rwanda peace agreement signed in Washington in June 2025, and Qatar mediated a framework between the DRC government and M23. Fighting has continued despite both."
+          ]
+        },
+        {
+          "h": "Why these matter",
+          "p": [
+            "They show the patterns an intelligence analyst watches: foreign backing of armed groups, competition over minerals, mediation by Gulf states and the US, and humanitarian crises that drive migration."
+          ]
+        }
       ],
       "sources": [
-        {"name": "Institute for Economics & Peace: Global Terrorism Index", "url": "https://www.visionofhumanity.org/maps/global-terrorism-index/"},
-        {"name": "Africa Defense Forum: Nigeria's banditry crisis worsens (Jul 2026)", "url": "https://adf-magazine.com/2026/07/nigerias-banditry-crisis-worsens/"}
+        {
+          "name": "Council on Foreign Relations: Global Conflict Tracker",
+          "url": "https://www.cfr.org/global-conflict-tracker"
+        },
+        {
+          "name": "International Crisis Group: CrisisWatch",
+          "url": "https://www.crisisgroup.org/crisiswatch"
+        }
       ]
     },
     {
-      "id": "F2", "module": "F", "title": "Human trafficking and organised crime", "minutes": 8,
+      "id": "E1",
+      "module": "E",
+      "title": "Global trade, economic decline and Nigeria",
+      "minutes": 9,
       "sections": [
-        {"h": "Human trafficking", "p": [
-          "Trafficking means recruiting, moving or holding people by force, fraud or coercion in order to exploit them: for sex work, forced labour, domestic servitude, organ removal or forced crime. The main international law is the UN Palermo Protocol (2000).",
-          "Nigeria set up the National Agency for the Prohibition of Trafficking in Persons (NAPTIP) in 2003. The current law is the Trafficking in Persons (Prohibition) Enforcement and Administration Act 2015.",
-          "Common routes go from southern Nigeria (Edo State has been a major source) through Niger and the Sahara to Libya, then across the Mediterranean to Europe, or to the Gulf states. Traffickers have used juju oaths to control victims; in March 2018 the Oba of Benin revoked such oaths. “Baby factories” are another form of trafficking."
-        ]},
-        {"h": "Drugs", "p": [
-          "The National Drug Law Enforcement Agency (NDLEA, created 1989) fights drug trafficking. West Africa is a transit route for cocaine from South America to Europe, and tramadol and cannabis abuse is widespread in Nigeria."
-        ]},
-        {"h": "Arms, cybercrime and illegal mining", "p": [
-          "Small arms flow in from the Sahel and Libya. ECOWAS has a Convention on Small Arms and Light Weapons (2006), and Nigeria created the National Centre for the Control of Small Arms and Light Weapons in 2021.",
-          "Cybercrime (online fraud, romance scams, sextortion) is prosecuted under the Cybercrimes (Prohibition, Prevention, etc.) Act 2015, amended in 2024, mainly by the EFCC.",
-          "Illegal gold mining in the North-west helps finance bandit groups."
-        ]},
-        {"h": "Why this is an intelligence issue", "p": [
-          "These crimes cross borders, use the same smuggling routes as terrorists, and generate money that funds armed groups. Tracking them needs cooperation with neighbouring countries and international partners such as UNODC and Interpol."
-        ]}
+        {
+          "h": "Key terms",
+          "p": [
+            "Recession: two consecutive quarters of falling GDP. Stagflation: slow growth plus high inflation. Protectionism: using tariffs and quotas to shield local industry. A tariff is a tax on imports.",
+            "De-globalisation or “fragmentation”: countries trading more with allies and less with rivals, and moving supply chains closer to home."
+          ]
+        },
+        {
+          "h": "What is slowing world trade",
+          "p": [
+            "Since April 2025 the United States has imposed broad “reciprocal” tariffs on most trading partners, including Nigeria, and others have responded. The US–China trade fight continues.",
+            "The US African Growth and Opportunity Act (AGOA), which gave duty-free access to many African exports, lapsed in September 2025 and its future has been uncertain since.",
+            "Wars disrupt trade routes: the Russia–Ukraine war hit grain and fertiliser, Houthi attacks hit the Red Sea, and in 2026 the Iran war closed the Strait of Hormuz, sending oil and shipping costs up."
+          ]
+        },
+        {
+          "h": "Nigeria's economy",
+          "p": [
+            "Nigeria depends heavily on oil for government revenue and foreign exchange. It is a member of OPEC (since 1971).",
+            "Since May 2023 the government removed the petrol subsidy and let the naira float, which caused a sharp rise in prices. The Dangote refinery (650,000 barrels a day, near Lagos) began production in 2024 and reduces dependence on imported fuel. New tax reform laws signed in 2025 took effect in 2026.",
+            "In October 2025 Nigeria was removed from the FATF “grey list” for money-laundering monitoring. In January 2025 it became a BRICS partner country. It is part of the African Continental Free Trade Area (AfCFTA), which began trading in January 2021."
+          ]
+        },
+        {
+          "h": "How to answer economy questions",
+          "p": [
+            "Link global events to Nigerian effects: oil prices affect revenue and fuel costs; tariffs affect exports; a strong dollar affects the naira; food prices affect stability and can feed insecurity.",
+            "Economic security is national security: unemployment and poverty make recruitment by criminal and extremist groups easier."
+          ]
+        }
       ],
       "sources": [
-        {"name": "UNODC: Human trafficking", "url": "https://www.unodc.org/unodc/en/human-trafficking/"},
-        {"name": "NAPTIP", "url": "https://naptip.gov.ng/"}
+        {
+          "name": "IMF: World Economic Outlook",
+          "url": "https://www.imf.org/en/Publications/WEO"
+        },
+        {
+          "name": "WTO: Global Trade Outlook",
+          "url": "https://www.wto.org/english/res_e/publications_e/trade_outlook_e.htm"
+        },
+        {
+          "name": "Central Bank of Nigeria",
+          "url": "https://www.cbn.gov.ng/"
+        }
       ]
     },
     {
-      "id": "G1", "module": "G", "title": "Nigeria's foreign policy and the 4-D doctrine", "minutes": 8,
+      "id": "F1",
+      "module": "F",
+      "title": "Terrorism and religious extremism",
+      "minutes": 8,
       "sections": [
-        {"h": "The 4-D doctrine", "p": [
-          "In 2023 the Tinubu government, through then Foreign Minister Yusuf Tuggar, set out a foreign policy built on four Ds: Democracy, Development, Demography and Diaspora.",
-          "Democracy: defend democratic rule in the region and resist coups. Development: use diplomacy to attract investment, trade and jobs. Demography: treat Nigeria's large, young population as an asset to be skilled and employed. Diaspora: engage Nigerians abroad, whose remittances are a major source of foreign exchange (around $20 billion a year).",
-          "Tuggar stepped down in April 2026 to contest the 2027 elections. The current Foreign Minister is Ambassador Bianca Odumegwu-Ojukwu. The Nigerians in Diaspora Commission (NiDCOM, created 2017) handles diaspora affairs."
-        ]},
-        {"h": "Earlier doctrines", "p": [
-          "Africa as the centrepiece (Afrocentrism), from independence in 1960: Nigeria championed decolonisation and the fight against apartheid. Concentric circles (1980s, associated with Ibrahim Gambari): Nigeria's interests ranked from its neighbours outward. Economic diplomacy (Babangida era). Citizen diplomacy (from 2007): putting the welfare of Nigerians at the centre. The Technical Aid Corps (1987) sends Nigerian professionals to other developing countries."
-        ]},
-        {"h": "Nigeria in international bodies", "p": [
-          "Nigeria joined the UN on 7 October 1960 and has served five terms on the UN Security Council. It was a founder of the Organisation of African Unity (1963, now the African Union) and of ECOWAS (Treaty of Lagos, 28 May 1975). ECOWAS headquarters is in Abuja.",
-          "Nigeria led the ECOMOG peacekeeping force in Liberia and Sierra Leone in the 1990s and is a major contributor to UN peacekeeping."
-        ]},
-        {"h": "Using the 4-D in an interview", "p": [
-          "If asked about the Sahel, mention Democracy. About the economy or trade, mention Development. About youth and jobs, Demography. About migration or Nigerians abroad, Diaspora. Linking current events to the government's stated policy shows you think like a public servant."
-        ]}
+        {
+          "h": "What terrorism is",
+          "p": [
+            "Terrorism is the use or threat of violence, usually against civilians, to intimidate a population or force a government to act for political, religious or ideological ends. In Nigeria the governing law is the Terrorism (Prevention and Prohibition) Act 2022, which also created the National Counter Terrorism Centre under the Office of the National Security Adviser."
+          ]
+        },
+        {
+          "h": "Groups to know",
+          "p": [
+            "In Nigeria: JAS (Boko Haram), ISWAP, Ansaru (linked to al-Qaeda), Lakurawa, and bandit groups declared terrorists. IPOB is also proscribed as a terrorist organisation.",
+            "In the Sahel: JNIM (al-Qaeda's Sahel affiliate, formed 2017) and Islamic State Sahel Province. Elsewhere in Africa: al-Shabaab (Somalia) and IS affiliates in Mozambique and the DR Congo.",
+            "According to the Global Terrorism Index, the Sahel has become the world's epicentre of terrorism, accounting for over half of global terrorism deaths in recent editions."
+          ]
+        },
+        {
+          "h": "Why people join",
+          "p": [
+            "Common drivers: poverty and unemployment, poor governance and corruption, grievances against security forces, lack of education (including the large number of out-of-school children), local disputes that armed groups exploit, and online propaganda.",
+            "Religious extremism twists faith into a justification for violence. Most victims of jihadist groups in Nigeria are themselves Muslims."
+          ]
+        },
+        {
+          "h": "How Nigeria responds",
+          "p": [
+            "Military operations (such as Operation Hadin Kai in the North-east), intelligence-led arrests, cutting off terrorist financing through the Nigerian Financial Intelligence Unit (NFIU), and de-radicalisation through Operation Safe Corridor.",
+            "Nigeria adopted a Policy Framework and National Action Plan for Preventing and Countering Violent Extremism in 2017, which stresses community engagement, education and good governance alongside force."
+          ]
+        }
       ],
       "sources": [
-        {"name": "BusinessDay: Tinubu's foreign policy will be guided by four Ds, Tuggar", "url": "https://businessday.ng/news/article/tinubus-foreign-policy-will-be-guided-by-four-ds-tuggar/"},
-        {"name": "Ministry of Foreign Affairs", "url": "https://foreignaffairs.gov.ng/"}
+        {
+          "name": "Institute for Economics & Peace: Global Terrorism Index",
+          "url": "https://www.visionofhumanity.org/maps/global-terrorism-index/"
+        },
+        {
+          "name": "Africa Defense Forum: Nigeria's banditry crisis worsens (Jul 2026)",
+          "url": "https://adf-magazine.com/2026/07/nigerias-banditry-crisis-worsens/"
+        }
       ]
     },
     {
-      "id": "I1", "module": "I", "title": "Preparing for the interview", "minutes": 8,
+      "id": "F2",
+      "module": "F",
+      "title": "Human trafficking and organised crime",
+      "minutes": 8,
       "sections": [
-        {"h": "First impressions", "p": [
-          "Dress formally and conservatively. Arrive early with all your documents in order.",
-          "On entering, greet the panel and do not sit until you are invited to. Sit upright, keep your hands still, and look at whoever is asking the question while including the rest of the panel."
-        ]},
-        {"h": "Answer every question", "p": [
-          "Never refuse a question or go silent. If you don't know a fact, say what you do know and reason towards an answer: “I'm not certain of the exact date, but I know it followed the 2023 coup in Niger, and it took effect in early 2025.” Honest reasoning is better than guessing confidently.",
-          "Keep answers structured: give your point, a reason, an example, and a short conclusion."
-        ]},
-        {"h": "Your self-appraisal", "p": [
-          "Prepare a 60–90 second introduction: your name, local government area and state of origin, date of birth, schools attended and qualifications, achievements or awards, and work experience. Use the builder in this app to write it, then practise until it sounds natural rather than memorised."
-        ]},
-        {"h": "Your vision", "p": [
-          "Panels often ask what you want to contribute. Link your skills to the Agency's mission: protecting Nigeria's interests abroad. Mention qualities that matter in intelligence work: discretion, loyalty, curiosity, languages, analytical thinking, resilience.",
-          "Be ready for questions on why you want this job, your strengths and weaknesses, how you handle pressure, and what you would do if asked to keep a secret from family."
-        ]},
-        {"h": "Close well", "p": [
-          "Have one thoughtful question ready, such as asking about training or the qualities of officers who succeed. Thank the panel before you leave."
-        ]}
+        {
+          "h": "Human trafficking",
+          "p": [
+            "Trafficking means recruiting, moving or holding people by force, fraud or coercion in order to exploit them: for sex work, forced labour, domestic servitude, organ removal or forced crime. The main international law is the UN Palermo Protocol (2000).",
+            "Nigeria set up the National Agency for the Prohibition of Trafficking in Persons (NAPTIP) in 2003. The current law is the Trafficking in Persons (Prohibition) Enforcement and Administration Act 2015.",
+            "Common routes go from southern Nigeria (Edo State has been a major source) through Niger and the Sahara to Libya, then across the Mediterranean to Europe, or to the Gulf states. Traffickers have used juju oaths to control victims; in March 2018 the Oba of Benin revoked such oaths. “Baby factories” are another form of trafficking."
+          ]
+        },
+        {
+          "h": "Drugs",
+          "p": [
+            "The National Drug Law Enforcement Agency (NDLEA, created 1989) fights drug trafficking. West Africa is a transit route for cocaine from South America to Europe, and tramadol and cannabis abuse is widespread in Nigeria."
+          ]
+        },
+        {
+          "h": "Arms, cybercrime and illegal mining",
+          "p": [
+            "Small arms flow in from the Sahel and Libya. ECOWAS has a Convention on Small Arms and Light Weapons (2006), and Nigeria created the National Centre for the Control of Small Arms and Light Weapons in 2021.",
+            "Cybercrime (online fraud, romance scams, sextortion) is prosecuted under the Cybercrimes (Prohibition, Prevention, etc.) Act 2015, amended in 2024, mainly by the EFCC.",
+            "Illegal gold mining in the North-west helps finance bandit groups."
+          ]
+        },
+        {
+          "h": "Why this is an intelligence issue",
+          "p": [
+            "These crimes cross borders, use the same smuggling routes as terrorists, and generate money that funds armed groups. Tracking them needs cooperation with neighbouring countries and international partners such as UNODC and Interpol."
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "name": "UNODC: Human trafficking",
+          "url": "https://www.unodc.org/unodc/en/human-trafficking/"
+        },
+        {
+          "name": "NAPTIP",
+          "url": "https://naptip.gov.ng/"
+        }
+      ]
+    },
+    {
+      "id": "G1",
+      "module": "G",
+      "title": "Nigeria's foreign policy and the 4-D doctrine",
+      "minutes": 8,
+      "sections": [
+        {
+          "h": "The 4-D doctrine",
+          "p": [
+            "In 2023 the Tinubu government, through then Foreign Minister Yusuf Tuggar, set out a foreign policy built on four Ds: Democracy, Development, Demography and Diaspora.",
+            "Democracy: defend democratic rule in the region and resist coups. Development: use diplomacy to attract investment, trade and jobs. Demography: treat Nigeria's large, young population as an asset to be skilled and employed. Diaspora: engage Nigerians abroad, whose remittances are a major source of foreign exchange (around $20 billion a year).",
+            "Tuggar stepped down in April 2026 to contest the 2027 elections. The current Foreign Minister is Ambassador Bianca Odumegwu-Ojukwu. The Nigerians in Diaspora Commission (NiDCOM, created 2017) handles diaspora affairs."
+          ]
+        },
+        {
+          "h": "Earlier doctrines",
+          "p": [
+            "Africa as the centrepiece (Afrocentrism), from independence in 1960: Nigeria championed decolonisation and the fight against apartheid. Concentric circles (1980s, associated with Ibrahim Gambari): Nigeria's interests ranked from its neighbours outward. Economic diplomacy (Babangida era). Citizen diplomacy (from 2007): putting the welfare of Nigerians at the centre. The Technical Aid Corps (1987) sends Nigerian professionals to other developing countries."
+          ]
+        },
+        {
+          "h": "Nigeria in international bodies",
+          "p": [
+            "Nigeria joined the UN on 7 October 1960 and has served five terms on the UN Security Council. It was a founder of the Organisation of African Unity (1963, now the African Union) and of ECOWAS (Treaty of Lagos, 28 May 1975). ECOWAS headquarters is in Abuja.",
+            "Nigeria led the ECOMOG peacekeeping force in Liberia and Sierra Leone in the 1990s and is a major contributor to UN peacekeeping."
+          ]
+        },
+        {
+          "h": "Using the 4-D in an interview",
+          "p": [
+            "If asked about the Sahel, mention Democracy. About the economy or trade, mention Development. About youth and jobs, Demography. About migration or Nigerians abroad, Diaspora. Linking current events to the government's stated policy shows you think like a public servant."
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "name": "BusinessDay: Tinubu's foreign policy will be guided by four Ds, Tuggar",
+          "url": "https://businessday.ng/news/article/tinubus-foreign-policy-will-be-guided-by-four-ds-tuggar/"
+        },
+        {
+          "name": "Ministry of Foreign Affairs",
+          "url": "https://foreignaffairs.gov.ng/"
+        }
+      ]
+    },
+    {
+      "id": "I1",
+      "module": "I",
+      "title": "Preparing for the interview",
+      "minutes": 8,
+      "sections": [
+        {
+          "h": "First impressions",
+          "p": [
+            "Dress formally and conservatively. Arrive early with all your documents in order.",
+            "On entering, greet the panel and do not sit until you are invited to. Sit upright, keep your hands still, and look at whoever is asking the question while including the rest of the panel."
+          ]
+        },
+        {
+          "h": "Answer every question",
+          "p": [
+            "Never refuse a question or go silent. If you don't know a fact, say what you do know and reason towards an answer: “I'm not certain of the exact date, but I know it followed the 2023 coup in Niger, and it took effect in early 2025.” Honest reasoning is better than guessing confidently.",
+            "Keep answers structured: give your point, a reason, an example, and a short conclusion."
+          ]
+        },
+        {
+          "h": "Your self-appraisal",
+          "p": [
+            "Prepare a 60–90 second introduction: your name, local government area and state of origin, date of birth, schools attended and qualifications, achievements or awards, and work experience. Use the builder in this app to write it, then practise until it sounds natural rather than memorised."
+          ]
+        },
+        {
+          "h": "Your vision",
+          "p": [
+            "Panels often ask what you want to contribute. Link your skills to the Agency's mission: protecting Nigeria's interests abroad. Mention qualities that matter in intelligence work: discretion, loyalty, curiosity, languages, analytical thinking, resilience.",
+            "Be ready for questions on why you want this job, your strengths and weaknesses, how you handle pressure, and what you would do if asked to keep a secret from family."
+          ]
+        },
+        {
+          "h": "Close well",
+          "p": [
+            "Have one thoughtful question ready, such as asking about training or the qualities of officers who succeed. Thank the panel before you leave."
+          ]
+        }
       ],
       "sources": []
     }

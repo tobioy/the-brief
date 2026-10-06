@@ -11,6 +11,8 @@ A study app for the National Intelligence Agency (Nigeria) entrance exam and int
 
 Each day takes about 35 minutes: the Daily Brief, a lesson, flashcards, a quiz, an English or maths drill, and one interview question. Days 7 and 14 have mock exams. After the 14-day bootcamp it switches to a daily routine that targets weak topics, with a mock exam every Sunday.
 
+**Progress → Daily reminder** adds a repeating alert to the iPhone Calendar (calendar files in `docs/reminders/`).
+
 Progress lives on the phone. **Progress → Share progress report** sends a summary by WhatsApp, iMessage or email. **Progress → Back up or restore** gives a code to move progress to a new phone.
 
 ## How it stays current

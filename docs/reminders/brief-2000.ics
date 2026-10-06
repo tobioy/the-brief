@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//The Brief//Daily reminder//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:the-brief-daily-2000@tobioy.github.io
+DTSTAMP:20261006T000000Z
+DTSTART:20261006T200000
+DURATION:PT35M
+RRULE:FREQ=DAILY
+SUMMARY:The Brief: 35 minutes of NIA prep
+DESCRIPTION:Open The Brief from your home screen and start today's session.\nhttps://tobioy.github.io/the-brief/
+URL:https://tobioy.github.io/the-brief/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Time for The Brief
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -44,7 +44,7 @@
 
   // ---------- state ----------
   function blankState() {
-    return { v: 1, start: null, name: '', examDate: '', days: {}, cards: {}, qlog: {}, answers: [], apt: [], mocks: [], interviews: [], lessons: {}, briefRead: {}, extraCards: [], appraisal: {}, seenIntro: false };
+    return { v: 1, start: null, name: '', examDate: '', days: {}, cards: {}, qlog: {}, answers: [], apt: [], mocks: [], interviews: [], lessons: {}, briefRead: {}, extraCards: [], appraisal: {}, seenIntro: false, reminder: '' };
   }
   function load() {
     try { var raw = localStorage.getItem(STORE_KEY); if (raw) { var s = JSON.parse(raw); return Object.assign(blankState(), s); } } catch (e) {}
@@ -87,7 +87,7 @@
     // daily mode: weakest unit with a lesson, a rotating drill, a random interview question
     var isSunday = new Date().getDay() === 0;
     var weakest = weakUnits(1)[0] || pick(C.units.units).id;
-    var drills = ['percentages', 'synonyms', 'ratios', 'comprehension', 'series', 'tables', 'interest', 'idioms', 'logic', 'correction'];
+    var drills = ['percentages', 'synonyms', 'ratios', 'comprehension', 'series', 'tables', 'interest', 'idioms', 'averages', 'logic', 'fractions', 'correction', 'speed', 'mixed'];
     var iv = C.interview[n % C.interview.length].id;
     if (isSunday) return { mode: 'daily', day: n, title: 'Weekly mock exam', units: [], mock: 40, drill: 'none', interview: iv };
     return { mode: 'daily', day: n, title: 'Review: ' + C.unitById[weakest].title, units: [weakest], drill: drills[n % drills.length], interview: iv };
@@ -108,7 +108,7 @@
     return t;
   }
   function drillName(d) {
-    return ({ mixed: 'mixed English and maths', percentages: 'percentages', synonyms: 'synonyms and antonyms', ratios: 'ratios', comprehension: 'comprehension', series: 'number series', tables: 'reading tables', interest: 'interest and profit', idioms: 'idioms and concord', logic: 'logical reasoning', correction: 'sentence correction' })[d] || d;
+    return ({ mixed: 'mixed English and maths', percentages: 'percentages', synonyms: 'synonyms and antonyms', ratios: 'ratios', comprehension: 'comprehension', series: 'number series', tables: 'reading tables', interest: 'interest and profit', averages: 'averages', speed: 'speed, distance and time', fractions: 'fractions', idioms: 'idioms and concord', logic: 'logical reasoning', correction: 'sentence correction' })[d] || d;
   }
 
   // ---------- active-time tracking ----------
@@ -241,6 +241,23 @@
       var cost = pick([2000, 4000, 5000, 8000, 10000]), p = pick([10, 20, 25, 40, 50]), sell = cost * (100 + p) / 100; var o3 = numOptions(p, 10, function (v) { return v + '%'; });
       return { q: 'A trader buys goods for ₦' + fmtNum(cost) + ' and sells them for ₦' + fmtNum(sell) + '. What is the profit percentage?', o: o3.o, a: o3.a, x: 'Profit ' + fmtNum(sell - cost) + ' ÷ cost ' + fmtNum(cost) + ' × 100 = ' + p + '%' };
     },
+    averages: function () {
+      var n = rint(4, 6), vals = []; for (var i = 0; i < n; i++) vals.push(rint(40, 95));
+      var sum = vals.reduce(function (a, b) { return a + b; }, 0), extra = (sum % n) ? n - (sum % n) : 0; vals[0] += extra; sum += extra;
+      var ans = sum / n, o = numOptions(ans, 6);
+      return { q: 'A candidate scored ' + vals.join(', ') + ' in ' + n + ' tests. What is the average score?', o: o.o, a: o.a, x: 'Total ' + sum + ' ÷ ' + n + ' = ' + ans };
+    },
+    speed: function () {
+      var t = rint(0, 1);
+      if (t === 0) { var v = pick([40, 50, 60, 75, 80, 90]), h = pick([2, 3, 4, 5]); var d = v * h; var o = numOptions(d, 30, function (x) { return x + ' km'; }); return { q: 'A convoy travels at ' + v + ' km/h for ' + h + ' hours. How far does it go?', o: o.o, a: o.a, x: 'Distance = speed × time = ' + v + ' × ' + h + ' = ' + d + ' km' }; }
+      var v2 = pick([40, 50, 60, 80]), h2 = pick([2, 3, 4, 5, 6]); var d2 = v2 * h2; var o2 = numOptions(h2, 2, function (x) { return x + ' hours'; });
+      return { q: 'Abuja to a town is ' + d2 + ' km. At ' + v2 + ' km/h, how long does the journey take?', o: o2.o, a: o2.a, x: 'Time = distance ÷ speed = ' + d2 + ' ÷ ' + v2 + ' = ' + h2 + ' hours' };
+    },
+    fractions: function () {
+      var den = pick([3, 4, 5, 6, 8]), num = rint(1, den - 1), k = pick([2, 3, 4, 5, 6, 10]), total = den * k * pick([1, 2, 3]);
+      var ans = total / den * num, o = numOptions(ans, Math.max(3, Math.round(ans / 4)));
+      return { q: num + '/' + den + ' of ' + total + ' recruits passed the first test. How many passed?', o: o.o, a: o.a, x: total + ' ÷ ' + den + ' × ' + num + ' = ' + ans };
+    },
     tables: function () {
       var states = shuffle(['Zamfara', 'Sokoto', 'Katsina', 'Kaduna', 'Kebbi', 'Niger']).slice(0, 4);
       var months = ['Jul', 'Aug', 'Sep'];
@@ -259,7 +276,7 @@
   var ENGLISH_TYPES = { synonyms: ['synonyms', 'antonyms'], comprehension: ['comprehension'], idioms: ['idioms', 'concord'], correction: ['correction'], logic: ['logic'] };
   function aptitudeSet(drill, n) {
     var out = [];
-    var maths = ['percentages', 'ratios', 'series', 'interest', 'tables'];
+    var maths = ['percentages', 'ratios', 'series', 'interest', 'tables', 'averages', 'speed', 'fractions'];
     if (GEN[drill]) { for (var i = 0; i < n; i++) out.push(Object.assign({ id: 'gen-' + drill, kind: drill, u: 'H' }, GEN[drill]())); return out; }
     if (ENGLISH_TYPES[drill]) {
       var pool = C.english.filter(function (e) { return ENGLISH_TYPES[drill].indexOf(e.type) >= 0; });
@@ -367,6 +384,7 @@
     }).join('') + '</div>';
     if (!allDone) h += '<button class="btn block" data-act="task" data-key="' + esc(next.key) + '">' + (Object.keys(done).length ? 'Continue session' : 'Start session') + '</button>';
     else h += '<button class="btn block" data-act="extra">Extra round: 15 minutes</button>';
+    if (!S.reminder) h += '<button class="card tight row between" data-act="reminder" style="text-align:left;width:100%"><span><b>Set a daily reminder</b><br><span class="small muted">Adds a repeating alert to your iPhone calendar.</span></span><span class="chev">›</span></button>';
     if (plan.interviewNote) h += '<p class="small muted">Interview note: ' + esc(plan.interviewNote) + '</p>';
     if (weak && Object.keys(S.qlog).length > 5) h += '<button class="card tight row between" data-act="unit" data-unit="' + weak + '" style="text-align:left;width:100%"><span>Weak spot: <b>' + esc(C.unitById[weak].title) + '</b></span><span class="pill warn">review</span></button>';
     if (!allDone) h += '<button class="btn quiet" data-act="extra">Extra round: 15 minutes</button>';
@@ -459,7 +477,7 @@
   ACT.appraisal = function () { openAppraisal(); };
   ACT.aptpick = function () {
     openSheet('English & maths', function (body) {
-      var kinds = ['mixed', 'percentages', 'ratios', 'series', 'interest', 'tables', 'synonyms', 'idioms', 'correction', 'comprehension', 'logic'];
+      var kinds = ['mixed', 'percentages', 'ratios', 'fractions', 'averages', 'speed', 'series', 'interest', 'tables', 'synonyms', 'idioms', 'correction', 'comprehension', 'logic'];
       body.innerHTML = '<div class="sheet-inner"><p class="muted">Pick a drill. Each round is 8 questions.</p><div class="list">' + kinds.map(function (k) { return '<button class="item" data-k="' + k + '"><span class="grow t">' + esc(drillName(k)) + '</span><span class="chev">›</span></button>'; }).join('') + '</div></div>';
       $all('[data-k]', body).forEach(function (b) { b.onclick = function () { closeSheet(); runQuiz(aptitudeSet(b.dataset.k, 8), 'Aptitude: ' + drillName(b.dataset.k), { apt: true }); }; });
     });
@@ -709,6 +727,7 @@
     h += '<button class="btn block" data-act="report">Share progress report</button>';
     h += '<h3>Settings</h3><div class="list">' +
       '<button class="item" data-act="setname"><span class="grow t">Name on report</span><span class="muted small">' + esc(S.name || 'Not set') + '</span></button>' +
+      '<button class="item" data-act="reminder"><span class="grow t">Daily reminder</span><span class="muted small">' + (S.reminder ? esc(S.reminder) : 'Not set') + '</span></button>' +
       '<button class="item" data-act="setexam"><span class="grow t">Exam date</span><span class="muted small">' + (S.examDate ? fmtDate(S.examDate) : 'Not announced') + '</span></button>' +
       '<button class="item" data-act="backup"><span class="grow t">Back up or restore progress</span><span class="chev">›</span></button>' +
       '<button class="item" data-act="reset"><span class="grow t" style="color:var(--bad)">Start over</span></button></div>';
@@ -746,6 +765,17 @@
         var ta = $('#rep', body);
         (navigator.clipboard ? navigator.clipboard.writeText(text) : Promise.reject()).then(function () { toast('Copied'); }, function () { ta.select(); toast('Select all and copy'); });
       };
+    });
+  };
+  var REMINDER_TIMES = [['0600', '6:00 am'], ['0700', '7:00 am'], ['1300', '1:00 pm'], ['1800', '6:00 pm'], ['2000', '8:00 pm'], ['2100', '9:00 pm']];
+  ACT.reminder = function () {
+    openSheet('Daily reminder', function (body) {
+      body.innerHTML = '<div class="sheet-inner"><p>Pick a time. Your iPhone will show the calendar event: tap <b>Add to Calendar</b> (or “Add All”). You will then get an alert at that time every day.</p>' +
+        '<div class="list">' + REMINDER_TIMES.map(function (t) { return '<a class="item" style="text-decoration:none;color:inherit" href="reminders/brief-' + t[0] + '.ics" data-t="' + t[1] + '"><span class="grow t">' + t[1] + '</span><span class="chev">›</span></a>'; }).join('') + '</div>' +
+        '<p class="small muted">To change the time later, delete “The Brief” event from your Calendar app and pick a new time here. If nothing happens when you tap, open the app in Safari and try again there.</p>' +
+        (S.reminder ? '<button class="btn ghost block" id="clr">I removed my reminder</button>' : '') + '</div>';
+      $all('[data-t]', body).forEach(function (a) { a.addEventListener('click', function () { S.reminder = a.dataset.t; save(); }); });
+      var c = $('#clr', body); if (c) c.onclick = function () { S.reminder = ''; save(); closeSheet(); };
     });
   };
   ACT.setname = function () {

@@ -1,139 +1,995 @@
 {
-  "updated": "2026-10-05",
+  "updated": "2026-10-06",
   "cards": [
-    {"id": "A1-01", "unit": "A1", "front": "In what year was the NIA created?", "back": "1986, when the National Security Organisation (NSO) was split into the SSS (now DSS), the NIA and the DIA."},
-    {"id": "A1-02", "unit": "A1", "front": "Which law created the NIA, DSS and DIA?", "back": "The National Security Agencies Act (Decree No. 19 of 1986)."},
-    {"id": "A1-03", "unit": "A1", "front": "What is the NIA's core responsibility?", "back": "Maintaining Nigeria's security outside Nigeria on non-military matters: foreign intelligence and counter-intelligence abroad."},
-    {"id": "A1-04", "unit": "A1", "front": "DSS vs NIA vs DIA: who does what?", "back": "DSS: domestic security and intelligence. NIA: foreign (external) intelligence. DIA: military intelligence."},
-    {"id": "A1-05", "unit": "A1", "front": "Who is Director-General of the NIA? (checked Oct 2026)", "back": "Ambassador Mohammed Mohammed, appointed 26 August 2024."},
-    {"id": "A1-06", "unit": "A1", "front": "Who is the National Security Adviser? (checked Oct 2026)", "back": "Mallam Nuhu Ribadu, appointed June 2023."},
-    {"id": "A1-07", "unit": "A1", "front": "Who is Director-General of the DSS? (checked Oct 2026)", "back": "Adeola Ajayi, appointed 26 August 2024."},
-    {"id": "A1-08", "unit": "A1", "front": "Which office coordinates Nigeria's intelligence agencies?", "back": "The Office of the National Security Adviser (ONSA)."},
-    {"id": "A1-09", "unit": "A1", "front": "Who did Mohammed Mohammed replace as NIA DG?", "back": "Ambassador Ahmed Rufai Abubakar."},
-    {"id": "A2-01", "unit": "A2", "front": "How many states and LGAs does Nigeria have?", "back": "36 states plus the FCT, and 774 local government areas."},
-    {"id": "A2-02", "unit": "A2", "front": "How many members in the Senate and House of Representatives?", "back": "Senate: 109. House of Representatives: 360."},
-    {"id": "A2-03", "unit": "A2", "front": "Name the seven North-west states.", "back": "Jigawa, Kaduna, Kano, Katsina, Kebbi, Sokoto, Zamfara."},
-    {"id": "A2-04", "unit": "A2", "front": "Name the six North-east states.", "back": "Adamawa, Bauchi, Borno, Gombe, Taraba, Yobe."},
-    {"id": "A2-05", "unit": "A2", "front": "Name the six North-central states.", "back": "Benue, Kogi, Kwara, Nasarawa, Niger, Plateau (plus the FCT)."},
-    {"id": "A2-06", "unit": "A2", "front": "Name the five South-east states.", "back": "Abia, Anambra, Ebonyi, Enugu, Imo."},
-    {"id": "A2-07", "unit": "A2", "front": "Name the six South-south states.", "back": "Akwa Ibom, Bayelsa, Cross River, Delta, Edo, Rivers."},
-    {"id": "A2-08", "unit": "A2", "front": "Name the six South-west states.", "back": "Ekiti, Lagos, Ogun, Ondo, Osun, Oyo."},
-    {"id": "A2-09", "unit": "A2", "front": "Who is Nigeria's Foreign Minister? (checked Oct 2026)", "back": "Ambassador Bianca Odumegwu-Ojukwu, elevated in April 2026 after Yusuf Tuggar stepped down."},
-    {"id": "A2-10", "unit": "A2", "front": "Who is Minister of Defence? (checked Oct 2026)", "back": "General Christopher Musa (rtd), former Chief of Defence Staff."},
-    {"id": "A2-11", "unit": "A2", "front": "Who is Chief of Defence Staff? (checked Oct 2026)", "back": "General Olufemi Oluyede, appointed 24 October 2025."},
-    {"id": "A2-12", "unit": "A2", "front": "Who are the Senate President and the Speaker? (checked Oct 2026)", "back": "Senate President Godswill Akpabio; Speaker Tajudeen Abbas."},
-    {"id": "A3-01", "unit": "A3", "front": "List the stages of the intelligence cycle.", "back": "Planning and direction, collection, processing, analysis and production, dissemination, then feedback."},
-    {"id": "A3-02", "unit": "A3", "front": "HUMINT, SIGINT, OSINT: what do they mean?", "back": "Human intelligence (from people), signals intelligence (from intercepted communications), open-source intelligence (from public information)."},
-    {"id": "A3-03", "unit": "A3", "front": "What is counter-intelligence?", "back": "Protecting your own secrets, people and systems from foreign spying, recruitment and sabotage."},
-    {"id": "A3-04", "unit": "A3", "front": "What does “need-to-know” mean?", "back": "You only get access to classified information that you need for your specific duties, whatever your clearance level."},
-    {"id": "A3-05", "unit": "A3", "front": "Which Nigerian law protects classified information?", "back": "The Official Secrets Act (1962)."},
-    {"id": "A3-06", "unit": "A3", "front": "Strategic vs tactical intelligence?", "back": "Strategic informs long-term policy and planning. Tactical supports a specific, immediate operation."},
-    {"id": "B1-01", "unit": "B1", "front": "Which zone is the centre of banditry?", "back": "The North-west, especially Zamfara and Sokoto, plus Katsina, Kebbi and Kaduna."},
-    {"id": "B1-02", "unit": "B1", "front": "What are the main roots of banditry?", "back": "Farmer–herder competition, cattle rustling, illegal gold mining, large ungoverned forests and too few police."},
-    {"id": "B1-03", "unit": "B1", "front": "When were bandit groups declared terrorists?", "back": "In 2022, by a Federal High Court ruling."},
-    {"id": "B1-04", "unit": "B1", "front": "What is Lakurawa?", "back": "An armed group on the Sokoto–Kebbi border with Niger that began as hired protection against bandits, then turned on communities. It mixes crime and jihadist links."},
-    {"id": "B1-05", "unit": "B1", "front": "North-west banditry in 2025: how many incidents and casualties?", "back": "599 incidents and 2,742 casualties, nearly double 2024."},
-    {"id": "B1-06", "unit": "B1", "front": "What happened in Sokoto on 25 December 2025?", "back": "US forces struck Islamic State targets, with Nigerian cooperation according to US officials."},
-    {"id": "B1-07", "unit": "B1", "front": "What did the US designate Nigeria in October 2025?", "back": "A “Country of Particular Concern” over religious freedom."},
-    {"id": "B1-08", "unit": "B1", "front": "What happened on the Abuja–Kaduna train in March 2022?", "back": "Gunmen bombed and attacked the train, killing passengers and kidnapping dozens."},
-    {"id": "B1-09", "unit": "B1", "front": "Which school was attacked in Niger State in November 2025?", "back": "St Mary's Catholic School, Papiri: more than 300 pupils and staff were abducted."},
-    {"id": "B1-10", "unit": "B1", "front": "Which state passed an anti-open-grazing law in 2017?", "back": "Benue State."},
-    {"id": "B2-01", "unit": "B2", "front": "Who founded Boko Haram, where and when?", "back": "Mohammed Yusuf, in Maiduguri, Borno State, around 2002."},
-    {"id": "B2-02", "unit": "B2", "front": "When were the Chibok girls kidnapped and how many?", "back": "April 2014: 276 schoolgirls."},
-    {"id": "B2-03", "unit": "B2", "front": "When did Boko Haram split into JAS and ISWAP?", "back": "2016, after the group's 2015 pledge to the Islamic State."},
-    {"id": "B2-04", "unit": "B2", "front": "How and when did Abubakar Shekau die?", "back": "May 2021, during a clash with ISWAP fighters."},
-    {"id": "B2-05", "unit": "B2", "front": "What is the MNJTF and which members remain?", "back": "The Multinational Joint Task Force against Boko Haram and ISWAP, based in N'Djamena: Nigeria, Chad, Cameroon and Benin. Niger left in March 2025."},
-    {"id": "B2-06", "unit": "B2", "front": "What is Operation Safe Corridor?", "back": "Nigeria's de-radicalisation and reintegration programme for ex-fighters, started in 2016 in Gombe."},
-    {"id": "B2-07", "unit": "B2", "front": "What is the military's North-east operation called?", "back": "Operation Hadin Kai."},
-    {"id": "B2-08", "unit": "B2", "front": "When was IPOB founded and by whom?", "back": "2012, by Nnamdi Kanu."},
-    {"id": "B2-09", "unit": "B2", "front": "What sentence did Nnamdi Kanu receive and when?", "back": "Life imprisonment on terrorism charges, 20 November 2025."},
-    {"id": "B2-10", "unit": "B2", "front": "What is the ESN?", "back": "The Eastern Security Network, IPOB's armed wing, formed in December 2020."},
-    {"id": "B2-11", "unit": "B2", "front": "What is Amotekun?", "back": "The Western Nigeria Security Network, launched by the six South-west states in January 2020."},
-    {"id": "B2-12", "unit": "B2", "front": "What was the 2009 Presidential Amnesty Programme?", "back": "A programme that paid, disarmed and retrained Niger Delta militants."},
-    {"id": "B2-13", "unit": "B2", "front": "What is the Deep Blue Project?", "back": "Nigeria's maritime security programme, launched 2021, with ships, aircraft and a command centre to fight piracy in the Gulf of Guinea."},
-    {"id": "B2-14", "unit": "B2", "front": "What happened in Owo, Ondo State, on 5 June 2022?", "back": "Gunmen attacked St Francis Catholic Church during Mass; the government blamed ISWAP."},
-    {"id": "C1-01", "unit": "C1", "front": "When was Niger's coup and who took power?", "back": "26 July 2023. General Abdourahamane Tchiani overthrew President Mohamed Bazoum."},
-    {"id": "C1-02", "unit": "C1", "front": "Who leads Burkina Faso?", "back": "Captain Ibrahim Traoré, since the September 2022 coup."},
-    {"id": "C1-03", "unit": "C1", "front": "Who leads Mali?", "back": "Assimi Goïta, after coups in August 2020 and May 2021."},
-    {"id": "C1-04", "unit": "C1", "front": "What founded the Alliance of Sahel States and when?", "back": "The Liptako-Gourma Charter, signed 16 September 2023."},
-    {"id": "C1-05", "unit": "C1", "front": "When did the AES exit from ECOWAS take effect?", "back": "29 January 2025."},
-    {"id": "C1-06", "unit": "C1", "front": "Who chaired ECOWAS during the Niger coup?", "back": "President Bola Tinubu of Nigeria."},
-    {"id": "C1-07", "unit": "C1", "front": "How did Nigeria pressure Niger after the coup?", "back": "Border closure, ECOWAS sanctions, cutting electricity supply, and the threat of military intervention. Sanctions were lifted in February 2024."},
-    {"id": "C1-08", "unit": "C1", "front": "Roughly how long is the Nigeria–Niger border?", "back": "About 1,600 km, touching Sokoto, Kebbi, Katsina, Jigawa, Yobe and Borno."},
-    {"id": "C1-09", "unit": "C1", "front": "Which foreign force now backs Mali's junta?", "back": "Russia's Africa Corps, which replaced the Wagner group in 2025."},
-    {"id": "C1-10", "unit": "C1", "front": "What happened to 11 Nigerian Air Force personnel in December 2025?", "back": "Burkina Faso detained them over an unauthorised airspace entry."},
-    {"id": "C1-11", "unit": "C1", "front": "What is JNIM?", "back": "Al-Qaeda's Sahel affiliate, formed 2017, active in Mali and Burkina Faso and spreading toward coastal states and Nigeria."},
-    {"id": "C1-12", "unit": "C1", "front": "Which gas pipeline would link Nigeria, Niger and Algeria?", "back": "The Trans-Saharan Gas Pipeline."},
-    {"id": "D1-01", "unit": "D1", "front": "When did Russia launch its full-scale invasion of Ukraine?", "back": "24 February 2022."},
-    {"id": "D1-02", "unit": "D1", "front": "When did Russia annex Crimea?", "back": "2014."},
-    {"id": "D1-03", "unit": "D1", "front": "Which four Ukrainian regions did Russia claim to annex in 2022?", "back": "Donetsk, Luhansk, Zaporizhzhia and Kherson."},
-    {"id": "D1-04", "unit": "D1", "front": "What are Russia's main peace demands (2026)?", "back": "No NATO for Ukraine, Russian control of all of Donbas and parts of Zaporizhzhia, limits on Ukraine's army."},
-    {"id": "D1-05", "unit": "D1", "front": "Which US envoys carried the September 2026 peace proposal?", "back": "Steve Witkoff and Jared Kushner. Zelenskyy rejected its territorial concessions."},
-    {"id": "D1-06", "unit": "D1", "front": "What was the Black Sea Grain Initiative?", "back": "A Türkiye- and UN-brokered deal (July 2022 to July 2023) that let Ukraine export grain by sea."},
-    {"id": "D1-07", "unit": "D1", "front": "How did Nigeria vote on the March 2022 UN resolution on Ukraine?", "back": "In favour of the resolution demanding Russia withdraw."},
-    {"id": "D1-08", "unit": "D1", "front": "Why did the ICC issue an arrest warrant for Putin?", "back": "Over the unlawful deportation of Ukrainian children (March 2023)."},
-    {"id": "D2-01", "unit": "D2", "front": "When did the 2026 Iran war begin and how?", "back": "28 February 2026, with US and Israeli strikes that killed Supreme Leader Ali Khamenei."},
-    {"id": "D2-02", "unit": "D2", "front": "Why does the Strait of Hormuz matter?", "back": "About a fifth of the world's oil passes through it. Iran closed it in late March 2026."},
-    {"id": "D2-03", "unit": "D2", "front": "Which country hosted the April 2026 US–Iran talks?", "back": "Pakistan: the Islamabad Talks, 12–13 April. They failed and the US imposed a naval blockade."},
-    {"id": "D2-04", "unit": "D2", "front": "What was the Islamabad Memorandum?", "back": "A 17 June 2026 deal, brokered by Pakistan, that lifted the US and Iranian blockades."},
-    {"id": "D2-05", "unit": "D2", "front": "When was the US–Iran ceasefire, and when did it collapse?", "back": "Announced 28 June 2026; collapsed 8 July when Iran attacked commercial ships."},
-    {"id": "D2-06", "unit": "D2", "front": "Who mediates US–Iran talks now (Sept 2026)?", "back": "Qatar, with indirect talks in New York during the UN General Assembly."},
-    {"id": "D2-07", "unit": "D2", "front": "What is the main sticking point in US–Iran talks?", "back": "Sequencing: Iran wants Hormuz, sanctions and a ceasefire settled first and nuclear talks later; the US wants everything together."},
-    {"id": "D2-08", "unit": "D2", "front": "Which Iranian allies joined the 2026 war?", "back": "Hezbollah, Iraqi militias and the Houthis (from 28 March)."},
-    {"id": "D2-09", "unit": "D2", "front": "What was the JCPOA?", "back": "The 2015 Iran nuclear deal. The US withdrew in 2018."},
-    {"id": "D2-10", "unit": "D2", "front": "What happened in June 2025 between Israel and Iran?", "back": "A 12-day war; the US bombed nuclear sites at Fordow, Natanz and Isfahan."},
-    {"id": "D3-01", "unit": "D3", "front": "What happened on 7 October 2023?", "back": "Hamas attacked southern Israel, killing about 1,200 people and taking about 250 hostages."},
-    {"id": "D3-02", "unit": "D3", "front": "When did the Gaza ceasefire take effect?", "back": "10 October 2025, under President Trump's 20-point plan."},
-    {"id": "D3-03", "unit": "D3", "front": "What is UN Security Council Resolution 2803?", "back": "The November 2025 resolution endorsing the Board of Peace and an International Stabilization Force for Gaza."},
-    {"id": "D3-04", "unit": "D3", "front": "Who chairs the Board of Peace?", "back": "US President Donald Trump."},
-    {"id": "D3-05", "unit": "D3", "front": "Which country took Israel to the ICJ for genocide?", "back": "South Africa, in December 2023."},
-    {"id": "D3-06", "unit": "D3", "front": "What did the 1993 Oslo Accords create?", "back": "The Palestinian Authority and a framework toward a two-state solution."},
-    {"id": "D3-07", "unit": "D3", "front": "Which Western countries recognised Palestine in September 2025?", "back": "The UK, France, Canada and Australia."},
-    {"id": "D3-08", "unit": "D3", "front": "What is Nigeria's position on Israel–Palestine?", "back": "Support for a two-state solution; relations with Israel and recognition of Palestine."},
-    {"id": "D3-09", "unit": "D3", "front": "How much is the Board of Peace's Gaza reconstruction plan (Sept 2026)?", "back": "$2.4 billion."},
-    {"id": "D4-01", "unit": "D4", "front": "Who is fighting in Sudan's war, and since when?", "back": "Since 15 April 2023: the Sudanese Armed Forces (Burhan) against the Rapid Support Forces (Hemedti)."},
-    {"id": "D4-02", "unit": "D4", "front": "Which Darfur city did the RSF capture in October 2025?", "back": "El Fasher."},
-    {"id": "D4-03", "unit": "D4", "front": "Which rebel group took Goma in January 2025?", "back": "M23, which UN experts say is backed by Rwanda."},
-    {"id": "E1-01", "unit": "E1", "front": "Define a recession.", "back": "Two consecutive quarters of falling GDP."},
-    {"id": "E1-02", "unit": "E1", "front": "Define stagflation.", "back": "Slow or no economic growth combined with high inflation."},
-    {"id": "E1-03", "unit": "E1", "front": "What is a tariff?", "back": "A tax on imported goods."},
-    {"id": "E1-04", "unit": "E1", "front": "When did Nigeria remove the petrol subsidy?", "back": "May 2023, at the start of the Tinubu administration."},
-    {"id": "E1-05", "unit": "E1", "front": "What is the Dangote refinery's capacity?", "back": "650,000 barrels per day, near Lagos."},
-    {"id": "E1-06", "unit": "E1", "front": "When did Nigeria leave the FATF grey list?", "back": "October 2025."},
-    {"id": "E1-07", "unit": "E1", "front": "What is Nigeria's status in BRICS?", "back": "Partner country since January 2025."},
-    {"id": "E1-08", "unit": "E1", "front": "What is AfCFTA and when did trading start?", "back": "The African Continental Free Trade Area; trading began 1 January 2021."},
-    {"id": "E1-09", "unit": "E1", "front": "Since when has Nigeria been in OPEC?", "back": "1971."},
-    {"id": "E1-10", "unit": "E1", "front": "What was AGOA and what happened to it?", "back": "A US law giving many African exports duty-free access. It lapsed in September 2025."},
-    {"id": "F1-01", "unit": "F1", "front": "What is Nigeria's main anti-terrorism law?", "back": "The Terrorism (Prevention and Prohibition) Act 2022."},
-    {"id": "F1-02", "unit": "F1", "front": "What does the National Counter Terrorism Centre do and where is it?", "back": "It coordinates counter-terrorism; it sits in the Office of the National Security Adviser."},
-    {"id": "F1-03", "unit": "F1", "front": "Which agency tracks terrorist financing in Nigeria?", "back": "The Nigerian Financial Intelligence Unit (NFIU)."},
-    {"id": "F1-04", "unit": "F1", "front": "Which region does the Global Terrorism Index call the epicentre of terrorism?", "back": "The Sahel, with over half of global terrorism deaths."},
-    {"id": "F1-05", "unit": "F1", "front": "Name four common drivers of radicalisation.", "back": "Poverty and unemployment, poor governance, grievances against security forces, lack of education, plus online propaganda."},
-    {"id": "F1-06", "unit": "F1", "front": "What is Ansaru?", "back": "A Nigerian jihadist group aligned with al-Qaeda, which split from Boko Haram."},
-    {"id": "F1-07", "unit": "F1", "front": "When did Nigeria adopt its plan for preventing violent extremism?", "back": "2017: the Policy Framework and National Action Plan for Preventing and Countering Violent Extremism."},
-    {"id": "F2-01", "unit": "F2", "front": "When was NAPTIP created?", "back": "2003."},
-    {"id": "F2-02", "unit": "F2", "front": "What is Nigeria's current anti-trafficking law?", "back": "The Trafficking in Persons (Prohibition) Enforcement and Administration Act 2015."},
-    {"id": "F2-03", "unit": "F2", "front": "What is the Palermo Protocol?", "back": "The UN protocol (2000) to prevent, suppress and punish trafficking in persons."},
-    {"id": "F2-04", "unit": "F2", "front": "What did the Oba of Benin do in March 2018?", "back": "He revoked the juju oaths traffickers used to control victims."},
-    {"id": "F2-05", "unit": "F2", "front": "What is the main trafficking route to Europe?", "back": "Southern Nigeria → Niger (Agadez) → across the Sahara to Libya → the Mediterranean."},
-    {"id": "F2-06", "unit": "F2", "front": "Which agency fights drug trafficking?", "back": "The NDLEA, created in 1989."},
-    {"id": "F2-07", "unit": "F2", "front": "Which ECOWAS treaty controls small arms?", "back": "The ECOWAS Convention on Small Arms and Light Weapons (2006)."},
-    {"id": "F2-08", "unit": "F2", "front": "Which law covers cybercrime in Nigeria?", "back": "The Cybercrimes (Prohibition, Prevention, etc.) Act 2015, amended in 2024."},
-    {"id": "G1-01", "unit": "G1", "front": "What are the 4 Ds of Nigeria's foreign policy?", "back": "Democracy, Development, Demography, Diaspora."},
-    {"id": "G1-02", "unit": "G1", "front": "Who introduced the 4-D doctrine?", "back": "Yusuf Tuggar, as Foreign Minister, in 2023."},
-    {"id": "G1-03", "unit": "G1", "front": "What does “Demography” mean in the 4-D doctrine?", "back": "Treating Nigeria's large, young population as an asset to be educated, skilled and employed."},
-    {"id": "G1-04", "unit": "G1", "front": "What does “Diaspora” mean in the 4-D doctrine?", "back": "Engaging Nigerians abroad for investment, skills and remittances (around $20 billion a year)."},
-    {"id": "G1-05", "unit": "G1", "front": "What is the “concentric circles” doctrine?", "back": "A 1980s approach ranking Nigeria's interests from its immediate neighbours outward to West Africa, Africa and the world."},
-    {"id": "G1-06", "unit": "G1", "front": "When and where was ECOWAS founded?", "back": "28 May 1975, by the Treaty of Lagos. Its headquarters is in Abuja."},
-    {"id": "G1-07", "unit": "G1", "front": "When did Nigeria join the UN?", "back": "7 October 1960."},
-    {"id": "G1-08", "unit": "G1", "front": "What was ECOMOG?", "back": "The ECOWAS peacekeeping force, led by Nigeria, in Liberia and Sierra Leone in the 1990s."},
-    {"id": "G1-09", "unit": "G1", "front": "What is NiDCOM?", "back": "The Nigerians in Diaspora Commission, created in 2017."},
-    {"id": "G1-10", "unit": "G1", "front": "What is the Technical Aid Corps?", "back": "A scheme (since 1987) sending Nigerian professionals to work in other developing countries."},
-    {"id": "I1-01", "unit": "I1", "front": "You walk into the interview room. What do you do?", "back": "Greet the panel and stay standing until you are invited to sit."},
-    {"id": "I1-02", "unit": "I1", "front": "You don't know the answer to a question. What do you do?", "back": "Answer anyway: say what you do know, reason out loud, and be honest about uncertainty. Never stay silent."},
-    {"id": "I1-03", "unit": "I1", "front": "What goes in your self-appraisal?", "back": "Name, LGA and state of origin, date of birth, schools and qualifications, achievements or awards, work experience."},
-    {"id": "I1-04", "unit": "I1", "front": "A simple structure for any answer?", "back": "Point, reason, example, conclusion."},
-    {"id": "I1-05", "unit": "I1", "front": "A relative asks about your work at the Agency. What do you say?", "back": "Nothing about the work itself. Discretion is part of the job."},
-    {"id": "I1-06", "unit": "I1", "front": "Name five qualities intelligence work needs.", "back": "Discretion, loyalty, integrity, analytical thinking, resilience (also curiosity and languages)."}
+    {
+      "id": "A1-01",
+      "unit": "A1",
+      "front": "In what year was the NIA created?",
+      "back": "1986, when the National Security Organisation (NSO) was split into the SSS (now DSS), the NIA and the DIA."
+    },
+    {
+      "id": "A1-02",
+      "unit": "A1",
+      "front": "Which law created the NIA, DSS and DIA?",
+      "back": "The National Security Agencies Act (Decree No. 19 of 1986)."
+    },
+    {
+      "id": "A1-03",
+      "unit": "A1",
+      "front": "What is the NIA's core responsibility?",
+      "back": "Maintaining Nigeria's security outside Nigeria on non-military matters: foreign intelligence and counter-intelligence abroad."
+    },
+    {
+      "id": "A1-04",
+      "unit": "A1",
+      "front": "DSS vs NIA vs DIA: who does what?",
+      "back": "DSS: domestic security and intelligence. NIA: foreign (external) intelligence. DIA: military intelligence."
+    },
+    {
+      "id": "A1-05",
+      "unit": "A1",
+      "front": "Who is Director-General of the NIA? (checked Oct 2026)",
+      "back": "Ambassador Mohammed Mohammed, appointed 26 August 2024."
+    },
+    {
+      "id": "A1-06",
+      "unit": "A1",
+      "front": "Who is the National Security Adviser? (checked Oct 2026)",
+      "back": "Mallam Nuhu Ribadu, appointed June 2023."
+    },
+    {
+      "id": "A1-07",
+      "unit": "A1",
+      "front": "Who is Director-General of the DSS? (checked Oct 2026)",
+      "back": "Adeola Ajayi, appointed 26 August 2024."
+    },
+    {
+      "id": "A1-08",
+      "unit": "A1",
+      "front": "Which office coordinates Nigeria's intelligence agencies?",
+      "back": "The Office of the National Security Adviser (ONSA)."
+    },
+    {
+      "id": "A1-09",
+      "unit": "A1",
+      "front": "Who did Mohammed Mohammed replace as NIA DG?",
+      "back": "Ambassador Ahmed Rufai Abubakar."
+    },
+    {
+      "id": "A2-01",
+      "unit": "A2",
+      "front": "How many states and LGAs does Nigeria have?",
+      "back": "36 states plus the FCT, and 774 local government areas."
+    },
+    {
+      "id": "A2-02",
+      "unit": "A2",
+      "front": "How many members in the Senate and House of Representatives?",
+      "back": "Senate: 109. House of Representatives: 360."
+    },
+    {
+      "id": "A2-03",
+      "unit": "A2",
+      "front": "Name the seven North-west states.",
+      "back": "Jigawa, Kaduna, Kano, Katsina, Kebbi, Sokoto, Zamfara."
+    },
+    {
+      "id": "A2-04",
+      "unit": "A2",
+      "front": "Name the six North-east states.",
+      "back": "Adamawa, Bauchi, Borno, Gombe, Taraba, Yobe."
+    },
+    {
+      "id": "A2-05",
+      "unit": "A2",
+      "front": "Name the six North-central states.",
+      "back": "Benue, Kogi, Kwara, Nasarawa, Niger, Plateau (plus the FCT)."
+    },
+    {
+      "id": "A2-06",
+      "unit": "A2",
+      "front": "Name the five South-east states.",
+      "back": "Abia, Anambra, Ebonyi, Enugu, Imo."
+    },
+    {
+      "id": "A2-07",
+      "unit": "A2",
+      "front": "Name the six South-south states.",
+      "back": "Akwa Ibom, Bayelsa, Cross River, Delta, Edo, Rivers."
+    },
+    {
+      "id": "A2-08",
+      "unit": "A2",
+      "front": "Name the six South-west states.",
+      "back": "Ekiti, Lagos, Ogun, Ondo, Osun, Oyo."
+    },
+    {
+      "id": "A2-09",
+      "unit": "A2",
+      "front": "Who is Nigeria's Foreign Minister? (checked Oct 2026)",
+      "back": "Ambassador Bianca Odumegwu-Ojukwu, elevated in April 2026 after Yusuf Tuggar stepped down."
+    },
+    {
+      "id": "A2-10",
+      "unit": "A2",
+      "front": "Who is Minister of Defence? (checked Oct 2026)",
+      "back": "General Christopher Musa (rtd), former Chief of Defence Staff."
+    },
+    {
+      "id": "A2-11",
+      "unit": "A2",
+      "front": "Who is Chief of Defence Staff? (checked Oct 2026)",
+      "back": "General Olufemi Oluyede, appointed 24 October 2025."
+    },
+    {
+      "id": "A2-12",
+      "unit": "A2",
+      "front": "Who are the Senate President and the Speaker? (checked Oct 2026)",
+      "back": "Senate President Godswill Akpabio; Speaker Tajudeen Abbas."
+    },
+    {
+      "id": "A3-01",
+      "unit": "A3",
+      "front": "List the stages of the intelligence cycle.",
+      "back": "Planning and direction, collection, processing, analysis and production, dissemination, then feedback."
+    },
+    {
+      "id": "A3-02",
+      "unit": "A3",
+      "front": "HUMINT, SIGINT, OSINT: what do they mean?",
+      "back": "Human intelligence (from people), signals intelligence (from intercepted communications), open-source intelligence (from public information)."
+    },
+    {
+      "id": "A3-03",
+      "unit": "A3",
+      "front": "What is counter-intelligence?",
+      "back": "Protecting your own secrets, people and systems from foreign spying, recruitment and sabotage."
+    },
+    {
+      "id": "A3-04",
+      "unit": "A3",
+      "front": "What does “need-to-know” mean?",
+      "back": "You only get access to classified information that you need for your specific duties, whatever your clearance level."
+    },
+    {
+      "id": "A3-05",
+      "unit": "A3",
+      "front": "Which Nigerian law protects classified information?",
+      "back": "The Official Secrets Act (1962)."
+    },
+    {
+      "id": "A3-06",
+      "unit": "A3",
+      "front": "Strategic vs tactical intelligence?",
+      "back": "Strategic informs long-term policy and planning. Tactical supports a specific, immediate operation."
+    },
+    {
+      "id": "B1-01",
+      "unit": "B1",
+      "front": "Which zone is the centre of banditry?",
+      "back": "The North-west, especially Zamfara and Sokoto, plus Katsina, Kebbi and Kaduna."
+    },
+    {
+      "id": "B1-02",
+      "unit": "B1",
+      "front": "What are the main roots of banditry?",
+      "back": "Farmer–herder competition, cattle rustling, illegal gold mining, large ungoverned forests and too few police."
+    },
+    {
+      "id": "B1-03",
+      "unit": "B1",
+      "front": "When were bandit groups declared terrorists?",
+      "back": "In 2022, by a Federal High Court ruling."
+    },
+    {
+      "id": "B1-04",
+      "unit": "B1",
+      "front": "What is Lakurawa?",
+      "back": "An armed group on the Sokoto–Kebbi border with Niger that began as hired protection against bandits, then turned on communities. It mixes crime and jihadist links."
+    },
+    {
+      "id": "B1-05",
+      "unit": "B1",
+      "front": "North-west banditry in 2025: how many incidents and casualties?",
+      "back": "599 incidents and 2,742 casualties, nearly double 2024."
+    },
+    {
+      "id": "B1-06",
+      "unit": "B1",
+      "front": "What happened in Sokoto on 25 December 2025?",
+      "back": "US forces struck Islamic State targets, with Nigerian cooperation according to US officials."
+    },
+    {
+      "id": "B1-07",
+      "unit": "B1",
+      "front": "What did the US designate Nigeria in October 2025?",
+      "back": "A “Country of Particular Concern” over religious freedom."
+    },
+    {
+      "id": "B1-08",
+      "unit": "B1",
+      "front": "What happened on the Abuja–Kaduna train in March 2022?",
+      "back": "Gunmen bombed and attacked the train, killing passengers and kidnapping dozens."
+    },
+    {
+      "id": "B1-09",
+      "unit": "B1",
+      "front": "Which school was attacked in Niger State in November 2025?",
+      "back": "St Mary's Catholic School, Papiri: more than 300 pupils and staff were abducted."
+    },
+    {
+      "id": "B1-10",
+      "unit": "B1",
+      "front": "Which state passed an anti-open-grazing law in 2017?",
+      "back": "Benue State."
+    },
+    {
+      "id": "B2-01",
+      "unit": "B2",
+      "front": "Who founded Boko Haram, where and when?",
+      "back": "Mohammed Yusuf, in Maiduguri, Borno State, around 2002."
+    },
+    {
+      "id": "B2-02",
+      "unit": "B2",
+      "front": "When were the Chibok girls kidnapped and how many?",
+      "back": "April 2014: 276 schoolgirls."
+    },
+    {
+      "id": "B2-03",
+      "unit": "B2",
+      "front": "When did Boko Haram split into JAS and ISWAP?",
+      "back": "2016, after the group's 2015 pledge to the Islamic State."
+    },
+    {
+      "id": "B2-04",
+      "unit": "B2",
+      "front": "How and when did Abubakar Shekau die?",
+      "back": "May 2021, during a clash with ISWAP fighters."
+    },
+    {
+      "id": "B2-05",
+      "unit": "B2",
+      "front": "What is the MNJTF and which members remain?",
+      "back": "The Multinational Joint Task Force against Boko Haram and ISWAP, based in N'Djamena: Nigeria, Chad, Cameroon and Benin. Niger left in March 2025."
+    },
+    {
+      "id": "B2-06",
+      "unit": "B2",
+      "front": "What is Operation Safe Corridor?",
+      "back": "Nigeria's de-radicalisation and reintegration programme for ex-fighters, started in 2016 in Gombe."
+    },
+    {
+      "id": "B2-07",
+      "unit": "B2",
+      "front": "What is the military's North-east operation called?",
+      "back": "Operation Hadin Kai."
+    },
+    {
+      "id": "B2-08",
+      "unit": "B2",
+      "front": "When was IPOB founded and by whom?",
+      "back": "2012, by Nnamdi Kanu."
+    },
+    {
+      "id": "B2-09",
+      "unit": "B2",
+      "front": "What sentence did Nnamdi Kanu receive and when?",
+      "back": "Life imprisonment on terrorism charges, 20 November 2025."
+    },
+    {
+      "id": "B2-10",
+      "unit": "B2",
+      "front": "What is the ESN?",
+      "back": "The Eastern Security Network, IPOB's armed wing, formed in December 2020."
+    },
+    {
+      "id": "B2-11",
+      "unit": "B2",
+      "front": "What is Amotekun?",
+      "back": "The Western Nigeria Security Network, launched by the six South-west states in January 2020."
+    },
+    {
+      "id": "B2-12",
+      "unit": "B2",
+      "front": "What was the 2009 Presidential Amnesty Programme?",
+      "back": "A programme that paid, disarmed and retrained Niger Delta militants."
+    },
+    {
+      "id": "B2-13",
+      "unit": "B2",
+      "front": "What is the Deep Blue Project?",
+      "back": "Nigeria's maritime security programme, launched 2021, with ships, aircraft and a command centre to fight piracy in the Gulf of Guinea."
+    },
+    {
+      "id": "B2-14",
+      "unit": "B2",
+      "front": "What happened in Owo, Ondo State, on 5 June 2022?",
+      "back": "Gunmen attacked St Francis Catholic Church during Mass; the government blamed ISWAP."
+    },
+    {
+      "id": "C1-01",
+      "unit": "C1",
+      "front": "When was Niger's coup and who took power?",
+      "back": "26 July 2023. General Abdourahamane Tchiani overthrew President Mohamed Bazoum."
+    },
+    {
+      "id": "C1-02",
+      "unit": "C1",
+      "front": "Who leads Burkina Faso?",
+      "back": "Captain Ibrahim Traoré, since the September 2022 coup."
+    },
+    {
+      "id": "C1-03",
+      "unit": "C1",
+      "front": "Who leads Mali?",
+      "back": "Assimi Goïta, after coups in August 2020 and May 2021."
+    },
+    {
+      "id": "C1-04",
+      "unit": "C1",
+      "front": "What founded the Alliance of Sahel States and when?",
+      "back": "The Liptako-Gourma Charter, signed 16 September 2023."
+    },
+    {
+      "id": "C1-05",
+      "unit": "C1",
+      "front": "When did the AES exit from ECOWAS take effect?",
+      "back": "29 January 2025."
+    },
+    {
+      "id": "C1-06",
+      "unit": "C1",
+      "front": "Who chaired ECOWAS during the Niger coup?",
+      "back": "President Bola Tinubu of Nigeria."
+    },
+    {
+      "id": "C1-07",
+      "unit": "C1",
+      "front": "How did Nigeria pressure Niger after the coup?",
+      "back": "Border closure, ECOWAS sanctions, cutting electricity supply, and the threat of military intervention. Sanctions were lifted in February 2024."
+    },
+    {
+      "id": "C1-08",
+      "unit": "C1",
+      "front": "Roughly how long is the Nigeria–Niger border?",
+      "back": "About 1,600 km, touching Sokoto, Kebbi, Katsina, Jigawa, Yobe and Borno."
+    },
+    {
+      "id": "C1-09",
+      "unit": "C1",
+      "front": "Which foreign force now backs Mali's junta?",
+      "back": "Russia's Africa Corps, which replaced the Wagner group in 2025."
+    },
+    {
+      "id": "C1-10",
+      "unit": "C1",
+      "front": "What happened to 11 Nigerian Air Force personnel in December 2025?",
+      "back": "Burkina Faso detained them over an unauthorised airspace entry."
+    },
+    {
+      "id": "C1-11",
+      "unit": "C1",
+      "front": "What is JNIM?",
+      "back": "Al-Qaeda's Sahel affiliate, formed 2017, active in Mali and Burkina Faso and spreading toward coastal states and Nigeria."
+    },
+    {
+      "id": "C1-12",
+      "unit": "C1",
+      "front": "Which gas pipeline would link Nigeria, Niger and Algeria?",
+      "back": "The Trans-Saharan Gas Pipeline."
+    },
+    {
+      "id": "D1-01",
+      "unit": "D1",
+      "front": "When did Russia launch its full-scale invasion of Ukraine?",
+      "back": "24 February 2022."
+    },
+    {
+      "id": "D1-02",
+      "unit": "D1",
+      "front": "When did Russia annex Crimea?",
+      "back": "2014."
+    },
+    {
+      "id": "D1-03",
+      "unit": "D1",
+      "front": "Which four Ukrainian regions did Russia claim to annex in 2022?",
+      "back": "Donetsk, Luhansk, Zaporizhzhia and Kherson."
+    },
+    {
+      "id": "D1-04",
+      "unit": "D1",
+      "front": "What are Russia's main peace demands (2026)?",
+      "back": "No NATO for Ukraine, Russian control of all of Donbas and parts of Zaporizhzhia, limits on Ukraine's army."
+    },
+    {
+      "id": "D1-05",
+      "unit": "D1",
+      "front": "Which US envoys carried the September 2026 peace proposal?",
+      "back": "Steve Witkoff and Jared Kushner. Zelenskyy rejected its territorial concessions."
+    },
+    {
+      "id": "D1-06",
+      "unit": "D1",
+      "front": "What was the Black Sea Grain Initiative?",
+      "back": "A Türkiye- and UN-brokered deal (July 2022 to July 2023) that let Ukraine export grain by sea."
+    },
+    {
+      "id": "D1-07",
+      "unit": "D1",
+      "front": "How did Nigeria vote on the March 2022 UN resolution on Ukraine?",
+      "back": "In favour of the resolution demanding Russia withdraw."
+    },
+    {
+      "id": "D1-08",
+      "unit": "D1",
+      "front": "Why did the ICC issue an arrest warrant for Putin?",
+      "back": "Over the unlawful deportation of Ukrainian children (March 2023)."
+    },
+    {
+      "id": "D2-01",
+      "unit": "D2",
+      "front": "When did the 2026 Iran war begin and how?",
+      "back": "28 February 2026, with US and Israeli strikes that killed Supreme Leader Ali Khamenei."
+    },
+    {
+      "id": "D2-02",
+      "unit": "D2",
+      "front": "Why does the Strait of Hormuz matter?",
+      "back": "About a fifth of the world's oil passes through it. Iran closed it in late March 2026."
+    },
+    {
+      "id": "D2-03",
+      "unit": "D2",
+      "front": "Which country hosted the April 2026 US–Iran talks?",
+      "back": "Pakistan: the Islamabad Talks, 12–13 April. They failed and the US imposed a naval blockade."
+    },
+    {
+      "id": "D2-04",
+      "unit": "D2",
+      "front": "What was the Islamabad Memorandum?",
+      "back": "A 17 June 2026 deal, brokered by Pakistan, that lifted the US and Iranian blockades."
+    },
+    {
+      "id": "D2-05",
+      "unit": "D2",
+      "front": "When was the US–Iran ceasefire, and when did it collapse?",
+      "back": "Announced 28 June 2026; collapsed 8 July when Iran attacked commercial ships."
+    },
+    {
+      "id": "D2-06",
+      "unit": "D2",
+      "front": "Who mediates US–Iran talks now (Sept 2026)?",
+      "back": "Qatar, with indirect talks in New York during the UN General Assembly."
+    },
+    {
+      "id": "D2-07",
+      "unit": "D2",
+      "front": "What is the main sticking point in US–Iran talks?",
+      "back": "Sequencing: Iran wants Hormuz, sanctions and a ceasefire settled first and nuclear talks later; the US wants everything together."
+    },
+    {
+      "id": "D2-08",
+      "unit": "D2",
+      "front": "Which Iranian allies joined the 2026 war?",
+      "back": "Hezbollah, Iraqi militias and the Houthis (from 28 March)."
+    },
+    {
+      "id": "D2-09",
+      "unit": "D2",
+      "front": "What was the JCPOA?",
+      "back": "The 2015 Iran nuclear deal. The US withdrew in 2018."
+    },
+    {
+      "id": "D2-10",
+      "unit": "D2",
+      "front": "What happened in June 2025 between Israel and Iran?",
+      "back": "A 12-day war; the US bombed nuclear sites at Fordow, Natanz and Isfahan."
+    },
+    {
+      "id": "D3-01",
+      "unit": "D3",
+      "front": "What happened on 7 October 2023?",
+      "back": "Hamas attacked southern Israel, killing about 1,200 people and taking about 250 hostages."
+    },
+    {
+      "id": "D3-02",
+      "unit": "D3",
+      "front": "When did the Gaza ceasefire take effect?",
+      "back": "10 October 2025, under President Trump's 20-point plan."
+    },
+    {
+      "id": "D3-03",
+      "unit": "D3",
+      "front": "What is UN Security Council Resolution 2803?",
+      "back": "The November 2025 resolution endorsing the Board of Peace and an International Stabilization Force for Gaza."
+    },
+    {
+      "id": "D3-04",
+      "unit": "D3",
+      "front": "Who chairs the Board of Peace?",
+      "back": "US President Donald Trump."
+    },
+    {
+      "id": "D3-05",
+      "unit": "D3",
+      "front": "Which country took Israel to the ICJ for genocide?",
+      "back": "South Africa, in December 2023."
+    },
+    {
+      "id": "D3-06",
+      "unit": "D3",
+      "front": "What did the 1993 Oslo Accords create?",
+      "back": "The Palestinian Authority and a framework toward a two-state solution."
+    },
+    {
+      "id": "D3-07",
+      "unit": "D3",
+      "front": "Which Western countries recognised Palestine in September 2025?",
+      "back": "The UK, France, Canada and Australia."
+    },
+    {
+      "id": "D3-08",
+      "unit": "D3",
+      "front": "What is Nigeria's position on Israel–Palestine?",
+      "back": "Support for a two-state solution; relations with Israel and recognition of Palestine."
+    },
+    {
+      "id": "D3-09",
+      "unit": "D3",
+      "front": "How much is the Board of Peace's Gaza reconstruction plan (Sept 2026)?",
+      "back": "$2.4 billion."
+    },
+    {
+      "id": "D4-01",
+      "unit": "D4",
+      "front": "Who is fighting in Sudan's war, and since when?",
+      "back": "Since 15 April 2023: the Sudanese Armed Forces (Burhan) against the Rapid Support Forces (Hemedti)."
+    },
+    {
+      "id": "D4-02",
+      "unit": "D4",
+      "front": "Which Darfur city did the RSF capture in October 2025?",
+      "back": "El Fasher."
+    },
+    {
+      "id": "D4-03",
+      "unit": "D4",
+      "front": "Which rebel group took Goma in January 2025?",
+      "back": "M23, which UN experts say is backed by Rwanda."
+    },
+    {
+      "id": "E1-01",
+      "unit": "E1",
+      "front": "Define a recession.",
+      "back": "Two consecutive quarters of falling GDP."
+    },
+    {
+      "id": "E1-02",
+      "unit": "E1",
+      "front": "Define stagflation.",
+      "back": "Slow or no economic growth combined with high inflation."
+    },
+    {
+      "id": "E1-03",
+      "unit": "E1",
+      "front": "What is a tariff?",
+      "back": "A tax on imported goods."
+    },
+    {
+      "id": "E1-04",
+      "unit": "E1",
+      "front": "When did Nigeria remove the petrol subsidy?",
+      "back": "May 2023, at the start of the Tinubu administration."
+    },
+    {
+      "id": "E1-05",
+      "unit": "E1",
+      "front": "What is the Dangote refinery's capacity?",
+      "back": "650,000 barrels per day, near Lagos."
+    },
+    {
+      "id": "E1-06",
+      "unit": "E1",
+      "front": "When did Nigeria leave the FATF grey list?",
+      "back": "October 2025."
+    },
+    {
+      "id": "E1-07",
+      "unit": "E1",
+      "front": "What is Nigeria's status in BRICS?",
+      "back": "Partner country since January 2025."
+    },
+    {
+      "id": "E1-08",
+      "unit": "E1",
+      "front": "What is AfCFTA and when did trading start?",
+      "back": "The African Continental Free Trade Area; trading began 1 January 2021."
+    },
+    {
+      "id": "E1-09",
+      "unit": "E1",
+      "front": "Since when has Nigeria been in OPEC?",
+      "back": "1971."
+    },
+    {
+      "id": "E1-10",
+      "unit": "E1",
+      "front": "What was AGOA and what happened to it?",
+      "back": "A US law giving many African exports duty-free access. It lapsed in September 2025."
+    },
+    {
+      "id": "F1-01",
+      "unit": "F1",
+      "front": "What is Nigeria's main anti-terrorism law?",
+      "back": "The Terrorism (Prevention and Prohibition) Act 2022."
+    },
+    {
+      "id": "F1-02",
+      "unit": "F1",
+      "front": "What does the National Counter Terrorism Centre do and where is it?",
+      "back": "It coordinates counter-terrorism; it sits in the Office of the National Security Adviser."
+    },
+    {
+      "id": "F1-03",
+      "unit": "F1",
+      "front": "Which agency tracks terrorist financing in Nigeria?",
+      "back": "The Nigerian Financial Intelligence Unit (NFIU)."
+    },
+    {
+      "id": "F1-04",
+      "unit": "F1",
+      "front": "Which region does the Global Terrorism Index call the epicentre of terrorism?",
+      "back": "The Sahel, with over half of global terrorism deaths."
+    },
+    {
+      "id": "F1-05",
+      "unit": "F1",
+      "front": "Name four common drivers of radicalisation.",
+      "back": "Poverty and unemployment, poor governance, grievances against security forces, lack of education, plus online propaganda."
+    },
+    {
+      "id": "F1-06",
+      "unit": "F1",
+      "front": "What is Ansaru?",
+      "back": "A Nigerian jihadist group aligned with al-Qaeda, which split from Boko Haram."
+    },
+    {
+      "id": "F1-07",
+      "unit": "F1",
+      "front": "When did Nigeria adopt its plan for preventing violent extremism?",
+      "back": "2017: the Policy Framework and National Action Plan for Preventing and Countering Violent Extremism."
+    },
+    {
+      "id": "F2-01",
+      "unit": "F2",
+      "front": "When was NAPTIP created?",
+      "back": "2003."
+    },
+    {
+      "id": "F2-02",
+      "unit": "F2",
+      "front": "What is Nigeria's current anti-trafficking law?",
+      "back": "The Trafficking in Persons (Prohibition) Enforcement and Administration Act 2015."
+    },
+    {
+      "id": "F2-03",
+      "unit": "F2",
+      "front": "What is the Palermo Protocol?",
+      "back": "The UN protocol (2000) to prevent, suppress and punish trafficking in persons."
+    },
+    {
+      "id": "F2-04",
+      "unit": "F2",
+      "front": "What did the Oba of Benin do in March 2018?",
+      "back": "He revoked the juju oaths traffickers used to control victims."
+    },
+    {
+      "id": "F2-05",
+      "unit": "F2",
+      "front": "What is the main trafficking route to Europe?",
+      "back": "Southern Nigeria → Niger (Agadez) → across the Sahara to Libya → the Mediterranean."
+    },
+    {
+      "id": "F2-06",
+      "unit": "F2",
+      "front": "Which agency fights drug trafficking?",
+      "back": "The NDLEA, created in 1989."
+    },
+    {
+      "id": "F2-07",
+      "unit": "F2",
+      "front": "Which ECOWAS treaty controls small arms?",
+      "back": "The ECOWAS Convention on Small Arms and Light Weapons (2006)."
+    },
+    {
+      "id": "F2-08",
+      "unit": "F2",
+      "front": "Which law covers cybercrime in Nigeria?",
+      "back": "The Cybercrimes (Prohibition, Prevention, etc.) Act 2015, amended in 2024."
+    },
+    {
+      "id": "G1-01",
+      "unit": "G1",
+      "front": "What are the 4 Ds of Nigeria's foreign policy?",
+      "back": "Democracy, Development, Demography, Diaspora."
+    },
+    {
+      "id": "G1-02",
+      "unit": "G1",
+      "front": "Who introduced the 4-D doctrine?",
+      "back": "Yusuf Tuggar, as Foreign Minister, in 2023."
+    },
+    {
+      "id": "G1-03",
+      "unit": "G1",
+      "front": "What does “Demography” mean in the 4-D doctrine?",
+      "back": "Treating Nigeria's large, young population as an asset to be educated, skilled and employed."
+    },
+    {
+      "id": "G1-04",
+      "unit": "G1",
+      "front": "What does “Diaspora” mean in the 4-D doctrine?",
+      "back": "Engaging Nigerians abroad for investment, skills and remittances (around $20 billion a year)."
+    },
+    {
+      "id": "G1-05",
+      "unit": "G1",
+      "front": "What is the “concentric circles” doctrine?",
+      "back": "A 1980s approach ranking Nigeria's interests from its immediate neighbours outward to West Africa, Africa and the world."
+    },
+    {
+      "id": "G1-06",
+      "unit": "G1",
+      "front": "When and where was ECOWAS founded?",
+      "back": "28 May 1975, by the Treaty of Lagos. Its headquarters is in Abuja."
+    },
+    {
+      "id": "G1-07",
+      "unit": "G1",
+      "front": "When did Nigeria join the UN?",
+      "back": "7 October 1960."
+    },
+    {
+      "id": "G1-08",
+      "unit": "G1",
+      "front": "What was ECOMOG?",
+      "back": "The ECOWAS peacekeeping force, led by Nigeria, in Liberia and Sierra Leone in the 1990s."
+    },
+    {
+      "id": "G1-09",
+      "unit": "G1",
+      "front": "What is NiDCOM?",
+      "back": "The Nigerians in Diaspora Commission, created in 2017."
+    },
+    {
+      "id": "G1-10",
+      "unit": "G1",
+      "front": "What is the Technical Aid Corps?",
+      "back": "A scheme (since 1987) sending Nigerian professionals to work in other developing countries."
+    },
+    {
+      "id": "I1-01",
+      "unit": "I1",
+      "front": "You walk into the interview room. What do you do?",
+      "back": "Greet the panel and stay standing until you are invited to sit."
+    },
+    {
+      "id": "I1-02",
+      "unit": "I1",
+      "front": "You don't know the answer to a question. What do you do?",
+      "back": "Answer anyway: say what you do know, reason out loud, and be honest about uncertainty. Never stay silent."
+    },
+    {
+      "id": "I1-03",
+      "unit": "I1",
+      "front": "What goes in your self-appraisal?",
+      "back": "Name, LGA and state of origin, date of birth, schools and qualifications, achievements or awards, work experience."
+    },
+    {
+      "id": "I1-04",
+      "unit": "I1",
+      "front": "A simple structure for any answer?",
+      "back": "Point, reason, example, conclusion."
+    },
+    {
+      "id": "I1-05",
+      "unit": "I1",
+      "front": "A relative asks about your work at the Agency. What do you say?",
+      "back": "Nothing about the work itself. Discretion is part of the job."
+    },
+    {
+      "id": "I1-06",
+      "unit": "I1",
+      "front": "Name five qualities intelligence work needs.",
+      "back": "Discretion, loyalty, integrity, analytical thinking, resilience (also curiosity and languages)."
+    },
+    {
+      "id": "A4-01",
+      "unit": "A4",
+      "front": "When were the Northern and Southern Protectorates amalgamated, and by whom?",
+      "back": "1 January 1914, by Lord Frederick Lugard."
+    },
+    {
+      "id": "A4-02",
+      "unit": "A4",
+      "front": "Who suggested the name “Nigeria”?",
+      "back": "Flora Shaw (later Lady Lugard), in 1897."
+    },
+    {
+      "id": "A4-03",
+      "unit": "A4",
+      "front": "Who is called the father of Nigerian nationalism?",
+      "back": "Herbert Macaulay, who founded the NNDP in 1923."
+    },
+    {
+      "id": "A4-04",
+      "unit": "A4",
+      "front": "Which colonial constitution made Nigeria a federation?",
+      "back": "The Lyttelton Constitution of 1954."
+    },
+    {
+      "id": "A4-05",
+      "unit": "A4",
+      "front": "Who was Nigeria's first Prime Minister?",
+      "back": "Sir Abubakar Tafawa Balewa (1960–1966)."
+    },
+    {
+      "id": "A4-06",
+      "unit": "A4",
+      "front": "When did Nigeria become a republic, and who was President?",
+      "back": "1 October 1963; Nnamdi Azikiwe (ceremonial President)."
+    },
+    {
+      "id": "A4-07",
+      "unit": "A4",
+      "front": "When was Nigeria's first military coup?",
+      "back": "15 January 1966."
+    },
+    {
+      "id": "A4-08",
+      "unit": "A4",
+      "front": "When did the civil war start and end?",
+      "back": "6 July 1967 to 15 January 1970."
+    },
+    {
+      "id": "A4-09",
+      "unit": "A4",
+      "front": "Which head of state was assassinated on 13 February 1976?",
+      "back": "General Murtala Mohammed."
+    },
+    {
+      "id": "A4-10",
+      "unit": "A4",
+      "front": "Who was President of the Second Republic?",
+      "back": "Shehu Shagari, from 1 October 1979 until the coup of 31 December 1983."
+    },
+    {
+      "id": "A4-11",
+      "unit": "A4",
+      "front": "What happened on 12 June 1993?",
+      "back": "A presidential election, believed won by M.K.O. Abiola, which Babangida's government annulled. 12 June is now Democracy Day."
+    },
+    {
+      "id": "A4-12",
+      "unit": "A4",
+      "front": "When did the Fourth Republic begin?",
+      "back": "29 May 1999, with President Olusegun Obasanjo."
+    },
+    {
+      "id": "A4-13",
+      "unit": "A4",
+      "front": "When did Abuja become the capital?",
+      "back": "12 December 1991, replacing Lagos."
+    },
+    {
+      "id": "A4-14",
+      "unit": "A4",
+      "front": "Which Nigerian president died in office?",
+      "back": "Umaru Musa Yar'Adua, in May 2010. (Abacha also died in office as military head of state in 1998.)"
+    },
+    {
+      "id": "A4-15",
+      "unit": "A4",
+      "front": "Who led the Interim National Government in 1993?",
+      "back": "Ernest Shonekan."
+    },
+    {
+      "id": "A5-01",
+      "unit": "A5",
+      "front": "What does Section 14(2)(b) of the Constitution say?",
+      "back": "The security and welfare of the people shall be the primary purpose of government."
+    },
+    {
+      "id": "A5-02",
+      "unit": "A5",
+      "front": "Which chapter of the Constitution contains fundamental rights?",
+      "back": "Chapter IV."
+    },
+    {
+      "id": "A5-03",
+      "unit": "A5",
+      "front": "What is the federal character principle?",
+      "back": "Appointments and institutions should reflect Nigeria's diversity (Section 14(3))."
+    },
+    {
+      "id": "A5-04",
+      "unit": "A5",
+      "front": "What is the minimum age to run for President?",
+      "back": "35, since the Not Too Young To Run Act (2018)."
+    },
+    {
+      "id": "A5-05",
+      "unit": "A5",
+      "front": "Where do the Niger and Benue rivers meet?",
+      "back": "Lokoja, Kogi State."
+    },
+    {
+      "id": "A5-06",
+      "unit": "A5",
+      "front": "What is Nigeria's highest point?",
+      "back": "Chappal Waddi (about 2,419 m), Taraba State."
+    },
+    {
+      "id": "A5-07",
+      "unit": "A5",
+      "front": "Where and when was oil first found in commercial quantities?",
+      "back": "Oloibiri, in present-day Bayelsa State, in 1956."
+    },
+    {
+      "id": "A5-08",
+      "unit": "A5",
+      "front": "Who designed the Nigerian flag?",
+      "back": "Michael Taiwo Akinkunmi."
+    },
+    {
+      "id": "A5-09",
+      "unit": "A5",
+      "front": "What is Nigeria's national motto?",
+      "back": "Unity and Faith, Peace and Progress."
+    },
+    {
+      "id": "A5-10",
+      "unit": "A5",
+      "front": "What does the white Y on the coat of arms represent?",
+      "back": "The Niger and Benue rivers."
+    },
+    {
+      "id": "A5-11",
+      "unit": "A5",
+      "front": "What is the national anthem since May 2024?",
+      "back": "“Nigeria, We Hail Thee”, the original 1960 anthem. “Arise, O Compatriots” is now the national song."
+    },
+    {
+      "id": "A5-12",
+      "unit": "A5",
+      "front": "When was the naira introduced?",
+      "back": "1 January 1973, replacing the Nigerian pound."
+    },
+    {
+      "id": "A5-13",
+      "unit": "A5",
+      "front": "Which four countries border Nigeria?",
+      "back": "Benin, Niger, Chad and Cameroon."
+    },
+    {
+      "id": "A5-14",
+      "unit": "A5",
+      "front": "What happened to the Bakassi Peninsula?",
+      "back": "It was handed to Cameroon after a 2002 ICJ ruling; handover completed in August 2008."
+    },
+    {
+      "id": "A5-15",
+      "unit": "A5",
+      "front": "Who was the first African to win the Nobel Prize in Literature?",
+      "back": "Wole Soyinka, in 1986."
+    },
+    {
+      "id": "A5-16",
+      "unit": "A5",
+      "front": "How many states did Nigeria have in 1967, 1976, 1991 and 1996?",
+      "back": "12, 19, 30 and 36."
+    }
   ]
 }
