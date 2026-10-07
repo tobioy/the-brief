@@ -1,45 +1,108 @@
 {
-  "updated": "2026-10-05",
-  "week": "Week of 28 September 2026",
+  "updated": "2026-10-07",
+  "week": "Week of 5 October 2026",
   "stories": [
     {
-      "id": "br-2026-09-29-iran",
-      "date": "2026-09-29",
+      "id": "br-2026-10-05-army",
+      "date": "2026-10-05",
+      "tag": "Nigeria",
+      "unit": "B1",
+      "title": "New Army formations in Zamfara, Kebbi, Oyo and Osun",
+      "body": "President Tinubu announced that the Nigerian Army has opened new formations in Zamfara, Kebbi, Oyo and Osun states to put troops closer to vulnerable communities and speed up response to attacks. More barracks and depots are being built in Abuja, Ekiti, Ebonyi and Kogi. The President also recently approved a pay rise for the Armed Forces. On 6 October he met the Defence Minister, General Christopher Musa (rtd), in Lagos to review counter-insurgency and anti-banditry operations.",
+      "why": "Zamfara and Kebbi are on the front line of banditry and the Lakurawa threat along the Niger border.",
+      "source": {
+        "name": "Voice of Nigeria",
+        "url": "https://von.gov.ng/new-army-formations-operationalised-in-four-states-president-tinubu/"
+      },
+      "cards": [
+        {
+          "front": "In which four states did the Army open new formations in October 2026?",
+          "back": "Zamfara, Kebbi, Oyo and Osun."
+        },
+        {
+          "front": "Who is Nigeria's Minister of Defence (as of October 2026)?",
+          "back": "General Christopher Gwabin Musa (rtd)."
+        }
+      ]
+    },
+    {
+      "id": "br-2026-10-05-naf-crash",
+      "date": "2026-10-05",
+      "tag": "Nigeria",
+      "unit": "A2",
+      "title": "Air Force plane crash: three days of national mourning",
+      "body": "A Nigerian Air Force ATR-42 aircraft crashed near the naval base at Igbokoda, Ondo State, on a routine flight from Benin to Lagos. It was carrying 32 people: 25 passengers and seven crew. President Tinubu declared three days of national mourning, ordered flags flown at half-mast and directed the Air Force to investigate the cause.",
+      "why": "Losing trained personnel and aircraft strains an Air Force already stretched across several conflict zones.",
+      "source": {
+        "name": "State House, Abuja",
+        "url": "https://statehouse.gov.ng/president-tinubu-declares-three-day-mourning-for-air-force-personnel-who-died-in-aircraft-crash/"
+      },
+      "cards": [
+        {
+          "front": "Where did the Nigerian Air Force ATR-42 crash in October 2026?",
+          "back": "Near the naval base at Igbokoda, Ondo State, on a flight from Benin to Lagos."
+        }
+      ]
+    },
+    {
+      "id": "br-2026-10-04-hormuz",
+      "date": "2026-10-04",
       "tag": "Middle East",
       "unit": "D2",
-      "title": "US and Iran talk through Qatar at the UN",
-      "body": "Indirect US–Iran talks continued in New York during the UN General Assembly, with Qatar as the go-between. Iran wants the Strait of Hormuz reopened, sanctions lifted, about $12 billion in frozen assets released and a ceasefire including Lebanon before nuclear talks. Washington wants all issues, including the nuclear programme, negotiated together. President Trump has signalled a deal is unlikely before the 3 November US midterm elections.",
-      "why": "Oil prices, fuel import costs and shipping insurance for Nigeria all track the Hormuz crisis.",
-      "source": {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/9/29/us-iran-talks-in-new-york-whats-the-latest"},
+      "title": "Iran: Hormuz stays shut until the US meets our terms",
+      "body": "Iran said the Strait of Hormuz will stay closed until Washington accepts its conditions. Parliament speaker and chief negotiator Mohammad Bagher Ghalibaf said the era of unilateral demands is over. President Trump rejected Iran's seven-day plan to reopen the strait. The closure has lasted more than seven months, since the US–Israeli strikes of 28 February 2026. The US wants nuclear talks first, while Iran's priority is the strait.",
+      "why": "About a fifth of the world's oil and gas normally passes through Hormuz, so the closure drives fuel and shipping costs in Nigeria.",
+      "source": {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/4/iran-says-strait-of-hormuz-to-remain-closed-until-us-meets-conditions"
+      },
       "cards": [
-        {"front": "Who is mediating US–Iran talks as of late September 2026?", "back": "Qatar, with indirect talks in New York during the UN General Assembly."},
-        {"front": "What does Iran want settled before nuclear talks?", "back": "Hormuz reopened, sanctions lifted, ~$12bn in frozen assets released, and a regional ceasefire including Lebanon."}
+        {
+          "front": "Who is Iran's chief negotiator with the US (as of October 2026)?",
+          "back": "Mohammad Bagher Ghalibaf, the parliament speaker."
+        },
+        {
+          "front": "What share of world oil and gas normally passes through the Strait of Hormuz?",
+          "back": "About one-fifth."
+        }
       ]
     },
     {
-      "id": "br-2026-09-26-ukraine",
-      "date": "2026-09-26",
+      "id": "br-2026-10-04-ukraine",
+      "date": "2026-10-04",
       "tag": "Europe",
       "unit": "D1",
-      "title": "US tries to revive Russia–Ukraine talks",
-      "body": "After envoys Steve Witkoff and Jared Kushner met President Putin in early September and then went to Kyiv, President Zelenskyy rejected the proposal's territorial concessions. Russia claims gains in Donbas, while Ukraine recently pushed Russian forces back near Lyman. Moscow insists on Ukrainian neutrality and control of all of Donbas. British, French and German advisers joined the Kyiv meeting, signalling European resistance to concessions.",
-      "why": "The war still affects world grain, fertiliser and fuel prices, which feed Nigerian inflation.",
-      "source": {"name": "Christian Science Monitor", "url": "https://www.csmonitor.com/World/Europe/2026/0926/russia-ukraine-peace-talks-donbas-europe-trump"},
+      "title": "Ukraine ready for three-way talks by end of October",
+      "body": "President Zelenskyy said Ukraine is ready for US-backed talks with Russia before the end of October, possibly in the United Arab Emirates. He spoke during a visit to Kyiv by German Chancellor Friedrich Merz. Moscow has also said it is open to October talks. Both sides are stepping up strikes on energy and transport as winter approaches.",
+      "why": "Any deal or escalation moves world wheat, fertiliser and fuel prices, which feed Nigerian inflation.",
+      "source": {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/4/ukraine-ready-for-us-backed-talks-with-russia-zelenskyy"
+      },
       "cards": [
-        {"front": "Why did Zelenskyy reject the September 2026 US proposal?", "back": "It required territorial concessions in the east (Donbas)."}
+        {
+          "front": "Where are US–Ukraine–Russia talks proposed for October 2026?",
+          "back": "The United Arab Emirates (or another US-proposed venue)."
+        }
       ]
     },
     {
-      "id": "br-2026-09-23-gaza",
-      "date": "2026-09-23",
+      "id": "br-2026-10-03-gaza",
+      "date": "2026-10-03",
       "tag": "Middle East",
       "unit": "D3",
-      "title": "Board of Peace sets out $2.4bn Gaza reconstruction plan",
-      "body": "The Board of Peace, created under UN Security Council Resolution 2803 and chaired by President Trump, unveiled a $2.4 billion recovery plan for Gaza. The ceasefire that began on 10 October 2025 is fragile: Israel reported 18 violations between 15 and 29 September, and Palestinians continue to be killed in Israeli strikes.",
-      "why": "Nigeria backs a two-state solution; the Gaza file is a standard current-affairs interview question.",
-      "source": {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/9/23/board-of-peace-plans-2-4bn-gaza-reconstruction-as-israel-kills-seven"},
+      "title": "Gaza ceasefire keeps fraying",
+      "body": "An Israeli strike on an apartment in Gaza City killed at least five people, and eight Palestinians were killed across Gaza that day. Israel said it was targeting Ali al-Amoudi, a senior Hamas official. At least 1,400 people have been killed in Gaza since the ceasefire began in October 2025. Gaza health authorities put the total war death toll since 7 October 2023 at more than 74,000.",
+      "why": "Nigeria backs a two-state solution, and the Gaza file is a standard current-affairs interview question.",
+      "source": {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/3/israeli-air-attack-on-gaza-city-apartment-kills-at-least-five"
+      },
       "cards": [
-        {"front": "How large is the Board of Peace's Gaza recovery plan?", "back": "$2.4 billion (announced September 2026)."}
+        {
+          "front": "Roughly how many people had been killed in Gaza since the October 2025 ceasefire, by October 2026?",
+          "back": "At least 1,400 (Al Jazeera, October 2026)."
+        }
       ]
     },
     {
@@ -50,32 +113,16 @@
       "title": "Nigeria and the Sahel: two security systems that don't talk",
       "body": "Analysts warn that the split between ECOWAS and the Alliance of Sahel States leaves gaps that groups such as JNIM, ISWAP and Lakurawa exploit along the Nigeria–Niger border. Relations are strained: Burkina Faso detained 11 Nigerian Air Force personnel in December 2025, and on 30 July 2026 the AES states rejected President Tinubu's criticism of their security record.",
       "why": "Nigeria's North-west and North-east share a long border with Niger; cooperation gaps let fighters and weapons move freely.",
-      "source": {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/8/22/nigeria-and-the-sahel-a-growing-security-divide"},
+      "source": {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/8/22/nigeria-and-the-sahel-a-growing-security-divide"
+      },
       "cards": [
-        {"front": "When did the AES states reject Tinubu's criticism of their security record?", "back": "After his remarks on 30 July 2026."}
+        {
+          "front": "When did the AES states reject Tinubu's criticism of their security record?",
+          "back": "After his remarks on 30 July 2026."
+        }
       ]
-    },
-    {
-      "id": "br-2026-07-banditry",
-      "date": "2026-07-15",
-      "tag": "Nigeria",
-      "unit": "B1",
-      "title": "Banditry in the North-west is getting worse",
-      "body": "Recorded banditry incidents in the North-west nearly doubled in 2025, to 599 incidents with 2,742 casualties. Zamfara and Sokoto are the epicentre. Researchers describe growing links between bandit gangs and jihadist groups; JNIM reportedly sent about 100 fighters to support Lakurawa in early 2026.",
-      "why": "This is Nigeria's fastest-growing security threat and a likely exam and interview topic.",
-      "source": {"name": "Africa Defense Forum", "url": "https://adf-magazine.com/2026/07/nigerias-banditry-crisis-worsens/"},
-      "cards": []
-    },
-    {
-      "id": "br-2026-04-29-fm",
-      "date": "2026-04-29",
-      "tag": "Nigeria",
-      "unit": "A2",
-      "title": "New Foreign Minister: Bianca Odumegwu-Ojukwu",
-      "body": "President Tinubu elevated Ambassador Bianca Odumegwu-Ojukwu from Minister of State to Minister of Foreign Affairs after Yusuf Tuggar stepped down to take part in the 2027 elections. Ambassador Sola Enikanolaiye was nominated as Minister of State.",
-      "why": "Office holders are a common general-knowledge question, and Tuggar was the author of the 4-D foreign policy.",
-      "source": {"name": "State House, Abuja", "url": "https://statehouse.gov.ng/president-tinubu-names-bianca-odumegwu-ojukwu-as-minister-of-foreign-affairs-nominates-amb-sola-enikanolaiye-as-minister-of-state/"},
-      "cards": []
     }
   ]
 }
