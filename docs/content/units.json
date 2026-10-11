@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06",
+  "updated": "2026-10-11",
   "modules": [
     {
       "id": "A",
@@ -116,7 +116,7 @@
           ]
         },
         {
-          "h": "Who holds the key offices (checked 5 Oct 2026)",
+          "h": "Who holds the key offices (checked 11 Oct 2026)",
           "p": [
             "President: Bola Ahmed Tinubu (since 29 May 2023). Vice-President: Kashim Shettima. Senate President: Godswill Akpabio. Speaker of the House: Tajudeen Abbas. Chief Justice: Kudirat Kekere-Ekun.",
             "Minister of Foreign Affairs: Ambassador Bianca Odumegwu-Ojukwu (elevated in April 2026 after Yusuf Tuggar stepped down to contest the 2027 elections). Minister of Defence: General Christopher Musa (rtd), the former Chief of Defence Staff.",
@@ -506,7 +506,8 @@
           "p": [
             "Pakistan hosted the Islamabad Talks on 12–13 April 2026. They failed and the US imposed a naval blockade on Iran. Pakistan then brokered the Islamabad Memorandum on 17 June, which lifted both blockades, and a US–Iran ceasefire was announced on 28 June.",
             "The ceasefire collapsed on 8 July when Iran attacked commercial ships, and the blockades resumed.",
-            "Since then Qatar has carried indirect talks, including in New York during the UN General Assembly in September 2026. Iran wants the Strait reopened, sanctions lifted, about $12 billion in frozen assets released and a ceasefire including Lebanon before nuclear talks. The US wants everything, including the nuclear programme, negotiated together. Oman and China have also played roles; China refused US calls to help reopen the Strait by force."
+            "Since then Qatar has carried indirect talks, including in New York during the UN General Assembly in September 2026. Iran wants the Strait reopened, sanctions lifted, about $12 billion in frozen assets released and a ceasefire including Lebanon before nuclear talks. The US wants everything, including the nuclear programme, negotiated together. Oman and China have also played roles; China refused US calls to help reopen the Strait by force.",
+            "Where it stands now (as of 11 October 2026): President Trump has said the US will not strike Iran before the 3 November midterm elections. Vice-President Vance now asks for a meaningful cut to Iran's enrichment capacity rather than an end to enrichment. Iran says the Strait stays closed until its terms are met, and President Pezeshkian has called talks with Washington futile."
           ]
         },
         {
@@ -518,6 +519,10 @@
         }
       ],
       "sources": [
+        {
+          "name": "Al Jazeera: Trump says US will not strike Iran before midterm elections (9 Oct 2026)",
+          "url": "https://www.aljazeera.com/news/2026/10/9/trump-says-us-will-not-strike-iran-before-midterm-elections"
+        },
         {
           "name": "Al Jazeera: US–Iran talks in New York, what's the latest? (29 Sep 2026)",
           "url": "https://www.aljazeera.com/news/2026/9/29/us-iran-talks-in-new-york-whats-the-latest"
@@ -593,7 +598,8 @@
           "h": "Sudan",
           "p": [
             "War broke out on 15 April 2023 between the Sudanese Armed Forces (General Abdel Fattah al-Burhan) and the paramilitary Rapid Support Forces (General Mohamed Hamdan Dagalo, “Hemedti”).",
-            "It has created the world's largest displacement crisis, with more than 12 million people forced from their homes, and famine. In October 2025 the RSF captured El Fasher in Darfur, with reports of mass killings. The US, Saudi Arabia, the UAE and Egypt (the “Quad”) have pushed for a truce."
+            "It has created the world's largest displacement crisis, with more than 12 million people forced from their homes, and famine. In October 2025 the RSF captured El Fasher in Darfur, with reports of mass killings. The US, Saudi Arabia, the UAE and Egypt (the “Quad”) have pushed for a truce.",
+            "Where it stands now (as of October 2026): the army holds Khartoum and most of the north, east and centre; the RSF holds almost all of Darfur. The main front is Kordofan, where the army captured al-Mazroub in early October 2026. About 14 million people have been displaced and 19.5 million face acute hunger."
           ]
         },
         {
@@ -610,6 +616,10 @@
         }
       ],
       "sources": [
+        {
+          "name": "Al Jazeera: Is the Sudanese army gaining momentum against the RSF? (4 Oct 2026)",
+          "url": "https://www.aljazeera.com/news/2026/10/4/is-the-sudanese-army-gaining-momentum-against-the-rsf"
+        },
         {
           "name": "Council on Foreign Relations: Global Conflict Tracker",
           "url": "https://www.cfr.org/global-conflict-tracker"
@@ -715,6 +725,10 @@
         {
           "name": "Africa Defense Forum: Nigeria's banditry crisis worsens (Jul 2026)",
           "url": "https://adf-magazine.com/2026/07/nigerias-banditry-crisis-worsens/"
+        },
+        {
+          "name": "Premium Times: Nigerian forces kill terrorist leader in operation aided by UK (5 Oct 2026)",
+          "url": "https://www.premiumtimesng.com/news/headlines/914612-nigerian-forces-kill-terrorist-leader-in-operation-aided-by-uk.html"
         }
       ]
     },

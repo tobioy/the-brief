@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06",
+  "updated": "2026-10-11",
   "questions": [
     {
       "id": "qA1-01",
@@ -1976,6 +1976,84 @@
       ],
       "a": 2,
       "x": "Shows interest in doing the job well."
+    },
+    {
+      "id": "qD2-10",
+      "unit": "D2",
+      "q": "In October 2026, what did US Vice-President JD Vance say Iran must do in a deal?",
+      "o": [
+        "Hand over its navy",
+        "Make a meaningful cut to its uranium enrichment capacity",
+        "Leave OPEC",
+        "Close its embassy in Qatar"
+      ],
+      "a": 1,
+      "x": "Vance asked for a meaningful cut to enrichment, softer than the earlier demand to end it."
+    },
+    {
+      "id": "qD2-11",
+      "unit": "D2",
+      "q": "President Trump said the US would not strike Iran before which event?",
+      "o": [
+        "The UN General Assembly",
+        "The 3 November 2026 midterm elections",
+        "The G20 summit",
+        "Christmas 2026"
+      ],
+      "a": 1,
+      "x": "He announced it on 8 October 2026."
+    },
+    {
+      "id": "qD4-05",
+      "unit": "D4",
+      "q": "Which town in North Kordofan did Sudan's army say it captured in October 2026?",
+      "o": [
+        "El Fasher",
+        "Port Sudan",
+        "al-Mazroub",
+        "Kassala"
+      ],
+      "a": 2,
+      "x": "Al-Mazroub links army-held North Kordofan with the RSF stronghold of West Kordofan."
+    },
+    {
+      "id": "qF1-08",
+      "unit": "F1",
+      "q": "Where was ISWAP commander Abdussamad Ohida killed in October 2026?",
+      "o": [
+        "Sambisa forest, Borno",
+        "Owo forest, Ondo State",
+        "Kamuku forest, Kaduna",
+        "Lake Chad islands"
+      ],
+      "a": 1,
+      "x": "The SSS said the operation, aided by UK intelligence, took place in Owo forest."
+    },
+    {
+      "id": "qF1-09",
+      "unit": "F1",
+      "q": "Which agency led the October 2026 operation that killed an ISWAP commander in Ondo State?",
+      "o": [
+        "EFCC",
+        "The State Security Service (SSS/DSS)",
+        "NDLEA",
+        "Nigeria Customs Service"
+      ],
+      "a": 1,
+      "x": "The SSS worked with the Army and Amotekun."
+    },
+    {
+      "id": "qB1-11",
+      "unit": "B1",
+      "q": "In which state did suspected Lakurawa fighters attack the Sokoto–Badagry Superhighway site in October 2026?",
+      "o": [
+        "Kebbi",
+        "Oyo",
+        "Kano",
+        "Benue"
+      ],
+      "a": 0,
+      "x": "The attack was at Gubba village, Maiyama LGA, Kebbi State."
     }
   ]
 }

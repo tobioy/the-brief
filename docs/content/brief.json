@@ -1,71 +1,72 @@
 {
-  "updated": "2026-10-07",
+  "updated": "2026-10-11",
   "week": "Week of 5 October 2026",
   "stories": [
     {
-      "id": "br-2026-10-05-army",
-      "date": "2026-10-05",
-      "tag": "Nigeria",
-      "unit": "B1",
-      "title": "New Army formations in Zamfara, Kebbi, Oyo and Osun",
-      "body": "President Tinubu announced that the Nigerian Army has opened new formations in Zamfara, Kebbi, Oyo and Osun states to put troops closer to vulnerable communities and speed up response to attacks. More barracks and depots are being built in Abuja, Ekiti, Ebonyi and Kogi. The President also recently approved a pay rise for the Armed Forces. On 6 October he met the Defence Minister, General Christopher Musa (rtd), in Lagos to review counter-insurgency and anti-banditry operations.",
-      "why": "Zamfara and Kebbi are on the front line of banditry and the Lakurawa threat along the Niger border.",
-      "source": {
-        "name": "Voice of Nigeria",
-        "url": "https://von.gov.ng/new-army-formations-operationalised-in-four-states-president-tinubu/"
-      },
-      "cards": [
-        {
-          "front": "In which four states did the Army open new formations in October 2026?",
-          "back": "Zamfara, Kebbi, Oyo and Osun."
-        },
-        {
-          "front": "Who is Nigeria's Minister of Defence (as of October 2026)?",
-          "back": "General Christopher Gwabin Musa (rtd)."
-        }
-      ]
-    },
-    {
-      "id": "br-2026-10-05-naf-crash",
-      "date": "2026-10-05",
-      "tag": "Nigeria",
-      "unit": "A2",
-      "title": "Air Force plane crash: three days of national mourning",
-      "body": "A Nigerian Air Force ATR-42 aircraft crashed near the naval base at Igbokoda, Ondo State, on a routine flight from Benin to Lagos. It was carrying 32 people: 25 passengers and seven crew. President Tinubu declared three days of national mourning, ordered flags flown at half-mast and directed the Air Force to investigate the cause.",
-      "why": "Losing trained personnel and aircraft strains an Air Force already stretched across several conflict zones.",
-      "source": {
-        "name": "State House, Abuja",
-        "url": "https://statehouse.gov.ng/president-tinubu-declares-three-day-mourning-for-air-force-personnel-who-died-in-aircraft-crash/"
-      },
-      "cards": [
-        {
-          "front": "Where did the Nigerian Air Force ATR-42 crash in October 2026?",
-          "back": "Near the naval base at Igbokoda, Ondo State, on a flight from Benin to Lagos."
-        }
-      ]
-    },
-    {
-      "id": "br-2026-10-04-hormuz",
-      "date": "2026-10-04",
+      "id": "br-2026-10-09-iran",
+      "date": "2026-10-09",
       "tag": "Middle East",
       "unit": "D2",
-      "title": "Iran: Hormuz stays shut until the US meets our terms",
-      "body": "Iran said the Strait of Hormuz will stay closed until Washington accepts its conditions. Parliament speaker and chief negotiator Mohammad Bagher Ghalibaf said the era of unilateral demands is over. President Trump rejected Iran's seven-day plan to reopen the strait. The closure has lasted more than seven months, since the US–Israeli strikes of 28 February 2026. The US wants nuclear talks first, while Iran's priority is the strait.",
-      "why": "About a fifth of the world's oil and gas normally passes through Hormuz, so the closure drives fuel and shipping costs in Nigeria.",
+      "title": "Trump: no strike on Iran before the midterms",
+      "body": "President Trump said the US will not attack Iran before the 3 November midterm elections, describing talks as productive. Vice-President JD Vance said Iran must make a meaningful cut to its uranium enrichment capacity, which experts see as softer than the earlier demand to end enrichment completely. Iran's Foreign Minister Abbas Araghchi said Tehran would answer the US response to its seven-day Hormuz plan within days. Iranian media reported explosions in the southern Strait, possibly from sea mines.",
+      "why": "Oil prices swing on every signal from Washington and Tehran, which feeds straight into Nigeria's fuel and budget planning.",
       "source": {
         "name": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/4/iran-says-strait-of-hormuz-to-remain-closed-until-us-meets-conditions"
+        "url": "https://www.aljazeera.com/news/2026/10/9/trump-says-us-will-not-strike-iran-before-midterm-elections"
       },
       "cards": [
         {
-          "front": "Who is Iran's chief negotiator with the US (as of October 2026)?",
-          "back": "Mohammad Bagher Ghalibaf, the parliament speaker."
-        },
-        {
-          "front": "What share of world oil and gas normally passes through the Strait of Hormuz?",
-          "back": "About one-fifth."
+          "front": "What did US Vice-President Vance demand of Iran in October 2026?",
+          "back": "A meaningful cut to its uranium enrichment capacity (Iran has reached 60% enrichment)."
         }
       ]
+    },
+    {
+      "id": "br-2026-10-08-kebbi",
+      "date": "2026-10-08",
+      "tag": "Nigeria",
+      "unit": "B1",
+      "title": "Lakurawa attack halts work on Sokoto–Badagry highway",
+      "body": "Suspected Lakurawa fighters attacked a construction site of the Sokoto–Badagry Superhighway at Gubba village, Maiyama LGA, Kebbi State. Two security personnel and a foreign worker were killed and two civilians wounded. Police said the attackers came from the Kebbe area of Sokoto State, and construction has been suspended.",
+      "why": "Attacks on major federal road projects show how insecurity in the North-west slows Nigeria's economic plans.",
+      "source": {
+        "name": "Premium Times (from NAN)",
+        "url": "https://www.premiumtimesng.com/news/top-news/915471-lakurawa-terrorists-kill-two-security-officers-foreign-workers-in-kebbi-police.html"
+      },
+      "cards": []
+    },
+    {
+      "id": "br-2026-10-05-owo",
+      "date": "2026-10-05",
+      "tag": "Nigeria",
+      "unit": "F1",
+      "title": "ISWAP commander killed in Ondo with UK help",
+      "body": "The State Security Service (SSS) said an intelligence-led operation with the Army and Amotekun killed Abdussamad Ohida, known as Anwar, a senior ISWAP commander, in Owo forest, Ondo State. The SSS said he was planning attacks in southern states during the festive season and the 2027 elections. It said intelligence partners from the UK helped, the first time the UK has been publicly named in such an operation.",
+      "why": "It shows jihadist groups reaching into the South-west and the growing role of foreign intelligence partnerships.",
+      "source": {
+        "name": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/headlines/914612-nigerian-forces-kill-terrorist-leader-in-operation-aided-by-uk.html"
+      },
+      "cards": [
+        {
+          "front": "Which ISWAP commander was killed in Owo forest in October 2026?",
+          "back": "Abdussamad Ohida (\"Anwar\"), in an SSS-led operation aided by UK intelligence."
+        }
+      ]
+    },
+    {
+      "id": "br-2026-10-04-sudan",
+      "date": "2026-10-04",
+      "tag": "Africa",
+      "unit": "D4",
+      "title": "Sudan's army pushes the RSF back in Kordofan",
+      "body": "Sudan's army said it captured al-Mazroub in North Kordofan, a town linking army-held areas to the RSF stronghold of West Kordofan. The army also claimed gains in Blue Nile state. The RSF still holds almost all of Darfur after taking El Fasher in October 2025, so the main front has moved to Kordofan. The war has displaced 14 million people.",
+      "why": "Sudan is Africa's largest humanitarian crisis, and its arms and fighters flow across the Sahel.",
+      "source": {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/4/is-the-sudanese-army-gaining-momentum-against-the-rsf"
+      },
+      "cards": []
     },
     {
       "id": "br-2026-10-04-ukraine",
@@ -102,25 +103,6 @@
         {
           "front": "Roughly how many people had been killed in Gaza since the October 2025 ceasefire, by October 2026?",
           "back": "At least 1,400 (Al Jazeera, October 2026)."
-        }
-      ]
-    },
-    {
-      "id": "br-2026-08-22-sahel",
-      "date": "2026-08-22",
-      "tag": "Sahel",
-      "unit": "C1",
-      "title": "Nigeria and the Sahel: two security systems that don't talk",
-      "body": "Analysts warn that the split between ECOWAS and the Alliance of Sahel States leaves gaps that groups such as JNIM, ISWAP and Lakurawa exploit along the Nigeria–Niger border. Relations are strained: Burkina Faso detained 11 Nigerian Air Force personnel in December 2025, and on 30 July 2026 the AES states rejected President Tinubu's criticism of their security record.",
-      "why": "Nigeria's North-west and North-east share a long border with Niger; cooperation gaps let fighters and weapons move freely.",
-      "source": {
-        "name": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/8/22/nigeria-and-the-sahel-a-growing-security-divide"
-      },
-      "cards": [
-        {
-          "front": "When did the AES states reject Tinubu's criticism of their security record?",
-          "back": "After his remarks on 30 July 2026."
         }
       ]
     }

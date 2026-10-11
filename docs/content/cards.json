@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06",
+  "updated": "2026-10-11",
   "cards": [
     {
       "id": "A1-01",
@@ -990,6 +990,36 @@
       "unit": "A5",
       "front": "How many states did Nigeria have in 1967, 1976, 1991 and 1996?",
       "back": "12, 19, 30 and 36."
+    },
+    {
+      "id": "D2-11",
+      "unit": "D2",
+      "front": "Before which date did Trump say the US would not strike Iran (October 2026)?",
+      "back": "The US midterm elections on 3 November 2026."
+    },
+    {
+      "id": "D2-12",
+      "unit": "D2",
+      "front": "What level of uranium enrichment has Iran reached, according to the IAEA?",
+      "back": "60 percent (weapons-grade is about 90 percent)."
+    },
+    {
+      "id": "D4-04",
+      "unit": "D4",
+      "front": "Which region is now the main front of Sudan's war (as of October 2026)?",
+      "back": "Kordofan, after the RSF took El Fasher in Darfur in October 2025."
+    },
+    {
+      "id": "F1-08",
+      "unit": "F1",
+      "front": "Which country's intelligence was publicly credited with helping kill an ISWAP commander in Ondo in October 2026?",
+      "back": "The United Kingdom."
+    },
+    {
+      "id": "B1-11",
+      "unit": "B1",
+      "front": "Which group attacked the Sokoto–Badagry Superhighway site in Kebbi in October 2026?",
+      "back": "Suspected Lakurawa fighters."
     }
   ]
 }
