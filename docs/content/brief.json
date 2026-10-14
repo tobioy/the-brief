@@ -1,7 +1,64 @@
 {
-  "updated": "2026-10-11",
-  "week": "Week of 5 October 2026",
+  "updated": "2026-10-14",
+  "week": "Week of 12 October 2026",
   "stories": [
+    {
+      "id": "br-2026-10-13-gaza",
+      "date": "2026-10-13",
+      "tag": "Middle East",
+      "unit": "D3",
+      "title": "Gaza ceasefire turns one, but the killing goes on",
+      "body": "One year after the Gaza ceasefire took effect, Gaza's Health Ministry says 1,493 people have been killed and 5,299 wounded since the truce began. More than 100 aid and rights groups say the ceasefire exists in name only. Aid trucks are entering at about a third of the agreed rate, and no international stabilisation force has deployed. Israel now controls nearly two-thirds of the Strip, more than the roughly 50 percent agreed.",
+      "why": "Nigeria backs a two-state solution, and the ceasefire's anniversary is a likely current-affairs question.",
+      "source": {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/13/palestine-weekly-gaza-marks-year-of-ceasefire-with-more-israeli-killing"
+      },
+      "cards": [
+        {
+          "front": "About how much of Gaza did Israel control one year into the ceasefire (October 2026)?",
+          "back": "Nearly two-thirds, more than the roughly 50 percent agreed."
+        }
+      ]
+    },
+    {
+      "id": "br-2026-10-12-hormuz-shuttle",
+      "date": "2026-10-12",
+      "tag": "Middle East",
+      "unit": "D2",
+      "title": "Iran targets the oil 'shuttle' out of Hormuz",
+      "body": "Iran's security chief Mohsen Rezaei said Iran will target a US-assisted shuttle that moves Gulf oil out through routes near Oman, and warned that US-linked facilities in the UAE could also be hit. Several tankers were damaged over the weekend, and at least 15 ships had been targeted in October. Only about 31 ships a day crossed the strait in late September, against 138 before the war. Iran says the US has accepted some of its conditions but insists on all of them before a deal.",
+      "why": "Shipping costs for Gulf crude have jumped to 25–30 percent of its price, which keeps world fuel prices high for importers like Nigeria.",
+      "source": {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/10/12/iran-sets-crosshairs-on-us-uae-oil-shuttle-out-of-strait-of-hormuz"
+      },
+      "cards": [
+        {
+          "front": "How many ships a day crossed the Strait of Hormuz before the 2026 war, and in late September 2026?",
+          "back": "About 138 before the war; about 31 in late September 2026."
+        }
+      ]
+    },
+    {
+      "id": "br-2026-10-10-dhq",
+      "date": "2026-10-10",
+      "tag": "Nigeria",
+      "unit": "B2",
+      "title": "Military: 36 terrorists killed, 50 hostages freed in a week",
+      "body": "Defence Headquarters said troops killed 36 terrorists and rescued at least 50 kidnapped people between 2 and 8 October. In Borno, Operation Hadin Kai repelled an ISWAP assault on Kukawa. In Kebbi, Operation Fansan Yamma killed 10 Lakurawa fighters. In Imo, troops freed 20 prospective NYSC corps members abducted on the Owerri–Onitsha Expressway. The Chief of Defence Staff, General Olufemi Oluyede, urged citizens to report terrorist collaborators.",
+      "why": "It shows Nigeria's security threats in every zone at once, from ISWAP in the North-east to kidnapping in the South-east.",
+      "source": {
+        "name": "Premium Times (from NAN)",
+        "url": "https://www.premiumtimesng.com/news/headlines/916012-military-troops-%E2%81%A0%E2%81%A0%E2%81%A0%E2%81%A0kill-36-terrorists-rescue-50-abductees-achieve-other-suc.html"
+      },
+      "cards": [
+        {
+          "front": "Which military operation covers Kebbi and the North-west against Lakurawa and bandits?",
+          "back": "Operation Fansan Yamma."
+        }
+      ]
+    },
     {
       "id": "br-2026-10-09-iran",
       "date": "2026-10-09",
@@ -22,53 +79,6 @@
       ]
     },
     {
-      "id": "br-2026-10-08-kebbi",
-      "date": "2026-10-08",
-      "tag": "Nigeria",
-      "unit": "B1",
-      "title": "Lakurawa attack halts work on Sokoto–Badagry highway",
-      "body": "Suspected Lakurawa fighters attacked a construction site of the Sokoto–Badagry Superhighway at Gubba village, Maiyama LGA, Kebbi State. Two security personnel and a foreign worker were killed and two civilians wounded. Police said the attackers came from the Kebbe area of Sokoto State, and construction has been suspended.",
-      "why": "Attacks on major federal road projects show how insecurity in the North-west slows Nigeria's economic plans.",
-      "source": {
-        "name": "Premium Times (from NAN)",
-        "url": "https://www.premiumtimesng.com/news/top-news/915471-lakurawa-terrorists-kill-two-security-officers-foreign-workers-in-kebbi-police.html"
-      },
-      "cards": []
-    },
-    {
-      "id": "br-2026-10-05-owo",
-      "date": "2026-10-05",
-      "tag": "Nigeria",
-      "unit": "F1",
-      "title": "ISWAP commander killed in Ondo with UK help",
-      "body": "The State Security Service (SSS) said an intelligence-led operation with the Army and Amotekun killed Abdussamad Ohida, known as Anwar, a senior ISWAP commander, in Owo forest, Ondo State. The SSS said he was planning attacks in southern states during the festive season and the 2027 elections. It said intelligence partners from the UK helped, the first time the UK has been publicly named in such an operation.",
-      "why": "It shows jihadist groups reaching into the South-west and the growing role of foreign intelligence partnerships.",
-      "source": {
-        "name": "Premium Times",
-        "url": "https://www.premiumtimesng.com/news/headlines/914612-nigerian-forces-kill-terrorist-leader-in-operation-aided-by-uk.html"
-      },
-      "cards": [
-        {
-          "front": "Which ISWAP commander was killed in Owo forest in October 2026?",
-          "back": "Abdussamad Ohida (\"Anwar\"), in an SSS-led operation aided by UK intelligence."
-        }
-      ]
-    },
-    {
-      "id": "br-2026-10-04-sudan",
-      "date": "2026-10-04",
-      "tag": "Africa",
-      "unit": "D4",
-      "title": "Sudan's army pushes the RSF back in Kordofan",
-      "body": "Sudan's army said it captured al-Mazroub in North Kordofan, a town linking army-held areas to the RSF stronghold of West Kordofan. The army also claimed gains in Blue Nile state. The RSF still holds almost all of Darfur after taking El Fasher in October 2025, so the main front has moved to Kordofan. The war has displaced 14 million people.",
-      "why": "Sudan is Africa's largest humanitarian crisis, and its arms and fighters flow across the Sahel.",
-      "source": {
-        "name": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/4/is-the-sudanese-army-gaining-momentum-against-the-rsf"
-      },
-      "cards": []
-    },
-    {
       "id": "br-2026-10-04-ukraine",
       "date": "2026-10-04",
       "tag": "Europe",
@@ -84,25 +94,6 @@
         {
           "front": "Where are US–Ukraine–Russia talks proposed for October 2026?",
           "back": "The United Arab Emirates (or another US-proposed venue)."
-        }
-      ]
-    },
-    {
-      "id": "br-2026-10-03-gaza",
-      "date": "2026-10-03",
-      "tag": "Middle East",
-      "unit": "D3",
-      "title": "Gaza ceasefire keeps fraying",
-      "body": "An Israeli strike on an apartment in Gaza City killed at least five people, and eight Palestinians were killed across Gaza that day. Israel said it was targeting Ali al-Amoudi, a senior Hamas official. At least 1,400 people have been killed in Gaza since the ceasefire began in October 2025. Gaza health authorities put the total war death toll since 7 October 2023 at more than 74,000.",
-      "why": "Nigeria backs a two-state solution, and the Gaza file is a standard current-affairs interview question.",
-      "source": {
-        "name": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/3/israeli-air-attack-on-gaza-city-apartment-kills-at-least-five"
-      },
-      "cards": [
-        {
-          "front": "Roughly how many people had been killed in Gaza since the October 2025 ceasefire, by October 2026?",
-          "back": "At least 1,400 (Al Jazeera, October 2026)."
         }
       ]
     }
