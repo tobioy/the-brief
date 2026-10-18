@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11",
+  "updated": "2026-10-18",
   "questions": [
     {
       "id": "qA1-01",
@@ -2054,6 +2054,71 @@
       ],
       "a": 0,
       "x": "The attack was at Gubba village, Maiyama LGA, Kebbi State."
+    },
+    {
+      "id": "qD2-12",
+      "unit": "D2",
+      "q": "What price did Brent crude reach in mid-October 2026 as attacks in Hormuz increased?",
+      "o": [
+        "$65",
+        "$80",
+        "$110",
+        "$150"
+      ],
+      "a": 2,
+      "x": "Brent hit $110 a barrel on 16 October 2026, its highest since May."
+    },
+    {
+      "id": "qD2-13",
+      "unit": "D2",
+      "q": "Which two countries were relaying messages between the US and Iran in October 2026?",
+      "o": [
+        "Pakistan and Qatar",
+        "India and Brazil",
+        "Norway and Japan",
+        "Egypt and Kenya"
+      ],
+      "a": 0,
+      "x": "Al Jazeera reported that Pakistan, Qatar and other regional mediators were passing messages."
+    },
+    {
+      "id": "qD1-08",
+      "unit": "D1",
+      "q": "What is the name of Ukraine's 2026 counter-offensive in eastern Donetsk?",
+      "o": [
+        "Operation Barbarossa",
+        "Operation Vivaldi",
+        "Operation Desert Storm",
+        "Operation Spiderweb"
+      ],
+      "a": 1,
+      "x": "Operation Vivaldi retook about 275 sq km and 16 settlements from August to October 2026."
+    },
+    {
+      "id": "qB1-12",
+      "unit": "B1",
+      "q": "In October 2026, which official announced President Tinubu's order to rescue all kidnapped victims?",
+      "o": [
+        "The Chief Justice",
+        "Defence Minister Christopher Musa",
+        "The Senate President",
+        "The Governor of Lagos"
+      ],
+      "a": 1,
+      "x": "Musa spoke after a security meeting at the State House, Abuja."
+    },
+    {
+      "id": "qB1-13",
+      "unit": "B1",
+      "q": "Why did bandits attack Fanga in Niger State in October 2026, according to residents?",
+      "o": [
+        "A land dispute with herders",
+        "The community could not pay the levies the bandits demanded",
+        "An election result",
+        "A religious festival"
+      ],
+      "a": 1,
+      "x": "Residents said the gang had imposed levies five times and attacked again when they could not pay."
     }
   ]
 }

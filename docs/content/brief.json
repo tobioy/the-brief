@@ -1,7 +1,78 @@
 {
-  "updated": "2026-10-14",
+  "updated": "2026-10-18",
   "week": "Week of 12 October 2026",
   "stories": [
+    {
+      "id": "br-2026-10-17-hormuz",
+      "date": "2026-10-17",
+      "tag": "Middle East",
+      "unit": "D2",
+      "title": "Hormuz attacks hit a record as oil reaches $110",
+      "body": "October has seen more attacks on ships than any month since the war began on 28 February. UK Maritime Trade Operations confirmed at least 12 ships attacked in the week to 16 October, and one, the GFS Pride, sank. The US and Iran both claim to control the Strait. Brent crude reached $110 a barrel, its highest since May. Pakistan and Qatar are still passing messages, but no breakthrough is expected before the 3 November US midterms.",
+      "why": "Higher oil prices raise Nigeria's export earnings but also the cost of imported fuel, shipping and food.",
+      "source": {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/17/us-and-iran-both-claim-control-of-strait-of-hormuz-amid-attacks-on-vessels"
+      },
+      "cards": [
+        {
+          "front": "What price did Brent crude reach in mid-October 2026?",
+          "back": "$110 a barrel, its highest since May 2026."
+        }
+      ]
+    },
+    {
+      "id": "br-2026-10-16-ukraine",
+      "date": "2026-10-16",
+      "tag": "Europe",
+      "unit": "D1",
+      "title": "Ukraine retakes ground in Donetsk as US support wavers",
+      "body": "Ukraine said its Operation Vivaldi has retaken about 275 sq km and 16 settlements in eastern Donetsk since August, blunting Russia's push towards Lyman. President Trump declared an energy ceasefire on 11 October, but Russia then fired 850 drones and 39 missiles in a single day at energy targets. On 9 October Trump also invited Russia to sell 1.8 million tonnes of diesel on world markets. President Zelenskyy said partners did not share warning of missiles that hit a Kyiv power plant on 13 October.",
+      "why": "Russian fuel sales and attacks on energy supplies both move world fuel prices, which Nigeria feels at the pump.",
+      "source": {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/16/ukraine-repels-russian-forces-as-us-support-wavers-energy-strikes-escalate"
+      },
+      "cards": [
+        {
+          "front": "What is Ukraine's Operation Vivaldi (2026)?",
+          "back": "A counter-offensive in eastern Donetsk that retook about 275 sq km and 16 settlements from August to October 2026."
+        }
+      ]
+    },
+    {
+      "id": "br-2026-10-16-directive",
+      "date": "2026-10-16",
+      "tag": "Nigeria",
+      "unit": "B1",
+      "title": "Tinubu orders agencies to rescue all kidnap victims",
+      "body": "After a security meeting at the State House, Defence Minister Christopher Musa said President Tinubu had ordered security agencies to rescue all kidnapped people and dismantle terrorist and bandit camps. The meeting also looked at security for the 2027 elections. Musa said the armed forces will stay neutral and give all parties and candidates equal treatment.",
+      "why": "Election-season security and kidnapping are both likely interview topics.",
+      "source": {
+        "name": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/top-news/917502-2027-tinubu-issues-fresh-directive-orders-security-agencies-to-rescue-all-kidnapped-victims.html"
+      },
+      "cards": []
+    },
+    {
+      "id": "br-2026-10-15-niger-state",
+      "date": "2026-10-15",
+      "tag": "Nigeria",
+      "unit": "B1",
+      "title": "Bandits tax and attack villages in Niger State",
+      "body": "Suspected bandits killed five farmers and abducted 18 people in attacks on Fanga (Mashegu LGA) and on Kigbere and Kokani (Borgu LGA) between 9 and 12 October. Residents of Fanga said the gang had imposed levies five times and attacked again when the community could not pay. Villagers in Rukukuje, Rijau LGA, fled after reports that bandits were moving in from Zamfara.",
+      "why": "Bandits charging illegal levies show they are acting like a parallel government in parts of the North-central and North-west.",
+      "source": {
+        "name": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/top-news/917252-bandits-kill-five-abduct-18-in-niger-communities.html"
+      },
+      "cards": [
+        {
+          "front": "What is a bandit 'levy' in Nigeria's North-west and North-central?",
+          "back": "Money bandit gangs force communities to pay, under threat of attack."
+        }
+      ]
+    },
     {
       "id": "br-2026-10-13-gaza",
       "date": "2026-10-13",
@@ -22,25 +93,6 @@
       ]
     },
     {
-      "id": "br-2026-10-12-hormuz-shuttle",
-      "date": "2026-10-12",
-      "tag": "Middle East",
-      "unit": "D2",
-      "title": "Iran targets the oil 'shuttle' out of Hormuz",
-      "body": "Iran's security chief Mohsen Rezaei said Iran will target a US-assisted shuttle that moves Gulf oil out through routes near Oman, and warned that US-linked facilities in the UAE could also be hit. Several tankers were damaged over the weekend, and at least 15 ships had been targeted in October. Only about 31 ships a day crossed the strait in late September, against 138 before the war. Iran says the US has accepted some of its conditions but insists on all of them before a deal.",
-      "why": "Shipping costs for Gulf crude have jumped to 25–30 percent of its price, which keeps world fuel prices high for importers like Nigeria.",
-      "source": {
-        "name": "Al Jazeera",
-        "url": "https://www.aljazeera.com/economy/2026/10/12/iran-sets-crosshairs-on-us-uae-oil-shuttle-out-of-strait-of-hormuz"
-      },
-      "cards": [
-        {
-          "front": "How many ships a day crossed the Strait of Hormuz before the 2026 war, and in late September 2026?",
-          "back": "About 138 before the war; about 31 in late September 2026."
-        }
-      ]
-    },
-    {
       "id": "br-2026-10-10-dhq",
       "date": "2026-10-10",
       "tag": "Nigeria",
@@ -56,44 +108,6 @@
         {
           "front": "Which military operation covers Kebbi and the North-west against Lakurawa and bandits?",
           "back": "Operation Fansan Yamma."
-        }
-      ]
-    },
-    {
-      "id": "br-2026-10-09-iran",
-      "date": "2026-10-09",
-      "tag": "Middle East",
-      "unit": "D2",
-      "title": "Trump: no strike on Iran before the midterms",
-      "body": "President Trump said the US will not attack Iran before the 3 November midterm elections, describing talks as productive. Vice-President JD Vance said Iran must make a meaningful cut to its uranium enrichment capacity, which experts see as softer than the earlier demand to end enrichment completely. Iran's Foreign Minister Abbas Araghchi said Tehran would answer the US response to its seven-day Hormuz plan within days. Iranian media reported explosions in the southern Strait, possibly from sea mines.",
-      "why": "Oil prices swing on every signal from Washington and Tehran, which feeds straight into Nigeria's fuel and budget planning.",
-      "source": {
-        "name": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/9/trump-says-us-will-not-strike-iran-before-midterm-elections"
-      },
-      "cards": [
-        {
-          "front": "What did US Vice-President Vance demand of Iran in October 2026?",
-          "back": "A meaningful cut to its uranium enrichment capacity (Iran has reached 60% enrichment)."
-        }
-      ]
-    },
-    {
-      "id": "br-2026-10-04-ukraine",
-      "date": "2026-10-04",
-      "tag": "Europe",
-      "unit": "D1",
-      "title": "Ukraine ready for three-way talks by end of October",
-      "body": "President Zelenskyy said Ukraine is ready for US-backed talks with Russia before the end of October, possibly in the United Arab Emirates. He spoke during a visit to Kyiv by German Chancellor Friedrich Merz. Moscow has also said it is open to October talks. Both sides are stepping up strikes on energy and transport as winter approaches.",
-      "why": "Any deal or escalation moves world wheat, fertiliser and fuel prices, which feed Nigerian inflation.",
-      "source": {
-        "name": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/4/ukraine-ready-for-us-backed-talks-with-russia-zelenskyy"
-      },
-      "cards": [
-        {
-          "front": "Where are US–Ukraine–Russia talks proposed for October 2026?",
-          "back": "The United Arab Emirates (or another US-proposed venue)."
         }
       ]
     }

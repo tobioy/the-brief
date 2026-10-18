@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11",
+  "updated": "2026-10-18",
   "cards": [
     {
       "id": "A1-01",
@@ -1020,6 +1020,30 @@
       "unit": "B1",
       "front": "Which group attacked the Sokoto–Badagry Superhighway site in Kebbi in October 2026?",
       "back": "Suspected Lakurawa fighters."
+    },
+    {
+      "id": "D2-13",
+      "unit": "D2",
+      "front": "Which UK body reports attacks on merchant ships in the Gulf and Red Sea?",
+      "back": "UK Maritime Trade Operations (UKMTO)."
+    },
+    {
+      "id": "D2-14",
+      "unit": "D2",
+      "front": "Which countries were passing messages between the US and Iran in October 2026?",
+      "back": "Pakistan and Qatar, among other regional mediators."
+    },
+    {
+      "id": "D1-09",
+      "unit": "D1",
+      "front": "What did President Trump declare on 11 October 2026 regarding Ukraine?",
+      "back": "An energy ceasefire, which Russia broke with mass drone and missile strikes."
+    },
+    {
+      "id": "B1-12",
+      "unit": "B1",
+      "front": "Which Niger State LGAs were hit by bandit attacks on 9–12 October 2026?",
+      "back": "Mashegu (Fanga) and Borgu (Kigbere and Kokani)."
     }
   ]
 }
