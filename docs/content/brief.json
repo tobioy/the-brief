@@ -1,7 +1,68 @@
 {
-  "updated": "2026-10-18",
-  "week": "Week of 12 October 2026",
+  "updated": "2026-10-21",
+  "week": "Week of 19 October 2026",
   "stories": [
+    {
+      "id": "br-2026-10-20-ukraine-oslo",
+      "date": "2026-10-20",
+      "tag": "Europe",
+      "unit": "D1",
+      "title": "Zelenskyy meets US envoy in Oslo as Trump turns up the pressure",
+      "body": "President Zelenskyy met US envoy Steve Witkoff and European leaders in Oslo, Norway, saying Ukraine has clear ideas on how to reach peace. Witkoff was due in Russia the next day. In Washington, President Trump said Zelenskyy has to want to settle the war, or it will be a very bad thing. Trump has also waived new sanctions on Russian oil and allowed Russian diesel exports, which Zelenskyy called a reward for President Putin.",
+      "why": "A deal, or a collapse of talks, would move world grain and fuel prices that feed Nigerian inflation.",
+      "source": {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/20/i-dont-care-how-its-done-trump-pressures-ukraine-to-cut-peace-deal"
+      },
+      "cards": [
+        {
+          "front": "Where did Zelenskyy meet US envoy Steve Witkoff and European leaders on 20 October 2026?",
+          "back": "Oslo, Norway."
+        }
+      ]
+    },
+    {
+      "id": "br-2026-10-19-qatar-energy",
+      "date": "2026-10-19",
+      "tag": "Middle East",
+      "unit": "D2",
+      "title": "Qatar: the energy shock from the Iran war has not peaked",
+      "body": "Qatar's defence minister, Sheikh Saoud bin Abdulrahman Al Thani, told the Global Security Forum in Doha that the world has not yet felt the worst of the war's effect on energy. Iranian strikes in March damaged Qatar's Ras Laffan gas complex, and repairs will take several years. He rejected any transit fees for ships in the Strait of Hormuz. Qatar, Pakistan and Oman are mediating between the US and Iran.",
+      "why": "Qatar is one of the world's biggest gas exporters, so damage there keeps global energy prices high for importers and raises the value of Nigeria's own gas.",
+      "source": {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/19/qatar-warns-global-energy-shockwaves-from-iran-war-have-yet-to-peak"
+      },
+      "cards": [
+        {
+          "front": "Which Qatari gas complex was damaged by Iranian strikes in March 2026?",
+          "back": "Ras Laffan; repairs are expected to take several years."
+        }
+      ]
+    },
+    {
+      "id": "br-2026-10-17-aes-ecowas",
+      "date": "2026-10-17",
+      "tag": "Sahel",
+      "unit": "C1",
+      "title": "AES and ECOWAS hold first talks since the split",
+      "body": "Ministers from ECOWAS and the Alliance of Sahel States (Mali, Burkina Faso and Niger) met in Dakar, Senegal, on 17 October. ECOWAS was led by Senegal's Foreign Minister Cheikh Niang and the AES by Burkina Faso's Foreign Minister Karamoko Jean-Marie Traoré. They agreed to set up joint working groups to draft a cooperation framework based on good neighbourliness and respect for sovereignty. The talks are about cooperation, not about the three states rejoining, and no timeline or trade deal was announced.",
+      "why": "Nigeria shares a long border with Niger, so any security and trade cooperation with the AES directly affects the North-west and North-east.",
+      "source": {
+        "name": "BusinessDay",
+        "url": "https://businessday.ng/politics/article/mali-burkina-faso-niger-open-talks-to-rejoin-ecowas-after-nearly-21-month-split/"
+      },
+      "cards": [
+        {
+          "front": "Where did ECOWAS and the AES hold ministerial talks in October 2026?",
+          "back": "Dakar, Senegal, on 17 October 2026."
+        },
+        {
+          "front": "What did ECOWAS and the AES agree in Dakar in October 2026?",
+          "back": "To set up joint working groups to draft a cooperation framework. Rejoining ECOWAS was not agreed."
+        }
+      ]
+    },
     {
       "id": "br-2026-10-17-hormuz",
       "date": "2026-10-17",
@@ -22,39 +83,6 @@
       ]
     },
     {
-      "id": "br-2026-10-16-ukraine",
-      "date": "2026-10-16",
-      "tag": "Europe",
-      "unit": "D1",
-      "title": "Ukraine retakes ground in Donetsk as US support wavers",
-      "body": "Ukraine said its Operation Vivaldi has retaken about 275 sq km and 16 settlements in eastern Donetsk since August, blunting Russia's push towards Lyman. President Trump declared an energy ceasefire on 11 October, but Russia then fired 850 drones and 39 missiles in a single day at energy targets. On 9 October Trump also invited Russia to sell 1.8 million tonnes of diesel on world markets. President Zelenskyy said partners did not share warning of missiles that hit a Kyiv power plant on 13 October.",
-      "why": "Russian fuel sales and attacks on energy supplies both move world fuel prices, which Nigeria feels at the pump.",
-      "source": {
-        "name": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/16/ukraine-repels-russian-forces-as-us-support-wavers-energy-strikes-escalate"
-      },
-      "cards": [
-        {
-          "front": "What is Ukraine's Operation Vivaldi (2026)?",
-          "back": "A counter-offensive in eastern Donetsk that retook about 275 sq km and 16 settlements from August to October 2026."
-        }
-      ]
-    },
-    {
-      "id": "br-2026-10-16-directive",
-      "date": "2026-10-16",
-      "tag": "Nigeria",
-      "unit": "B1",
-      "title": "Tinubu orders agencies to rescue all kidnap victims",
-      "body": "After a security meeting at the State House, Defence Minister Christopher Musa said President Tinubu had ordered security agencies to rescue all kidnapped people and dismantle terrorist and bandit camps. The meeting also looked at security for the 2027 elections. Musa said the armed forces will stay neutral and give all parties and candidates equal treatment.",
-      "why": "Election-season security and kidnapping are both likely interview topics.",
-      "source": {
-        "name": "Premium Times",
-        "url": "https://www.premiumtimesng.com/news/top-news/917502-2027-tinubu-issues-fresh-directive-orders-security-agencies-to-rescue-all-kidnapped-victims.html"
-      },
-      "cards": []
-    },
-    {
       "id": "br-2026-10-15-niger-state",
       "date": "2026-10-15",
       "tag": "Nigeria",
@@ -70,44 +98,6 @@
         {
           "front": "What is a bandit 'levy' in Nigeria's North-west and North-central?",
           "back": "Money bandit gangs force communities to pay, under threat of attack."
-        }
-      ]
-    },
-    {
-      "id": "br-2026-10-13-gaza",
-      "date": "2026-10-13",
-      "tag": "Middle East",
-      "unit": "D3",
-      "title": "Gaza ceasefire turns one, but the killing goes on",
-      "body": "One year after the Gaza ceasefire took effect, Gaza's Health Ministry says 1,493 people have been killed and 5,299 wounded since the truce began. More than 100 aid and rights groups say the ceasefire exists in name only. Aid trucks are entering at about a third of the agreed rate, and no international stabilisation force has deployed. Israel now controls nearly two-thirds of the Strip, more than the roughly 50 percent agreed.",
-      "why": "Nigeria backs a two-state solution, and the ceasefire's anniversary is a likely current-affairs question.",
-      "source": {
-        "name": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/13/palestine-weekly-gaza-marks-year-of-ceasefire-with-more-israeli-killing"
-      },
-      "cards": [
-        {
-          "front": "About how much of Gaza did Israel control one year into the ceasefire (October 2026)?",
-          "back": "Nearly two-thirds, more than the roughly 50 percent agreed."
-        }
-      ]
-    },
-    {
-      "id": "br-2026-10-10-dhq",
-      "date": "2026-10-10",
-      "tag": "Nigeria",
-      "unit": "B2",
-      "title": "Military: 36 terrorists killed, 50 hostages freed in a week",
-      "body": "Defence Headquarters said troops killed 36 terrorists and rescued at least 50 kidnapped people between 2 and 8 October. In Borno, Operation Hadin Kai repelled an ISWAP assault on Kukawa. In Kebbi, Operation Fansan Yamma killed 10 Lakurawa fighters. In Imo, troops freed 20 prospective NYSC corps members abducted on the Owerri–Onitsha Expressway. The Chief of Defence Staff, General Olufemi Oluyede, urged citizens to report terrorist collaborators.",
-      "why": "It shows Nigeria's security threats in every zone at once, from ISWAP in the North-east to kidnapping in the South-east.",
-      "source": {
-        "name": "Premium Times (from NAN)",
-        "url": "https://www.premiumtimesng.com/news/headlines/916012-military-troops-%E2%81%A0%E2%81%A0%E2%81%A0%E2%81%A0kill-36-terrorists-rescue-50-abductees-achieve-other-suc.html"
-      },
-      "cards": [
-        {
-          "front": "Which military operation covers Kebbi and the North-west against Lakurawa and bandits?",
-          "back": "Operation Fansan Yamma."
         }
       ]
     }
