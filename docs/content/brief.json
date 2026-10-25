@@ -1,23 +1,75 @@
 {
-  "updated": "2026-10-21",
+  "updated": "2026-10-25",
   "week": "Week of 19 October 2026",
   "stories": [
     {
-      "id": "br-2026-10-20-ukraine-oslo",
-      "date": "2026-10-20",
-      "tag": "Europe",
-      "unit": "D1",
-      "title": "Zelenskyy meets US envoy in Oslo as Trump turns up the pressure",
-      "body": "President Zelenskyy met US envoy Steve Witkoff and European leaders in Oslo, Norway, saying Ukraine has clear ideas on how to reach peace. Witkoff was due in Russia the next day. In Washington, President Trump said Zelenskyy has to want to settle the war, or it will be a very bad thing. Trump has also waived new sanctions on Russian oil and allowed Russian diesel exports, which Zelenskyy called a reward for President Putin.",
-      "why": "A deal, or a collapse of talks, would move world grain and fuel prices that feed Nigerian inflation.",
+      "id": "br-2026-10-24-iran",
+      "date": "2026-10-24",
+      "tag": "Middle East",
+      "unit": "D2",
+      "title": "Iran blames US as fears of new strikes grow",
+      "body": "President Masoud Pezeshkian blamed Washington for the collapse of an interim deal to end the war and said both sides should return to it. President Trump said he \"may do another little Epic Fury\", the codename of the US–Israeli campaign that began on 28 February. The Revolutionary Guards warned that even limited strikes would bring a response several times greater. Iran's Supreme Leader is now Mojtaba Khamenei, who succeeded his father and has not been seen in public since early March.",
+      "why": "A return to full-scale strikes would push oil and shipping costs even higher for Nigeria.",
       "source": {
         "name": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/20/i-dont-care-how-its-done-trump-pressures-ukraine-to-cut-peace-deal"
+        "url": "https://www.aljazeera.com/news/2026/10/24/iran-blames-us-for-deal-failure-urges-new-try-amid-fear-of-new-attacks"
       },
       "cards": [
         {
-          "front": "Where did Zelenskyy meet US envoy Steve Witkoff and European leaders on 20 October 2026?",
-          "back": "Oslo, Norway."
+          "front": "What is the codename of the US–Israeli war on Iran that began on 28 February 2026?",
+          "back": "Operation Epic Fury."
+        }
+      ]
+    },
+    {
+      "id": "br-2026-10-23-niss",
+      "date": "2026-10-23",
+      "tag": "Nigeria",
+      "unit": "A1",
+      "title": "Former DSS chief Bichi to chair the National Institute for Security Studies",
+      "body": "President Tinubu approved Yusuf Magaji Bichi, the immediate past Director-General of the DSS, as chairman of the Governing Board of the National Institute for Security Studies (NISS) in Abuja. He serves an initial four-year term from 22 October 2026 and succeeds A.A. Gadzama. The appointment was recommended by the current DSS Director-General, Oluwatosin Ajayi.",
+      "why": "NISS trains officers across Nigeria's security and intelligence community, so its leadership is a fair general-knowledge question.",
+      "source": {
+        "name": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/more-news/919511-tinubu-appoints-former-sss-dg-as-governing-board-chair-of-niss.html"
+      },
+      "cards": [
+        {
+          "front": "Who chairs the Governing Board of the National Institute for Security Studies (as of October 2026)?",
+          "back": "Yusuf Magaji Bichi, former Director-General of the DSS."
+        }
+      ]
+    },
+    {
+      "id": "br-2026-10-23-ebonyi",
+      "date": "2026-10-23",
+      "tag": "Nigeria",
+      "unit": "B2",
+      "title": "Gunmen attack opposition candidate's convoy in Ebonyi",
+      "body": "Gunmen attacked the convoy of Rollins Offia-Nwali, the Nigeria Democratic Congress (NDC) candidate for the Ezza South seat in the Ebonyi State House of Assembly, on 22 October. Police said one person died and three were wounded, and the candidate's vehicle was set on fire. The attack came days after the President ordered security agencies to protect voters and candidates ahead of the 2027 elections.",
+      "why": "Election violence is a growing risk as 2027 approaches, especially in the South-east.",
+      "source": {
+        "name": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/top-news/919718-one-killed-three-injured-as-gunmen-attack-ndc-candidates-convoy.html"
+      },
+      "cards": []
+    },
+    {
+      "id": "br-2026-10-21-putin-witkoff",
+      "date": "2026-10-21",
+      "tag": "Europe",
+      "unit": "D1",
+      "title": "Putin agrees to resume US-brokered talks on Ukraine",
+      "body": "US envoy Steve Witkoff met President Putin in Saint Petersburg, with Jared Kushner joining online. Putin agreed to resume US-mediated peace talks with Ukraine, the first since February 2026. The envoys proposed a three-way technical meeting on post-war security guarantees, which Ukraine had accepted in Oslo the day before. The Kremlin says talks could be held in Abu Dhabi from November. Russia also freed American Stephen Hubbard, 74.",
+      "why": "A path back to talks matters for world food and fuel prices that affect Nigeria.",
+      "source": {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/21/what-happened-during-witkoff-and-kushners-latest-meeting-with-putin"
+      },
+      "cards": [
+        {
+          "front": "Where did Putin meet US envoy Witkoff on 21 October 2026, and what did he agree?",
+          "back": "Saint Petersburg; to resume US-mediated peace talks with Ukraine, possibly in Abu Dhabi from November."
         }
       ]
     },
@@ -60,44 +112,6 @@
         {
           "front": "What did ECOWAS and the AES agree in Dakar in October 2026?",
           "back": "To set up joint working groups to draft a cooperation framework. Rejoining ECOWAS was not agreed."
-        }
-      ]
-    },
-    {
-      "id": "br-2026-10-17-hormuz",
-      "date": "2026-10-17",
-      "tag": "Middle East",
-      "unit": "D2",
-      "title": "Hormuz attacks hit a record as oil reaches $110",
-      "body": "October has seen more attacks on ships than any month since the war began on 28 February. UK Maritime Trade Operations confirmed at least 12 ships attacked in the week to 16 October, and one, the GFS Pride, sank. The US and Iran both claim to control the Strait. Brent crude reached $110 a barrel, its highest since May. Pakistan and Qatar are still passing messages, but no breakthrough is expected before the 3 November US midterms.",
-      "why": "Higher oil prices raise Nigeria's export earnings but also the cost of imported fuel, shipping and food.",
-      "source": {
-        "name": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/17/us-and-iran-both-claim-control-of-strait-of-hormuz-amid-attacks-on-vessels"
-      },
-      "cards": [
-        {
-          "front": "What price did Brent crude reach in mid-October 2026?",
-          "back": "$110 a barrel, its highest since May 2026."
-        }
-      ]
-    },
-    {
-      "id": "br-2026-10-15-niger-state",
-      "date": "2026-10-15",
-      "tag": "Nigeria",
-      "unit": "B1",
-      "title": "Bandits tax and attack villages in Niger State",
-      "body": "Suspected bandits killed five farmers and abducted 18 people in attacks on Fanga (Mashegu LGA) and on Kigbere and Kokani (Borgu LGA) between 9 and 12 October. Residents of Fanga said the gang had imposed levies five times and attacked again when the community could not pay. Villagers in Rukukuje, Rijau LGA, fled after reports that bandits were moving in from Zamfara.",
-      "why": "Bandits charging illegal levies show they are acting like a parallel government in parts of the North-central and North-west.",
-      "source": {
-        "name": "Premium Times",
-        "url": "https://www.premiumtimesng.com/news/top-news/917252-bandits-kill-five-abduct-18-in-niger-communities.html"
-      },
-      "cards": [
-        {
-          "front": "What is a bandit 'levy' in Nigeria's North-west and North-central?",
-          "back": "Money bandit gangs force communities to pay, under threat of attack."
         }
       ]
     }

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18",
+  "updated": "2026-10-25",
   "questions": [
     {
       "id": "qA1-01",
@@ -2119,6 +2119,84 @@
       ],
       "a": 1,
       "x": "Residents said the gang had imposed levies five times and attacked again when they could not pay."
+    },
+    {
+      "id": "qD2-14",
+      "unit": "D2",
+      "q": "Who is Iran's Supreme Leader as of October 2026?",
+      "o": [
+        "Ali Khamenei",
+        "Mojtaba Khamenei",
+        "Masoud Pezeshkian",
+        "Mohammad Bagher Ghalibaf"
+      ],
+      "a": 1,
+      "x": "Mojtaba Khamenei succeeded his father, who was killed in the strikes of 28 February 2026."
+    },
+    {
+      "id": "qD2-15",
+      "unit": "D2",
+      "q": "What is the US codename for the war on Iran that began on 28 February 2026?",
+      "o": [
+        "Operation Desert Fox",
+        "Operation Epic Fury",
+        "Operation Midnight Hammer",
+        "Operation Iron Shield"
+      ],
+      "a": 1,
+      "x": "President Trump referred to it when hinting at new strikes in October 2026."
+    },
+    {
+      "id": "qD1-09",
+      "unit": "D1",
+      "q": "In which city did Putin meet US envoy Steve Witkoff on 21 October 2026?",
+      "o": [
+        "Moscow",
+        "Saint Petersburg",
+        "Minsk",
+        "Istanbul"
+      ],
+      "a": 1,
+      "x": "They met at the Constantine Palace in Saint Petersburg."
+    },
+    {
+      "id": "qC1-12",
+      "unit": "C1",
+      "q": "Where did ECOWAS and AES ministers meet for talks on 17 October 2026?",
+      "o": [
+        "Abuja",
+        "Bamako",
+        "Dakar",
+        "Niamey"
+      ],
+      "a": 2,
+      "x": "The meeting in Dakar, Senegal, was the first since the AES left ECOWAS."
+    },
+    {
+      "id": "qC1-13",
+      "unit": "C1",
+      "q": "What was the main outcome of the October 2026 ECOWAS–AES talks?",
+      "o": [
+        "The AES rejoined ECOWAS",
+        "New sanctions on the AES",
+        "Joint working groups on a cooperation framework",
+        "A common currency"
+      ],
+      "a": 2,
+      "x": "No return to ECOWAS was agreed and no timeline was set."
+    },
+    {
+      "id": "qA1-09",
+      "unit": "A1",
+      "q": "Who was appointed chairman of the board of the National Institute for Security Studies in October 2026?",
+      "o": [
+        "Nuhu Ribadu",
+        "Yusuf Magaji Bichi",
+        "Oluwatosin Ajayi",
+        "Mohammed Mohammed"
+      ],
+      "a": 1,
+      "x": "Bichi is the immediate past Director-General of the DSS."
     }
   ]
 }

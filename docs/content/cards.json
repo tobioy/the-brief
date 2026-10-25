@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18",
+  "updated": "2026-10-25",
   "cards": [
     {
       "id": "A1-01",
@@ -1044,6 +1044,36 @@
       "unit": "B1",
       "front": "Which Niger State LGAs were hit by bandit attacks on 9–12 October 2026?",
       "back": "Mashegu (Fanga) and Borgu (Kigbere and Kokani)."
+    },
+    {
+      "id": "D2-15",
+      "unit": "D2",
+      "front": "Who succeeded Ali Khamenei as Iran's Supreme Leader in 2026?",
+      "back": "His son, Mojtaba Khamenei."
+    },
+    {
+      "id": "C1-13",
+      "unit": "C1",
+      "front": "What did ECOWAS and the AES agree at their Dakar meeting on 17 October 2026?",
+      "back": "Joint working groups to draft a cooperation framework. Rejoining ECOWAS was not agreed."
+    },
+    {
+      "id": "A1-10",
+      "unit": "A1",
+      "front": "What is NISS?",
+      "back": "The National Institute for Security Studies, Abuja, which trains security and intelligence personnel. Its board is chaired by Y.M. Bichi (from October 2026)."
+    },
+    {
+      "id": "D1-10",
+      "unit": "D1",
+      "front": "Which city has been proposed for US–Russia–Ukraine talks in late 2026?",
+      "back": "Abu Dhabi, United Arab Emirates."
+    },
+    {
+      "id": "B2-15",
+      "unit": "B2",
+      "front": "What does NDC stand for in Nigerian politics (2026)?",
+      "back": "The Nigeria Democratic Congress, an opposition party."
     }
   ]
 }
