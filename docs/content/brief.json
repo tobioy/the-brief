@@ -1,7 +1,82 @@
 {
-  "updated": "2026-10-25",
-  "week": "Week of 19 October 2026",
+  "updated": "2026-10-28",
+  "week": "Week of 26 October 2026",
   "stories": [
+    {
+      "id": "br-2026-10-27-israel-election",
+      "date": "2026-10-27",
+      "tag": "Middle East",
+      "unit": "D3",
+      "title": "Israel election: no clear winner for Netanyahu",
+      "body": "Israelis voted on 27 October with 77.7 percent turnout, the highest since 1999. Exit polls gave Prime Minister Netanyahu's bloc about 51–52 seats against about 49–51 for the opposition led by Gadi Eisenkot's Yashar party. Likud is projected to be the largest party with about 27 seats. A government needs 61 of the Knesset's 120 seats. President Isaac Herzog will nominate a candidate, who then has up to 42 days to form a government; until then Netanyahu stays on as caretaker.",
+      "why": "Who governs Israel shapes the Gaza ceasefire and the war with Iran, both live interview topics.",
+      "source": {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/28/five-key-takeaways-from-israels-parliamentary-elections"
+      },
+      "cards": [
+        {
+          "front": "How many seats are in Israel's Knesset, and how many are needed for a majority?",
+          "back": "120 seats; 61 for a majority."
+        },
+        {
+          "front": "Who led the main opposition bloc in Israel's October 2026 election?",
+          "back": "Gadi Eisenkot, leader of the Yashar party."
+        }
+      ]
+    },
+    {
+      "id": "br-2026-10-27-gecf-moscow",
+      "date": "2026-10-27",
+      "tag": "Middle East",
+      "unit": "D2",
+      "title": "Iran and Qatar leaders meet at gas summit in Moscow",
+      "body": "Iran's President Masoud Pezeshkian met Qatar's Emir, Sheikh Tamim bin Hamad Al Thani, at the 8th Gas Exporting Countries Forum summit in Moscow. They discussed energy cooperation and wider ties. Qatar is mediating between Iran and the US and has sent a delegation to Tehran, but its foreign ministry also called on Iran to stop threatening Gulf states. The war is now nearly eight months old.",
+      "why": "Nigeria is a member of the Gas Exporting Countries Forum, and the war's effect on gas markets matters for Nigerian LNG.",
+      "source": {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/27/qatars-emir-meets-irans-pezeshkian-in-moscow"
+      },
+      "cards": [
+        {
+          "front": "Where was the 8th Gas Exporting Countries Forum (GECF) summit held in October 2026?",
+          "back": "Moscow, Russia."
+        }
+      ]
+    },
+    {
+      "id": "br-2026-10-25-bakori",
+      "date": "2026-10-25",
+      "tag": "Nigeria",
+      "unit": "B1",
+      "title": "Hunters fight off bandits in Katsina",
+      "body": "Katsina State authorities said local hunters killed 14 suspected bandits who attacked travellers in Bakori LGA on 23 October. A traveller was burnt in his vehicle and one hunter was killed. Officials said the attackers, about 26 men on 13 motorcycles, were heading towards Dawan Laila forest. The state warned of possible reprisals; Premium Times could not independently verify the figures.",
+      "why": "Communities arming themselves is a sign of how stretched formal security is in the North-west, and it raises the risk of reprisal violence.",
+      "source": {
+        "name": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/top-news/920031-hunters-kill-14-bandits-in-bakori-attack-two-residents-die.html"
+      },
+      "cards": []
+    },
+    {
+      "id": "br-2026-10-23-abu-dhabi",
+      "date": "2026-10-23",
+      "tag": "Europe",
+      "unit": "D1",
+      "title": "Russia, Ukraine and US to meet in Abu Dhabi in November",
+      "body": "The Kremlin said three-way talks are planned for the first half of November in Abu Dhabi. Putin wants talks on long-term security arrangements rather than a short truce, and Russia still demands territory and no NATO membership for Ukraine. Zelenskyy wants strong security guarantees, ten years of funding for Ukraine's army and European involvement. Both sides exchanged 270 prisoners of war, and Ukraine says more than 19,000 civilians have been killed since 2022.",
+      "why": "A settlement would shift world grain and fuel prices that feed Nigerian inflation.",
+      "source": {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/23/russia-ukraine-talks-planned-for-november-in-uae-kremlin"
+      },
+      "cards": [
+        {
+          "front": "When and where are US–Russia–Ukraine talks planned (as of late October 2026)?",
+          "back": "The first half of November 2026, in Abu Dhabi."
+        }
+      ]
+    },
     {
       "id": "br-2026-10-24-iran",
       "date": "2026-10-24",
@@ -37,81 +112,6 @@
         {
           "front": "Who chairs the Governing Board of the National Institute for Security Studies (as of October 2026)?",
           "back": "Yusuf Magaji Bichi, former Director-General of the DSS."
-        }
-      ]
-    },
-    {
-      "id": "br-2026-10-23-ebonyi",
-      "date": "2026-10-23",
-      "tag": "Nigeria",
-      "unit": "B2",
-      "title": "Gunmen attack opposition candidate's convoy in Ebonyi",
-      "body": "Gunmen attacked the convoy of Rollins Offia-Nwali, the Nigeria Democratic Congress (NDC) candidate for the Ezza South seat in the Ebonyi State House of Assembly, on 22 October. Police said one person died and three were wounded, and the candidate's vehicle was set on fire. The attack came days after the President ordered security agencies to protect voters and candidates ahead of the 2027 elections.",
-      "why": "Election violence is a growing risk as 2027 approaches, especially in the South-east.",
-      "source": {
-        "name": "Premium Times",
-        "url": "https://www.premiumtimesng.com/news/top-news/919718-one-killed-three-injured-as-gunmen-attack-ndc-candidates-convoy.html"
-      },
-      "cards": []
-    },
-    {
-      "id": "br-2026-10-21-putin-witkoff",
-      "date": "2026-10-21",
-      "tag": "Europe",
-      "unit": "D1",
-      "title": "Putin agrees to resume US-brokered talks on Ukraine",
-      "body": "US envoy Steve Witkoff met President Putin in Saint Petersburg, with Jared Kushner joining online. Putin agreed to resume US-mediated peace talks with Ukraine, the first since February 2026. The envoys proposed a three-way technical meeting on post-war security guarantees, which Ukraine had accepted in Oslo the day before. The Kremlin says talks could be held in Abu Dhabi from November. Russia also freed American Stephen Hubbard, 74.",
-      "why": "A path back to talks matters for world food and fuel prices that affect Nigeria.",
-      "source": {
-        "name": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/21/what-happened-during-witkoff-and-kushners-latest-meeting-with-putin"
-      },
-      "cards": [
-        {
-          "front": "Where did Putin meet US envoy Witkoff on 21 October 2026, and what did he agree?",
-          "back": "Saint Petersburg; to resume US-mediated peace talks with Ukraine, possibly in Abu Dhabi from November."
-        }
-      ]
-    },
-    {
-      "id": "br-2026-10-19-qatar-energy",
-      "date": "2026-10-19",
-      "tag": "Middle East",
-      "unit": "D2",
-      "title": "Qatar: the energy shock from the Iran war has not peaked",
-      "body": "Qatar's defence minister, Sheikh Saoud bin Abdulrahman Al Thani, told the Global Security Forum in Doha that the world has not yet felt the worst of the war's effect on energy. Iranian strikes in March damaged Qatar's Ras Laffan gas complex, and repairs will take several years. He rejected any transit fees for ships in the Strait of Hormuz. Qatar, Pakistan and Oman are mediating between the US and Iran.",
-      "why": "Qatar is one of the world's biggest gas exporters, so damage there keeps global energy prices high for importers and raises the value of Nigeria's own gas.",
-      "source": {
-        "name": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/19/qatar-warns-global-energy-shockwaves-from-iran-war-have-yet-to-peak"
-      },
-      "cards": [
-        {
-          "front": "Which Qatari gas complex was damaged by Iranian strikes in March 2026?",
-          "back": "Ras Laffan; repairs are expected to take several years."
-        }
-      ]
-    },
-    {
-      "id": "br-2026-10-17-aes-ecowas",
-      "date": "2026-10-17",
-      "tag": "Sahel",
-      "unit": "C1",
-      "title": "AES and ECOWAS hold first talks since the split",
-      "body": "Ministers from ECOWAS and the Alliance of Sahel States (Mali, Burkina Faso and Niger) met in Dakar, Senegal, on 17 October. ECOWAS was led by Senegal's Foreign Minister Cheikh Niang and the AES by Burkina Faso's Foreign Minister Karamoko Jean-Marie Traoré. They agreed to set up joint working groups to draft a cooperation framework based on good neighbourliness and respect for sovereignty. The talks are about cooperation, not about the three states rejoining, and no timeline or trade deal was announced.",
-      "why": "Nigeria shares a long border with Niger, so any security and trade cooperation with the AES directly affects the North-west and North-east.",
-      "source": {
-        "name": "BusinessDay",
-        "url": "https://businessday.ng/politics/article/mali-burkina-faso-niger-open-talks-to-rejoin-ecowas-after-nearly-21-month-split/"
-      },
-      "cards": [
-        {
-          "front": "Where did ECOWAS and the AES hold ministerial talks in October 2026?",
-          "back": "Dakar, Senegal, on 17 October 2026."
-        },
-        {
-          "front": "What did ECOWAS and the AES agree in Dakar in October 2026?",
-          "back": "To set up joint working groups to draft a cooperation framework. Rejoining ECOWAS was not agreed."
         }
       ]
     }
