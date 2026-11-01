@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25",
+  "updated": "2026-11-01",
   "cards": [
     {
       "id": "A1-01",
@@ -1074,6 +1074,36 @@
       "unit": "B2",
       "front": "What does NDC stand for in Nigerian politics (2026)?",
       "back": "The Nigeria Democratic Congress, an opposition party."
+    },
+    {
+      "id": "D3-10",
+      "unit": "D3",
+      "front": "How many seats did Netanyahu's bloc win in Israel's October 2026 election (about)?",
+      "back": "About 53 of 120, short of the 61 needed."
+    },
+    {
+      "id": "D3-11",
+      "unit": "D3",
+      "front": "Who is Israel's President, who nominates the prime minister candidate?",
+      "back": "Isaac Herzog."
+    },
+    {
+      "id": "A1-11",
+      "unit": "A1",
+      "front": "Who chairs the committee drafting Nigeria's National Security Strategy 2026?",
+      "back": "Retired Major General Sarkin Bello."
+    },
+    {
+      "id": "D2-16",
+      "unit": "D2",
+      "front": "Through which country did VP Vance send his October 2026 letter to Iran?",
+      "back": "Qatar."
+    },
+    {
+      "id": "D4-05",
+      "unit": "D4",
+      "front": "What is now the leading cause of civilian deaths in Sudan's war, according to the UN (October 2026)?",
+      "back": "Drone strikes."
     }
   ]
 }

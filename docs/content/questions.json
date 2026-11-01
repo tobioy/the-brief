@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25",
+  "updated": "2026-11-01",
   "questions": [
     {
       "id": "qA1-01",
@@ -2197,6 +2197,84 @@
       ],
       "a": 1,
       "x": "Bichi is the immediate past Director-General of the DSS."
+    },
+    {
+      "id": "qA1-10",
+      "unit": "A1",
+      "q": "Nigeria's National Security Strategy being replaced in 2026 was issued in which year?",
+      "o": [
+        "2009",
+        "2014",
+        "2019",
+        "2023"
+      ],
+      "a": 2,
+      "x": "A committee inaugurated in October 2026 is drafting NSS 2026 to replace NSS 2019."
+    },
+    {
+      "id": "qA1-11",
+      "unit": "A1",
+      "q": "Who inaugurated the committee to draft Nigeria's new National Security Strategy in October 2026?",
+      "o": [
+        "The Chief of Defence Staff",
+        "NSA Nuhu Ribadu",
+        "The Senate President",
+        "The DG of the NIA"
+      ],
+      "a": 1,
+      "x": "The Office of the National Security Adviser leads the review."
+    },
+    {
+      "id": "qD3-09",
+      "unit": "D3",
+      "q": "How many seats are needed for a majority in Israel's Knesset?",
+      "o": [
+        "51",
+        "61",
+        "71",
+        "101"
+      ],
+      "a": 1,
+      "x": "The Knesset has 120 seats, so 61 is a majority."
+    },
+    {
+      "id": "qD3-10",
+      "unit": "D3",
+      "q": "Who led the main opposition bloc against Netanyahu in Israel's October 2026 election?",
+      "o": [
+        "Yair Lapid",
+        "Benny Gantz",
+        "Gadi Eisenkot",
+        "Naftali Bennett"
+      ],
+      "a": 2,
+      "x": "Eisenkot leads the Yashar party."
+    },
+    {
+      "id": "qD2-16",
+      "unit": "D2",
+      "q": "To which Iranian official was VP Vance's October 2026 letter addressed?",
+      "o": [
+        "Abbas Araghchi",
+        "Mohsen Rezaei",
+        "Masoud Pezeshkian",
+        "Mojtaba Khamenei"
+      ],
+      "a": 1,
+      "x": "Rezaei is secretary of the Supreme National Security Council."
+    },
+    {
+      "id": "qD4-06",
+      "unit": "D4",
+      "q": "Who is the leader of Sudan's Rapid Support Forces?",
+      "o": [
+        "Abdel Fattah al-Burhan",
+        "Mohamed Hamdan Dagalo (Hemedti)",
+        "Omar al-Bashir",
+        "Abdalla Hamdok"
+      ],
+      "a": 1,
+      "x": "Al-Burhan leads the army; Hemedti leads the RSF."
     }
   ]
 }
