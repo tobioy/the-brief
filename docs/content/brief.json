@@ -1,44 +1,58 @@
 {
-  "updated": "2026-11-01",
-  "week": "Week of 26 October 2026",
+  "updated": "2026-11-04",
+  "week": "Week of 2 November 2026",
   "stories": [
     {
-      "id": "br-2026-10-31-rsf-defection",
-      "date": "2026-10-31",
-      "tag": "Africa",
-      "unit": "D4",
-      "title": "Senior RSF commander defects in Sudan",
-      "body": "Siddiq Ander, a senior commander of Sudan's Rapid Support Forces, announced his defection, accusing relatives of RSF leader Mohamed Hamdan Dagalo (Hemedti) of controlling the group's money, weapons and promotions. He is the latest in a series of 2026 defections, including a lieutenant colonel who left with 300 fighters in October. Drone strikes are now the leading cause of civilian deaths in the war, according to the UN.",
-      "why": "Splits inside armed groups are a classic intelligence indicator, and Sudan's war affects arms and migration across the Sahel.",
+      "id": "br-2026-11-03-qeshm",
+      "date": "2026-11-03",
+      "tag": "Middle East",
+      "unit": "D2",
+      "title": "Explosions on Iran's Qeshm Island as US reportedly strikes in Hormuz",
+      "body": "Explosions were heard on Iran's Qeshm Island and near Bandar Lengeh late on 2 November. US media, citing officials, reported limited \"defensive strikes\" on Iranian missile sites after Revolutionary Guards fired at a US aircraft; neither government had confirmed them. At the same time, President Trump said a deal with Iran could happen soon, and Iran said it could reopen the Strait of Hormuz within two days if the US lifts its naval blockade. Brent crude rose to about $106.",
+      "why": "Diplomacy and limited strikes are running side by side, so oil prices, and Nigeria's fuel import bill, remain volatile.",
       "source": {
         "name": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/31/rsf-senior-commander-defects-accusing-sudan-groups-leadership-of-nepotism"
+        "url": "https://www.aljazeera.com/news/2026/11/3/explosions-hit-irans-qeshm-island-as-us-media-report-us-strikes-in-hormuz"
       },
       "cards": [
         {
-          "front": "Who leads Sudan's Rapid Support Forces (RSF)?",
-          "back": "Mohamed Hamdan Dagalo (\"Hemedti\"); his brother Abdul Rahim is deputy commander."
+          "front": "What did Iran say it needs before reopening Hormuz within two days (November 2026)?",
+          "back": "The US must lift its naval blockade of Iranian ports and end hostilities."
         }
       ]
     },
     {
-      "id": "br-2026-10-30-vance-letter",
-      "date": "2026-10-30",
-      "tag": "Middle East",
-      "unit": "D2",
-      "title": "Vance reaches out to Iran as US plans strikes after midterms",
-      "body": "Vice-President JD Vance sent a letter, through Qatari mediators, to Mohsen Rezaei, secretary of Iran's Supreme National Security Council, proposing direct talks led by Vance. Rezaei said the US tone had changed completely. At the same time, US media reported that the US and Israel have drawn up joint plans to strike Iran after the 3 November midterms. Foreign Minister Araghchi said Iran and Qatar are working on a plan to reopen the Strait of Hormuz within two days if the US accepts Iran's conditions.",
-      "why": "The next few weeks decide whether oil prices fall with a deal or spike with renewed war, both of which hit Nigeria's budget.",
+      "id": "br-2026-11-03-abu-dhabi-dates",
+      "date": "2026-11-03",
+      "tag": "Europe",
+      "unit": "D1",
+      "title": "Abu Dhabi talks on Ukraine set for 10–11 November",
+      "body": "US envoy Steve Witkoff announced US-mediated talks between Russia and Ukraine in Abu Dhabi on 10 and 11 November. The Kremlin said Russia's delegation will be led by Vladimir Medinsky. President Zelenskyy said he hopes the talks open the way to a meeting with President Putin. European governments will not be at the table, but US envoys are meeting Germany, France, the UK, NATO and the EU in Brussels.",
+      "why": "A deal would ease pressure on world food and fuel prices that affect Nigeria.",
       "source": {
         "name": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/30/us-weighs-new-iran-strikes-as-vance-reaches-out-is-war-or-a-deal-closer"
+        "url": "https://www.aljazeera.com/news/2026/11/3/zelenskyy-hopes-abu-dhabi-talks-will-open-way-to-meeting-with-putin"
       },
       "cards": [
         {
-          "front": "Who is secretary of Iran's Supreme National Security Council (as of October 2026)?",
-          "back": "Mohsen Rezaei."
+          "front": "Who leads Russia's delegation at the November 2026 Abu Dhabi talks?",
+          "back": "Vladimir Medinsky, a former culture minister."
         }
       ]
+    },
+    {
+      "id": "br-2026-11-03-rafi",
+      "date": "2026-11-03",
+      "tag": "Nigeria",
+      "unit": "B1",
+      "title": "Bandits abduct 14 Islamic school pupils in Niger State",
+      "body": "Police confirmed that suspected bandits abducted 14 pupils of an Islamic school and their teacher at Tungan-Bako village, Pandogari district, Rafi LGA, Niger State, on 31 October. The pupils were returning from helping their teacher harvest maize. Police said joint security teams have begun a rescue operation. It follows the abduction of 47 farmers in Mariga LGA in September.",
+      "why": "School and farm kidnappings in the North-central are a recurring threat and a likely interview topic.",
+      "source": {
+        "name": "Premium Times",
+        "url": "https://www.premiumtimesng.com/regional/north-central/922299-bandits-abduct-14-islamic-school-pupils-teacher-in-niger-police-confirm.html"
+      },
+      "cards": []
     },
     {
       "id": "br-2026-10-29-israel-count",
@@ -70,39 +84,6 @@
         {
           "front": "Which National Security Strategy is Nigeria replacing, and with what?",
           "back": "The 2019 NSS, with a new NSS 2026 (committee inaugurated by NSA Ribadu in October 2026)."
-        }
-      ]
-    },
-    {
-      "id": "br-2026-10-25-bakori",
-      "date": "2026-10-25",
-      "tag": "Nigeria",
-      "unit": "B1",
-      "title": "Hunters fight off bandits in Katsina",
-      "body": "Katsina State authorities said local hunters killed 14 suspected bandits who attacked travellers in Bakori LGA on 23 October. A traveller was burnt in his vehicle and one hunter was killed. Officials said the attackers, about 26 men on 13 motorcycles, were heading towards Dawan Laila forest. The state warned of possible reprisals; Premium Times could not independently verify the figures.",
-      "why": "Communities arming themselves is a sign of how stretched formal security is in the North-west, and it raises the risk of reprisal violence.",
-      "source": {
-        "name": "Premium Times",
-        "url": "https://www.premiumtimesng.com/news/top-news/920031-hunters-kill-14-bandits-in-bakori-attack-two-residents-die.html"
-      },
-      "cards": []
-    },
-    {
-      "id": "br-2026-10-23-abu-dhabi",
-      "date": "2026-10-23",
-      "tag": "Europe",
-      "unit": "D1",
-      "title": "Russia, Ukraine and US to meet in Abu Dhabi in November",
-      "body": "The Kremlin said three-way talks are planned for the first half of November in Abu Dhabi. Putin wants talks on long-term security arrangements rather than a short truce, and Russia still demands territory and no NATO membership for Ukraine. Zelenskyy wants strong security guarantees, ten years of funding for Ukraine's army and European involvement. Both sides exchanged 270 prisoners of war, and Ukraine says more than 19,000 civilians have been killed since 2022.",
-      "why": "A settlement would shift world grain and fuel prices that feed Nigerian inflation.",
-      "source": {
-        "name": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/23/russia-ukraine-talks-planned-for-november-in-uae-kremlin"
-      },
-      "cards": [
-        {
-          "front": "When and where are US–Russia–Ukraine talks planned (as of late October 2026)?",
-          "back": "The first half of November 2026, in Abu Dhabi."
         }
       ]
     }
