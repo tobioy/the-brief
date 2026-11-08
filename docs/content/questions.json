@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01",
+  "updated": "2026-11-08",
   "questions": [
     {
       "id": "qA1-01",
@@ -2275,6 +2275,71 @@
       ],
       "a": 1,
       "x": "Al-Burhan leads the army; Hemedti leads the RSF."
+    },
+    {
+      "id": "qG1-10",
+      "unit": "G1",
+      "q": "Which party won control of both houses of the US Congress in November 2026?",
+      "o": [
+        "Republican Party",
+        "Democratic Party",
+        "Libertarian Party",
+        "Green Party"
+      ],
+      "a": 1,
+      "x": "Democrats won the House and the Senate in the 3 November 2026 midterms."
+    },
+    {
+      "id": "qD2-17",
+      "unit": "D2",
+      "q": "Which Iranian official met President Putin in Moscow on 5 November 2026?",
+      "o": [
+        "Abbas Araghchi",
+        "Mohsen Rezaei",
+        "Masoud Pezeshkian",
+        "Ali Larijani"
+      ],
+      "a": 1,
+      "x": "Rezaei, secretary of the Supreme National Security Council, delivered a message from Supreme Leader Mojtaba Khamenei."
+    },
+    {
+      "id": "qD2-18",
+      "unit": "D2",
+      "q": "Which of these countries did Iran say could send ships through Hormuz in November 2026?",
+      "o": [
+        "United States",
+        "United Kingdom",
+        "India",
+        "Israel"
+      ],
+      "a": 2,
+      "x": "An Iranian MP named India, China, Iraq and Qatar."
+    },
+    {
+      "id": "qD1-10",
+      "unit": "D1",
+      "q": "Who leads Russia's delegation at the November 2026 Abu Dhabi talks?",
+      "o": [
+        "Sergei Lavrov",
+        "Dmitry Peskov",
+        "Vladimir Medinsky",
+        "Sergei Shoigu"
+      ],
+      "a": 2,
+      "x": "The Kremlin confirmed Medinsky, a former culture minister, would lead."
+    },
+    {
+      "id": "qB1-14",
+      "unit": "B1",
+      "q": "Which Army brigade rescued 16 kidnap victims in Niger State in November 2026?",
+      "o": [
+        "1 Division",
+        "18 Brigade",
+        "7 Division",
+        "82 Division"
+      ],
+      "a": 1,
+      "x": "Troops of 18 Brigade intercepted suspects moving towards Kontagora LGA."
     }
   ]
 }

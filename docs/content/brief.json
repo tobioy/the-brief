@@ -1,23 +1,70 @@
 {
-  "updated": "2026-11-04",
+  "updated": "2026-11-08",
   "week": "Week of 2 November 2026",
   "stories": [
     {
-      "id": "br-2026-11-03-qeshm",
-      "date": "2026-11-03",
+      "id": "br-2026-11-06-hormuz-exemptions",
+      "date": "2026-11-06",
       "tag": "Middle East",
       "unit": "D2",
-      "title": "Explosions on Iran's Qeshm Island as US reportedly strikes in Hormuz",
-      "body": "Explosions were heard on Iran's Qeshm Island and near Bandar Lengeh late on 2 November. US media, citing officials, reported limited \"defensive strikes\" on Iranian missile sites after Revolutionary Guards fired at a US aircraft; neither government had confirmed them. At the same time, President Trump said a deal with Iran could happen soon, and Iran said it could reopen the Strait of Hormuz within two days if the US lifts its naval blockade. Brent crude rose to about $106.",
-      "why": "Diplomacy and limited strikes are running side by side, so oil prices, and Nigeria's fuel import bill, remain volatile.",
+      "title": "Iran lets some countries' ships through Hormuz as Trump threatens more war",
+      "body": "An Iranian MP said ships from India, China, Iraq and Qatar can pass through the Strait of Hormuz, with Indian and Chinese ships paying transit fees. More than 120 commercial ships have been hit since the war began, with October the worst month. Iran's security chief Mohsen Rezaei met President Putin in Moscow on 5 November with a message from Supreme Leader Mojtaba Khamenei. Iran also sent a new proposal through Qatar, while President Trump said the US may have to \"destroy the rest\" of Iran.",
+      "why": "Iran is using access to Hormuz as a diplomatic tool, which keeps supply uncertain and prices high for oil importers.",
       "source": {
         "name": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/11/3/explosions-hit-irans-qeshm-island-as-us-media-report-us-strikes-in-hormuz"
+        "url": "https://www.aljazeera.com/news/2026/11/6/russia-to-uae-iran-steps-up-diplomacy-amid-trump-threats-what-we-know"
       },
       "cards": [
         {
-          "front": "What did Iran say it needs before reopening Hormuz within two days (November 2026)?",
-          "back": "The US must lift its naval blockade of Iranian ports and end hostilities."
+          "front": "Which countries' ships did Iran say could pass Hormuz in November 2026?",
+          "back": "India, China, Iraq and Qatar (Indian and Chinese ships paying transit fees, per an Iranian MP)."
+        }
+      ]
+    },
+    {
+      "id": "br-2026-11-06-niger-rescue",
+      "date": "2026-11-06",
+      "tag": "Nigeria",
+      "unit": "B1",
+      "title": "Troops rescue 16 kidnap victims in Niger State",
+      "body": "The Army said troops of 18 Brigade rescued 16 abductees on 5 November after intercepting suspected terrorists moving from Mashegu LGA towards Kontagora LGA, Niger State. It said two AK-47 rifles, three RPG bombs and 33 motorcycles were recovered. The figures are the Army's own account. The 14 Islamic school pupils abducted in Rafi LGA on 31 October were not reported as rescued.",
+      "why": "Niger State links the North-west bandit belt to the North-central, which makes it a key kidnapping corridor.",
+      "source": {
+        "name": "Premium Times",
+        "url": "https://www.premiumtimesng.com/regional/north-central/923144-troops-rescue-16-kidnapping-victims-recover-two-rifles-three-bombs-33-bikes.html"
+      },
+      "cards": []
+    },
+    {
+      "id": "br-2026-11-06-taraba",
+      "date": "2026-11-06",
+      "tag": "Nigeria",
+      "unit": "B2",
+      "title": "Bandits besiege eight communities in Taraba",
+      "body": "A community leader said suspected bandits have besieged eight communities in Karim-Lamido LGA, Taraba State, near the borders with Plateau and Bauchi. He said 10 of 15 recently abducted residents had been freed, and alleged the gangs operate from forests in Plateau. Police said they had not yet established the details.",
+      "why": "It shows banditry spreading from the North-west into the North-east and North-central.",
+      "source": {
+        "name": "Premium Times",
+        "url": "https://www.premiumtimesng.com/regional/nnorth-east/923110-bandits-torment-eight-taraba-communities-10-captives-freed.html"
+      },
+      "cards": []
+    },
+    {
+      "id": "br-2026-11-04-midterms",
+      "date": "2026-11-04",
+      "tag": "World",
+      "unit": "G1",
+      "title": "Democrats win both houses of the US Congress",
+      "body": "The Democratic Party won control of both the US House of Representatives and the Senate in the 3 November midterm elections. With counting continuing, Democrats had won 228 House seats and 54 Senate seats, according to AP tallies reported by Al Jazeera. Democrats gained seats in states including Texas, Michigan and Kansas. President Trump remains in office until January 2029, but now faces a Congress controlled by the opposition.",
+      "why": "Congress shapes US aid, sanctions and security cooperation, including with Nigeria and on the wars in Iran and Ukraine.",
+      "source": {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/4/democrats-win-control-of-house-and-senate-key-us-midterms-takeaways"
+      },
+      "cards": [
+        {
+          "front": "Which party won control of the US House and Senate in the November 2026 midterms?",
+          "back": "The Democratic Party."
         }
       ]
     },
@@ -39,34 +86,6 @@
           "back": "Vladimir Medinsky, a former culture minister."
         }
       ]
-    },
-    {
-      "id": "br-2026-11-03-rafi",
-      "date": "2026-11-03",
-      "tag": "Nigeria",
-      "unit": "B1",
-      "title": "Bandits abduct 14 Islamic school pupils in Niger State",
-      "body": "Police confirmed that suspected bandits abducted 14 pupils of an Islamic school and their teacher at Tungan-Bako village, Pandogari district, Rafi LGA, Niger State, on 31 October. The pupils were returning from helping their teacher harvest maize. Police said joint security teams have begun a rescue operation. It follows the abduction of 47 farmers in Mariga LGA in September.",
-      "why": "School and farm kidnappings in the North-central are a recurring threat and a likely interview topic.",
-      "source": {
-        "name": "Premium Times",
-        "url": "https://www.premiumtimesng.com/regional/north-central/922299-bandits-abduct-14-islamic-school-pupils-teacher-in-niger-police-confirm.html"
-      },
-      "cards": []
-    },
-    {
-      "id": "br-2026-10-29-israel-count",
-      "date": "2026-10-29",
-      "tag": "Middle East",
-      "unit": "D3",
-      "title": "Israel heads for coalition talks after hung result",
-      "body": "With about 90 percent of votes counted, Prime Minister Netanyahu's right-wing bloc was on course for 53 seats and the opposition led by Gadi Eisenkot for 48, well short of the 61 needed. Arab parties could win a record 19 seats. Eisenkot and Netanyahu have both ruled out a minority government backed by Arab parties. President Isaac Herzog will consult party leaders after official results, and Netanyahu remains caretaker prime minister.",
-      "why": "A weaker Netanyahu government could change Israel's approach to Gaza and Iran.",
-      "source": {
-        "name": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/29/no-clear-winner-in-israeli-election-with-nearly-90-percent-of-votes-counted"
-      },
-      "cards": []
     },
     {
       "id": "br-2026-10-29-nss",

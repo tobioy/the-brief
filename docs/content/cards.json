@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01",
+  "updated": "2026-11-08",
   "cards": [
     {
       "id": "A1-01",
@@ -1104,6 +1104,30 @@
       "unit": "D4",
       "front": "What is now the leading cause of civilian deaths in Sudan's war, according to the UN (October 2026)?",
       "back": "Drone strikes."
+    },
+    {
+      "id": "D2-17",
+      "unit": "D2",
+      "front": "Roughly how many commercial ships had been hit in the Gulf region by November 2026?",
+      "back": "More than 120, with October 2026 the worst month."
+    },
+    {
+      "id": "D1-11",
+      "unit": "D1",
+      "front": "When and where are the November 2026 Russia–Ukraine talks?",
+      "back": "10–11 November 2026, Abu Dhabi, mediated by the US."
+    },
+    {
+      "id": "B2-16",
+      "unit": "B2",
+      "front": "Which Taraba LGA had eight communities besieged by bandits in November 2026?",
+      "back": "Karim-Lamido, near the Plateau and Bauchi borders."
+    },
+    {
+      "id": "G1-11",
+      "unit": "G1",
+      "front": "When do US midterm elections take place, and what do they elect?",
+      "back": "Every four years halfway through a presidential term; all 435 House seats and about a third of the Senate."
     }
   ]
 }
