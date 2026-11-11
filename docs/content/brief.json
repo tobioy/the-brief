@@ -1,39 +1,86 @@
 {
-  "updated": "2026-11-08",
-  "week": "Week of 2 November 2026",
+  "updated": "2026-11-11",
+  "week": "Week of 9 November 2026",
   "stories": [
     {
-      "id": "br-2026-11-06-hormuz-exemptions",
-      "date": "2026-11-06",
-      "tag": "Middle East",
-      "unit": "D2",
-      "title": "Iran lets some countries' ships through Hormuz as Trump threatens more war",
-      "body": "An Iranian MP said ships from India, China, Iraq and Qatar can pass through the Strait of Hormuz, with Indian and Chinese ships paying transit fees. More than 120 commercial ships have been hit since the war began, with October the worst month. Iran's security chief Mohsen Rezaei met President Putin in Moscow on 5 November with a message from Supreme Leader Mojtaba Khamenei. Iran also sent a new proposal through Qatar, while President Trump said the US may have to \"destroy the rest\" of Iran.",
-      "why": "Iran is using access to Hormuz as a diplomatic tool, which keeps supply uncertain and prices high for oil importers.",
+      "id": "br-2026-11-10-abu-dhabi-day1",
+      "date": "2026-11-10",
+      "tag": "Europe",
+      "unit": "D1",
+      "title": "Abu Dhabi talks open: Zelenskyy calls first day 'constructive'",
+      "body": "US-mediated talks between Russia and Ukraine opened in Abu Dhabi, with Ukraine's delegation led by Rustem Umerov, head of its Foreign Intelligence Service, and Russia's by Vladimir Medinsky. US envoys Jared Kushner and Steve Witkoff are brokering. President Zelenskyy called the first day constructive and quite substantive. An anonymous US official said both sides had privately shown some flexibility on territory, but this is unconfirmed. Russia occupies roughly 20 percent of Ukraine.",
+      "why": "A ceasefire would ease world grain and fuel prices that feed Nigerian inflation.",
       "source": {
         "name": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/11/6/russia-to-uae-iran-steps-up-diplomacy-amid-trump-threats-what-we-know"
+        "url": "https://www.aljazeera.com/news/2026/11/10/russia-ukraine-and-us-to-meet-as-zelenskyy-claims-battlefield-successes"
       },
       "cards": [
         {
-          "front": "Which countries' ships did Iran say could pass Hormuz in November 2026?",
-          "back": "India, China, Iraq and Qatar (Indian and Chinese ships paying transit fees, per an Iranian MP)."
+          "front": "Who led Ukraine's delegation at the November 2026 Abu Dhabi talks?",
+          "back": "Rustem Umerov, head of Ukraine's Foreign Intelligence Service."
+        },
+        {
+          "front": "Roughly how much of Ukraine does Russia occupy (November 2026)?",
+          "back": "About 20 percent."
         }
       ]
     },
     {
-      "id": "br-2026-11-06-niger-rescue",
-      "date": "2026-11-06",
+      "id": "br-2026-11-09-iran-over",
+      "date": "2026-11-09",
+      "tag": "Middle East",
+      "unit": "D2",
+      "title": "Trump calls the Iran war 'effectively over', Iran says no",
+      "body": "After meeting Qatar's Prime Minister, President Trump said the war on Iran is effectively over militarily and the US is keeping the status quo. That includes the naval blockade and a new Task Force Iron Gate to cut Iran's trade by land and across the Caspian Sea. Iran's security chief Mohsen Rezaei called the remarks fake news, and President Pezeshkian described the situation as neither war nor peace. Iran still demands seven conditions, including lifting sanctions and releasing frozen funds.",
+      "why": "A frozen 'neither war nor peace' keeps oil supply tight and prices high for Nigeria's fuel imports.",
+      "source": {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/9/trump-calls-iran-war-effectively-over-after-talks-with-qatar-pm"
+      },
+      "cards": [
+        {
+          "front": "What is the US 'Task Force Iron Gate' (November 2026)?",
+          "back": "A US effort to cut off Iran's trade by land and across the Caspian Sea, alongside the naval blockade."
+        }
+      ]
+    },
+    {
+      "id": "br-2026-11-09-plateau",
+      "date": "2026-11-09",
       "tag": "Nigeria",
       "unit": "B1",
-      "title": "Troops rescue 16 kidnap victims in Niger State",
-      "body": "The Army said troops of 18 Brigade rescued 16 abductees on 5 November after intercepting suspected terrorists moving from Mashegu LGA towards Kontagora LGA, Niger State. It said two AK-47 rifles, three RPG bombs and 33 motorcycles were recovered. The figures are the Army's own account. The 14 Islamic school pupils abducted in Rafi LGA on 31 October were not reported as rescued.",
-      "why": "Niger State links the North-west bandit belt to the North-central, which makes it a key kidnapping corridor.",
+      "title": "Troops clear camps and arrest suspected gunrunner in Plateau",
+      "body": "The military said troops of Operation Enduring Peace and 33 Artillery Brigade cleared suspected terrorist camps in Dajin Madam Forest, across Kanam and Wase LGAs, and killed two suspects near Kukawa village. A suspected gunrunner was arrested with an AK-47 at Gindiri Market in Mangu LGA. The details come from a military statement and were not independently verified.",
+      "why": "Arms trafficking keeps the North-central's farmer-herder and bandit violence going.",
       "source": {
         "name": "Premium Times",
-        "url": "https://www.premiumtimesng.com/regional/north-central/923144-troops-rescue-16-kidnapping-victims-recover-two-rifles-three-bombs-33-bikes.html"
+        "url": "https://www.premiumtimesng.com/regional/north-central/923920-soldiers-kill-two-terrorists-arrest-suspected-gunrunner.html"
       },
-      "cards": []
+      "cards": [
+        {
+          "front": "Which military operation covers Plateau State?",
+          "back": "Operation Enduring Peace (OPEP)."
+        }
+      ]
+    },
+    {
+      "id": "br-2026-11-08-eisenkot",
+      "date": "2026-11-08",
+      "tag": "Middle East",
+      "unit": "D3",
+      "title": "Herzog asks Eisenkot to form Israel's next government",
+      "body": "President Isaac Herzog tasked opposition leader Gadi Eisenkot with forming a government after the 27 October election. Eisenkot's alliance won 48 seats and Netanyahu's bloc 53, both short of 61. Eisenkot has six weeks and said he is open to including Netanyahu. He has ruled out relying on Arab-led parties, which won a record 19 seats. Netanyahu stays caretaker prime minister.",
+      "why": "A change of Israeli government could affect the Gaza ceasefire and the war with Iran.",
+      "source": {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/8/israels-president-tasks-eisenkot-to-form-new-coalition-government"
+      },
+      "cards": [
+        {
+          "front": "Who was asked to form Israel's government in November 2026?",
+          "back": "Gadi Eisenkot, given six weeks by President Herzog."
+        }
+      ]
     },
     {
       "id": "br-2026-11-06-taraba",
@@ -65,44 +112,6 @@
         {
           "front": "Which party won control of the US House and Senate in the November 2026 midterms?",
           "back": "The Democratic Party."
-        }
-      ]
-    },
-    {
-      "id": "br-2026-11-03-abu-dhabi-dates",
-      "date": "2026-11-03",
-      "tag": "Europe",
-      "unit": "D1",
-      "title": "Abu Dhabi talks on Ukraine set for 10–11 November",
-      "body": "US envoy Steve Witkoff announced US-mediated talks between Russia and Ukraine in Abu Dhabi on 10 and 11 November. The Kremlin said Russia's delegation will be led by Vladimir Medinsky. President Zelenskyy said he hopes the talks open the way to a meeting with President Putin. European governments will not be at the table, but US envoys are meeting Germany, France, the UK, NATO and the EU in Brussels.",
-      "why": "A deal would ease pressure on world food and fuel prices that affect Nigeria.",
-      "source": {
-        "name": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/11/3/zelenskyy-hopes-abu-dhabi-talks-will-open-way-to-meeting-with-putin"
-      },
-      "cards": [
-        {
-          "front": "Who leads Russia's delegation at the November 2026 Abu Dhabi talks?",
-          "back": "Vladimir Medinsky, a former culture minister."
-        }
-      ]
-    },
-    {
-      "id": "br-2026-10-29-nss",
-      "date": "2026-10-29",
-      "tag": "Nigeria",
-      "unit": "A1",
-      "title": "Nigeria starts writing a new National Security Strategy",
-      "body": "National Security Adviser Nuhu Ribadu inaugurated a 33-member committee to review the 2019 National Security Strategy and draft a new one, NSS 2026. It is chaired by retired Major General Sarkin Bello and must submit a final draft by 27 November. The new strategy is meant to address terrorism, banditry, kidnapping, cybercrime and misinformation.",
-      "why": "The National Security Strategy is the framework the NIA and other agencies work within, so it is a likely interview question.",
-      "source": {
-        "name": "Premium Times",
-        "url": "https://www.premiumtimesng.com/news/top-news/921333-nigeria-reviews-national-security-strategy-to-address-terrorism-cyber-threats-misinformation.html"
-      },
-      "cards": [
-        {
-          "front": "Which National Security Strategy is Nigeria replacing, and with what?",
-          "back": "The 2019 NSS, with a new NSS 2026 (committee inaugurated by NSA Ribadu in October 2026)."
         }
       ]
     }
