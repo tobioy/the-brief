@@ -1,46 +1,61 @@
 {
-  "updated": "2026-11-11",
+  "updated": "2026-11-15",
   "week": "Week of 9 November 2026",
   "stories": [
     {
-      "id": "br-2026-11-10-abu-dhabi-day1",
-      "date": "2026-11-10",
-      "tag": "Europe",
-      "unit": "D1",
-      "title": "Abu Dhabi talks open: Zelenskyy calls first day 'constructive'",
-      "body": "US-mediated talks between Russia and Ukraine opened in Abu Dhabi, with Ukraine's delegation led by Rustem Umerov, head of its Foreign Intelligence Service, and Russia's by Vladimir Medinsky. US envoys Jared Kushner and Steve Witkoff are brokering. President Zelenskyy called the first day constructive and quite substantive. An anonymous US official said both sides had privately shown some flexibility on territory, but this is unconfirmed. Russia occupies roughly 20 percent of Ukraine.",
-      "why": "A ceasefire would ease world grain and fuel prices that feed Nigerian inflation.",
+      "id": "br-2026-11-13-no-deal",
+      "date": "2026-11-13",
+      "tag": "Middle East",
+      "unit": "D2",
+      "title": "Trump: 'We don't need a deal with Iran'",
+      "body": "President Trump said the US does not need a deal with Iran and told Vice-President Vance, who had led negotiations, to focus on domestic issues. Secretary of State Rubio said economic pressure on Iran is working and will get worse, so large-scale military operations are unnecessary. Iran says it has sent a seven-condition proposal through Qatar and that the ball is in the US court. On the same day, Iran claimed it struck a US radar site in Bahrain; the US said it shot down two Iranian drones and nothing was damaged.",
+      "why": "A long 'no war, no peace' stand-off keeps Hormuz disrupted and oil prices high, which shapes Nigeria's revenue and fuel costs.",
       "source": {
         "name": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/11/10/russia-ukraine-and-us-to-meet-as-zelenskyy-claims-battlefield-successes"
+        "url": "https://www.aljazeera.com/features/2026/11/13/why-is-trump-saying-no-deal-necessary-with-iran-as-he-sidelines-jd-vance"
       },
       "cards": [
         {
-          "front": "Who led Ukraine's delegation at the November 2026 Abu Dhabi talks?",
-          "back": "Rustem Umerov, head of Ukraine's Foreign Intelligence Service."
-        },
-        {
-          "front": "Roughly how much of Ukraine does Russia occupy (November 2026)?",
-          "back": "About 20 percent."
+          "front": "How did Chatham House describe the US–Iran situation in November 2026?",
+          "back": "\"No war, no peace\": neither a deal nor full-scale fighting."
         }
       ]
     },
     {
-      "id": "br-2026-11-09-iran-over",
-      "date": "2026-11-09",
-      "tag": "Middle East",
-      "unit": "D2",
-      "title": "Trump calls the Iran war 'effectively over', Iran says no",
-      "body": "After meeting Qatar's Prime Minister, President Trump said the war on Iran is effectively over militarily and the US is keeping the status quo. That includes the naval blockade and a new Task Force Iron Gate to cut Iran's trade by land and across the Caspian Sea. Iran's security chief Mohsen Rezaei called the remarks fake news, and President Pezeshkian described the situation as neither war nor peace. Iran still demands seven conditions, including lifting sanctions and releasing frozen funds.",
-      "why": "A frozen 'neither war nor peace' keeps oil supply tight and prices high for Nigeria's fuel imports.",
+      "id": "br-2026-11-11-prisoner-swap",
+      "date": "2026-11-11",
+      "tag": "Europe",
+      "unit": "D1",
+      "title": "Abu Dhabi talks end with a large prisoner swap deal",
+      "body": "Two days of US-mediated talks in Abu Dhabi ended with Russia and Ukraine agreeing a large-scale prisoner exchange, but no breakthrough on ending the war. US envoy Jared Kushner called it a tough but productive meeting and said territory remains the hardest issue, with progress on a post-war security framework. Ukraine's negotiator David Arakhamia spoke of good momentum and said the next talks should include more parties.",
+      "why": "Each round of talks moves the chance of a ceasefire that would ease world food and fuel prices.",
       "source": {
         "name": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/11/9/trump-calls-iran-war-effectively-over-after-talks-with-qatar-pm"
+        "url": "https://www.aljazeera.com/news/2026/11/11/russia-ukraine-talks-in-abu-dhabi-end-with-prisoner-exchange-agreement"
       },
       "cards": [
         {
-          "front": "What is the US 'Task Force Iron Gate' (November 2026)?",
-          "back": "A US effort to cut off Iran's trade by land and across the Caspian Sea, alongside the naval blockade."
+          "front": "What was agreed at the Abu Dhabi talks of 10–11 November 2026?",
+          "back": "A large-scale prisoner exchange; no deal on ending the war."
+        }
+      ]
+    },
+    {
+      "id": "br-2026-10-15-inflation",
+      "date": "2026-10-15",
+      "tag": "Economy",
+      "unit": "E1",
+      "title": "Nigeria's inflation eases to 14.63 percent",
+      "body": "The National Bureau of Statistics said headline inflation fell to 14.63 percent in September 2026, from 15.39 percent in August, continuing a downward trend. Food inflation was 19.59 percent and core inflation, which excludes farm produce and energy, was 12.95 percent. Urban inflation was 15.64 percent and rural inflation 12.46 percent.",
+      "why": "Inflation is one of the most common economy questions in Nigerian exams and interviews.",
+      "source": {
+        "name": "Premium Times",
+        "url": "https://www.premiumtimesng.com/business/business-news/917357-nigerias-inflation-eases-to-14-63-in-september.html"
+      },
+      "cards": [
+        {
+          "front": "What was Nigeria's headline inflation rate in September 2026 (NBS)?",
+          "back": "14.63 percent, down from 15.39 percent in August."
         }
       ]
     },
@@ -79,39 +94,6 @@
         {
           "front": "Who was asked to form Israel's government in November 2026?",
           "back": "Gadi Eisenkot, given six weeks by President Herzog."
-        }
-      ]
-    },
-    {
-      "id": "br-2026-11-06-taraba",
-      "date": "2026-11-06",
-      "tag": "Nigeria",
-      "unit": "B2",
-      "title": "Bandits besiege eight communities in Taraba",
-      "body": "A community leader said suspected bandits have besieged eight communities in Karim-Lamido LGA, Taraba State, near the borders with Plateau and Bauchi. He said 10 of 15 recently abducted residents had been freed, and alleged the gangs operate from forests in Plateau. Police said they had not yet established the details.",
-      "why": "It shows banditry spreading from the North-west into the North-east and North-central.",
-      "source": {
-        "name": "Premium Times",
-        "url": "https://www.premiumtimesng.com/regional/nnorth-east/923110-bandits-torment-eight-taraba-communities-10-captives-freed.html"
-      },
-      "cards": []
-    },
-    {
-      "id": "br-2026-11-04-midterms",
-      "date": "2026-11-04",
-      "tag": "World",
-      "unit": "G1",
-      "title": "Democrats win both houses of the US Congress",
-      "body": "The Democratic Party won control of both the US House of Representatives and the Senate in the 3 November midterm elections. With counting continuing, Democrats had won 228 House seats and 54 Senate seats, according to AP tallies reported by Al Jazeera. Democrats gained seats in states including Texas, Michigan and Kansas. President Trump remains in office until January 2029, but now faces a Congress controlled by the opposition.",
-      "why": "Congress shapes US aid, sanctions and security cooperation, including with Nigeria and on the wars in Iran and Ukraine.",
-      "source": {
-        "name": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/11/4/democrats-win-control-of-house-and-senate-key-us-midterms-takeaways"
-      },
-      "cards": [
-        {
-          "front": "Which party won control of the US House and Senate in the November 2026 midterms?",
-          "back": "The Democratic Party."
         }
       ]
     }

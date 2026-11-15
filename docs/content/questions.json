@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08",
+  "updated": "2026-11-15",
   "questions": [
     {
       "id": "qA1-01",
@@ -2340,6 +2340,71 @@
       ],
       "a": 1,
       "x": "Troops of 18 Brigade intercepted suspects moving towards Kontagora LGA."
+    },
+    {
+      "id": "qE1-11",
+      "unit": "E1",
+      "q": "What was Nigeria's headline inflation rate in September 2026, according to the NBS?",
+      "o": [
+        "9.8%",
+        "14.63%",
+        "22.1%",
+        "33.9%"
+      ],
+      "a": 1,
+      "x": "It fell from 15.39% in August 2026."
+    },
+    {
+      "id": "qE1-12",
+      "unit": "E1",
+      "q": "Which body publishes Nigeria's official inflation figures?",
+      "o": [
+        "Central Bank of Nigeria",
+        "National Bureau of Statistics",
+        "Federal Inland Revenue Service",
+        "Debt Management Office"
+      ],
+      "a": 1,
+      "x": "The NBS releases the Consumer Price Index each month."
+    },
+    {
+      "id": "qE1-13",
+      "unit": "E1",
+      "q": "Core inflation excludes which items?",
+      "o": [
+        "Rent and transport",
+        "Farm produce and energy",
+        "Imports and exports",
+        "Education and health"
+      ],
+      "a": 1,
+      "x": "Core inflation strips out volatile food and energy prices."
+    },
+    {
+      "id": "qD1-11",
+      "unit": "D1",
+      "q": "What was the main agreement at the Russia–Ukraine talks in Abu Dhabi in November 2026?",
+      "o": [
+        "A full ceasefire",
+        "A large-scale prisoner exchange",
+        "Ukraine joining NATO",
+        "Return of Crimea"
+      ],
+      "a": 1,
+      "x": "There was no breakthrough on ending the war."
+    },
+    {
+      "id": "qD2-19",
+      "unit": "D2",
+      "q": "In November 2026, what did President Trump say about a deal with Iran?",
+      "o": [
+        "A deal was signed",
+        "We don't need a deal with Iran",
+        "Talks would move to Geneva",
+        "Iran had surrendered"
+      ],
+      "a": 1,
+      "x": "He also told Vance to focus on domestic issues."
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08",
+  "updated": "2026-11-15",
   "cards": [
     {
       "id": "A1-01",
@@ -1128,6 +1128,30 @@
       "unit": "G1",
       "front": "When do US midterm elections take place, and what do they elect?",
       "back": "Every four years halfway through a presidential term; all 435 House seats and about a third of the Senate."
+    },
+    {
+      "id": "E1-11",
+      "unit": "E1",
+      "front": "What is 'core inflation'?",
+      "back": "Inflation excluding farm produce and energy, whose prices swing most. Nigeria's was 12.95% in September 2026."
+    },
+    {
+      "id": "E1-12",
+      "unit": "E1",
+      "front": "Which agency publishes Nigeria's inflation figures?",
+      "back": "The National Bureau of Statistics (NBS), monthly."
+    },
+    {
+      "id": "D1-12",
+      "unit": "D1",
+      "front": "Who led Ukraine's delegation at the Abu Dhabi talks (November 2026)?",
+      "back": "Rustem Umerov, head of Ukraine's Foreign Intelligence Service."
+    },
+    {
+      "id": "D2-18",
+      "unit": "D2",
+      "front": "What is Secretary of State Rubio's argument on Iran (November 2026)?",
+      "back": "Economic pressure is working, so resuming large-scale military operations is unnecessary."
     }
   ]
 }
