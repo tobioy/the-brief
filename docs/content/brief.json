@@ -1,7 +1,63 @@
 {
-  "updated": "2026-11-15",
-  "week": "Week of 9 November 2026",
+  "updated": "2026-11-18",
+  "week": "Week of 16 November 2026",
   "stories": [
+    {
+      "id": "br-2026-11-17-inflation-oct",
+      "date": "2026-11-17",
+      "tag": "Economy",
+      "unit": "E1",
+      "title": "Inflation falls to 14.06 percent, but prices still rising",
+      "body": "The National Bureau of Statistics said headline inflation fell to 14.06 percent in October 2026, from 14.63 percent in September and 18.97 percent a year earlier. Food inflation was 19.13 percent. Month on month, prices rose 0.43 percent, up from 0.06 percent in September. Finance Minister Taiwo Oyedele said falling inflation does not mean falling prices, only that prices are rising more slowly.",
+      "why": "Knowing the latest inflation figure, and the difference between inflation and prices, is a common economy question.",
+      "source": {
+        "name": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/top-news/925980-fg-defends-rising-food-prices-despite-falling-inflation.html"
+      },
+      "cards": [
+        {
+          "front": "What was Nigeria's headline inflation in October 2026 (NBS)?",
+          "back": "14.06 percent, down from 14.63 percent in September."
+        },
+        {
+          "front": "Does falling inflation mean prices are falling?",
+          "back": "No. It means prices are rising more slowly. Falling prices is called deflation."
+        }
+      ]
+    },
+    {
+      "id": "br-2026-11-17-ukraine-berlin",
+      "date": "2026-11-17",
+      "tag": "Europe",
+      "unit": "D1",
+      "title": "Ukraine, US and Europe to meet in Berlin; Russia objects",
+      "body": "President Zelenskyy said online talks with US envoys Steve Witkoff and Jared Kushner and European representatives were not easy, and that the next meeting will be in Berlin with the Coalition of the Willing. Kushner said a final agreement will require difficult decisions. The Kremlin said it had not agreed to widen the talks to Europe, and no date was set for a new round with Russia. Drone and missile strikes by both sides continue.",
+      "why": "Disagreement over who sits at the table is slowing the path to a ceasefire.",
+      "source": {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/17/ukraine-holds-peace-talks-with-us-europe-as-conflict-escalates"
+      },
+      "cards": [
+        {
+          "front": "What is the 'Coalition of the Willing' in the Ukraine war?",
+          "back": "A group of mainly European countries backing Ukraine and planning post-war security guarantees."
+        }
+      ]
+    },
+    {
+      "id": "br-2026-11-15-kaura-namoda",
+      "date": "2026-11-15",
+      "tag": "Nigeria",
+      "unit": "B1",
+      "title": "Bandits attack mosque in Zamfara during dawn prayers",
+      "body": "Suspected bandits attacked the Lowcost Mosque in Kaura Namoda town, Zamfara State, during dawn prayers, killing APC e-registration supervisor Nasiru Sani and abducting an unconfirmed number of worshippers. In October, bandits attacked the same town for over three hours, killing seven Joint Task Force members and abducting 38 residents.",
+      "why": "Repeated attacks on the same town show how bandits are able to strike even inside towns in Zamfara.",
+      "source": {
+        "name": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/top-news/925270-bandits-attack-zamfara-mosque-kill-apc-e-registration-supervisor-abduct-worshippers.html"
+      },
+      "cards": []
+    },
     {
       "id": "br-2026-11-13-no-deal",
       "date": "2026-11-13",
@@ -18,63 +74,6 @@
         {
           "front": "How did Chatham House describe the US–Iran situation in November 2026?",
           "back": "\"No war, no peace\": neither a deal nor full-scale fighting."
-        }
-      ]
-    },
-    {
-      "id": "br-2026-11-11-prisoner-swap",
-      "date": "2026-11-11",
-      "tag": "Europe",
-      "unit": "D1",
-      "title": "Abu Dhabi talks end with a large prisoner swap deal",
-      "body": "Two days of US-mediated talks in Abu Dhabi ended with Russia and Ukraine agreeing a large-scale prisoner exchange, but no breakthrough on ending the war. US envoy Jared Kushner called it a tough but productive meeting and said territory remains the hardest issue, with progress on a post-war security framework. Ukraine's negotiator David Arakhamia spoke of good momentum and said the next talks should include more parties.",
-      "why": "Each round of talks moves the chance of a ceasefire that would ease world food and fuel prices.",
-      "source": {
-        "name": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/11/11/russia-ukraine-talks-in-abu-dhabi-end-with-prisoner-exchange-agreement"
-      },
-      "cards": [
-        {
-          "front": "What was agreed at the Abu Dhabi talks of 10–11 November 2026?",
-          "back": "A large-scale prisoner exchange; no deal on ending the war."
-        }
-      ]
-    },
-    {
-      "id": "br-2026-10-15-inflation",
-      "date": "2026-10-15",
-      "tag": "Economy",
-      "unit": "E1",
-      "title": "Nigeria's inflation eases to 14.63 percent",
-      "body": "The National Bureau of Statistics said headline inflation fell to 14.63 percent in September 2026, from 15.39 percent in August, continuing a downward trend. Food inflation was 19.59 percent and core inflation, which excludes farm produce and energy, was 12.95 percent. Urban inflation was 15.64 percent and rural inflation 12.46 percent.",
-      "why": "Inflation is one of the most common economy questions in Nigerian exams and interviews.",
-      "source": {
-        "name": "Premium Times",
-        "url": "https://www.premiumtimesng.com/business/business-news/917357-nigerias-inflation-eases-to-14-63-in-september.html"
-      },
-      "cards": [
-        {
-          "front": "What was Nigeria's headline inflation rate in September 2026 (NBS)?",
-          "back": "14.63 percent, down from 15.39 percent in August."
-        }
-      ]
-    },
-    {
-      "id": "br-2026-11-09-plateau",
-      "date": "2026-11-09",
-      "tag": "Nigeria",
-      "unit": "B1",
-      "title": "Troops clear camps and arrest suspected gunrunner in Plateau",
-      "body": "The military said troops of Operation Enduring Peace and 33 Artillery Brigade cleared suspected terrorist camps in Dajin Madam Forest, across Kanam and Wase LGAs, and killed two suspects near Kukawa village. A suspected gunrunner was arrested with an AK-47 at Gindiri Market in Mangu LGA. The details come from a military statement and were not independently verified.",
-      "why": "Arms trafficking keeps the North-central's farmer-herder and bandit violence going.",
-      "source": {
-        "name": "Premium Times",
-        "url": "https://www.premiumtimesng.com/regional/north-central/923920-soldiers-kill-two-terrorists-arrest-suspected-gunrunner.html"
-      },
-      "cards": [
-        {
-          "front": "Which military operation covers Plateau State?",
-          "back": "Operation Enduring Peace (OPEP)."
         }
       ]
     },
