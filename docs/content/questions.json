@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15",
+  "updated": "2026-11-22",
   "questions": [
     {
       "id": "qA1-01",
@@ -2405,6 +2405,71 @@
       ],
       "a": 1,
       "x": "He also told Vance to focus on domestic issues."
+    },
+    {
+      "id": "qA2-11",
+      "unit": "A2",
+      "q": "Who replaced Wale Edun as Nigeria's Minister of Finance in April 2026?",
+      "o": [
+        "Zacch Adedeji",
+        "Taiwo Oyedele",
+        "Olayemi Cardoso",
+        "Doris Uzoka-Anite"
+      ],
+      "a": 1,
+      "x": "Oyedele, previously Minister of State for Finance, is also Coordinating Minister of the Economy."
+    },
+    {
+      "id": "qD1-12",
+      "unit": "D1",
+      "q": "NATO's Article 5 is about what?",
+      "o": [
+        "Trade rules",
+        "Collective defence",
+        "Nuclear disarmament",
+        "Refugee protection"
+      ],
+      "a": 1,
+      "x": "An attack on one member is treated as an attack on all. Guarantees modelled on it were discussed for Ukraine in November 2026."
+    },
+    {
+      "id": "qD2-20",
+      "unit": "D2",
+      "q": "In November 2026, the US warned it could seize ships doing what with Iranian oil?",
+      "o": [
+        "Refining it in Iraq",
+        "Ship-to-ship transfers",
+        "Selling it to India",
+        "Storing it in Oman"
+      ],
+      "a": 1,
+      "x": "Central Command's advisory of 18 November targeted transfers from blockaded vessels."
+    },
+    {
+      "id": "qB1-15",
+      "unit": "B1",
+      "q": "Borgu LGA, scene of a terror attack and reprisals in November 2026, is in which state?",
+      "o": [
+        "Kwara",
+        "Niger",
+        "Kebbi",
+        "Kogi"
+      ],
+      "a": 1,
+      "x": "Borgu borders Benin and includes Kainji Lake National Park."
+    },
+    {
+      "id": "qB2-13",
+      "unit": "B2",
+      "q": "Lawanti community, where three people died in November 2026 in an incident blamed on Air Force personnel, is in which state?",
+      "o": [
+        "Bauchi",
+        "Gombe",
+        "Adamawa",
+        "Taraba"
+      ],
+      "a": 1,
+      "x": "It is in Akko LGA; Governor Inuwa Yahaya ordered an investigation."
     }
   ]
 }

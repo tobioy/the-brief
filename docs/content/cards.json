@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15",
+  "updated": "2026-11-22",
   "cards": [
     {
       "id": "A1-01",
@@ -1152,6 +1152,30 @@
       "unit": "D2",
       "front": "What is Secretary of State Rubio's argument on Iran (November 2026)?",
       "back": "Economic pressure is working, so resuming large-scale military operations is unnecessary."
+    },
+    {
+      "id": "A2-13",
+      "unit": "A2",
+      "front": "Who is Nigeria's Minister of Finance (checked 22 Nov 2026)?",
+      "back": "Taiwo Oyedele, also Coordinating Minister of the Economy. He replaced Wale Edun in April 2026."
+    },
+    {
+      "id": "D2-19",
+      "unit": "D2",
+      "front": "What did US Central Command warn on 18 November 2026?",
+      "back": "Ships taking cargo from blockaded Iranian-loaded vessels (ship-to-ship transfers) could be stopped, boarded or captured."
+    },
+    {
+      "id": "D1-13",
+      "unit": "D1",
+      "front": "Where did the Coalition of the Willing meet on 19 November 2026?",
+      "back": "Berlin, with Ukraine and US envoys Kushner and Witkoff."
+    },
+    {
+      "id": "B1-13",
+      "unit": "B1",
+      "front": "What is a reprisal attack?",
+      "back": "A revenge attack on a group blamed for an earlier attack, often targeting civilians of the same ethnicity."
     }
   ]
 }

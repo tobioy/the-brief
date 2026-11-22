@@ -1,7 +1,78 @@
 {
-  "updated": "2026-11-18",
+  "updated": "2026-11-22",
   "week": "Week of 16 November 2026",
   "stories": [
+    {
+      "id": "br-2026-11-21-borgu",
+      "date": "2026-11-21",
+      "tag": "Nigeria",
+      "unit": "B1",
+      "title": "Attack in Niger State's Borgu LGA sparks deadly reprisals",
+      "body": "Suspected terrorists attacked Lumman-Ba'are and Gada-Oli communities in Borgu LGA, Niger State, at dawn on 21 November. Police confirmed about five deaths; local reports put the toll at 11 or more, including a village head and his family. Kambari militias then attacked Fulani residents and refugees in nearby villages including Wawa, where eyewitnesses counted about 20 bodies. The total death toll is unconfirmed.",
+      "why": "Revenge attacks along ethnic lines can turn a single terror raid into wider communal violence, a pattern seen across the North-central.",
+      "source": {
+        "name": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/headlines/927031-niger-village-attack-sparks-deadly-reprisals.html"
+      },
+      "cards": [
+        {
+          "front": "Which Niger State LGA saw a terror attack and reprisal killings on 21 November 2026?",
+          "back": "Borgu LGA (Lumman-Ba'are, Gada-Oli and Wawa)."
+        }
+      ]
+    },
+    {
+      "id": "br-2026-11-21-gombe-lawanti",
+      "date": "2026-11-21",
+      "tag": "Nigeria",
+      "unit": "B2",
+      "title": "Three killed in Gombe community; residents blame Air Force personnel",
+      "body": "Three people died and 13 were injured in Lawanti community, Akko LGA, Gombe State, on the night of 20 November. Residents allege that personnel of the Nigerian Air Force's 109 Combat Reconnaissance Group shot and beat people during a row over suspected theft of armoured cables. The Air Force did not respond, and the causes of death are not established. Governor Inuwa Yahaya ordered an investigation.",
+      "why": "Alleged abuses by security forces against civilians damage public trust, which intelligence and security work depends on.",
+      "source": {
+        "name": "Premium Times",
+        "url": "https://www.premiumtimesng.com/regional/nnorth-east/927016-three-killed-13-injured-in-attack-on-gombe-community.html"
+      },
+      "cards": []
+    },
+    {
+      "id": "br-2026-11-20-kushner-guarantees",
+      "date": "2026-11-20",
+      "tag": "Europe",
+      "unit": "D1",
+      "title": "Kushner says Russia is 'comfortable' with NATO-style guarantees for Ukraine",
+      "body": "At a Coalition of the Willing meeting in Berlin on 19 November, US envoy Jared Kushner said Russia is comfortable with post-war security guarantees for Ukraine modelled on NATO's Article 5, and that President Trump is open to the idea. President Putin has called NATO membership or NATO guarantees for Ukraine unacceptable. President Zelenskyy said there was no common understanding of what such guarantees would mean, and no details have been agreed.",
+      "why": "Security guarantees are the main condition Ukraine sets for any ceasefire deal.",
+      "source": {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/20/kushner-says-russia-ok-with-nato-like-security-pact-for-ukraine-is-it"
+      },
+      "cards": [
+        {
+          "front": "What is NATO's Article 5?",
+          "back": "The collective defence clause: an attack on one member is treated as an attack on all."
+        }
+      ]
+    },
+    {
+      "id": "br-2026-11-20-iran-blockade",
+      "date": "2026-11-20",
+      "tag": "Middle East",
+      "unit": "D2",
+      "title": "US warns ships against ship-to-ship transfers of Iranian oil",
+      "body": "US Central Command said on 18 November that ships taking cargo from blockaded vessels loaded at Iranian ports could be stopped, boarded or captured. The US first imposed its naval blockade on 13 April, lifted it in June and reinstated it on 14 July. Reuters reported a tanker loading Iranian crude by ship-to-ship transfer in the Gulf, which would be the first successful export since July; Iran has not confirmed this. Oil is around 30 percent of Iran's economy.",
+      "why": "The blockade keeps Iranian oil off the market, which helps hold world oil prices up.",
+      "source": {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/20/us-targets-irans-ship-to-ship-transfers-can-tehran-break-the-blockade"
+      },
+      "cards": [
+        {
+          "front": "When did the US reinstate its naval blockade of Iran?",
+          "back": "14 July 2026, after a June understanding with Tehran collapsed. It was first imposed on 13 April."
+        }
+      ]
+    },
     {
       "id": "br-2026-11-17-inflation-oct",
       "date": "2026-11-17",
@@ -26,39 +97,6 @@
       ]
     },
     {
-      "id": "br-2026-11-17-ukraine-berlin",
-      "date": "2026-11-17",
-      "tag": "Europe",
-      "unit": "D1",
-      "title": "Ukraine, US and Europe to meet in Berlin; Russia objects",
-      "body": "President Zelenskyy said online talks with US envoys Steve Witkoff and Jared Kushner and European representatives were not easy, and that the next meeting will be in Berlin with the Coalition of the Willing. Kushner said a final agreement will require difficult decisions. The Kremlin said it had not agreed to widen the talks to Europe, and no date was set for a new round with Russia. Drone and missile strikes by both sides continue.",
-      "why": "Disagreement over who sits at the table is slowing the path to a ceasefire.",
-      "source": {
-        "name": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/11/17/ukraine-holds-peace-talks-with-us-europe-as-conflict-escalates"
-      },
-      "cards": [
-        {
-          "front": "What is the 'Coalition of the Willing' in the Ukraine war?",
-          "back": "A group of mainly European countries backing Ukraine and planning post-war security guarantees."
-        }
-      ]
-    },
-    {
-      "id": "br-2026-11-15-kaura-namoda",
-      "date": "2026-11-15",
-      "tag": "Nigeria",
-      "unit": "B1",
-      "title": "Bandits attack mosque in Zamfara during dawn prayers",
-      "body": "Suspected bandits attacked the Lowcost Mosque in Kaura Namoda town, Zamfara State, during dawn prayers, killing APC e-registration supervisor Nasiru Sani and abducting an unconfirmed number of worshippers. In October, bandits attacked the same town for over three hours, killing seven Joint Task Force members and abducting 38 residents.",
-      "why": "Repeated attacks on the same town show how bandits are able to strike even inside towns in Zamfara.",
-      "source": {
-        "name": "Premium Times",
-        "url": "https://www.premiumtimesng.com/news/top-news/925270-bandits-attack-zamfara-mosque-kill-apc-e-registration-supervisor-abduct-worshippers.html"
-      },
-      "cards": []
-    },
-    {
       "id": "br-2026-11-13-no-deal",
       "date": "2026-11-13",
       "tag": "Middle East",
@@ -74,25 +112,6 @@
         {
           "front": "How did Chatham House describe the US–Iran situation in November 2026?",
           "back": "\"No war, no peace\": neither a deal nor full-scale fighting."
-        }
-      ]
-    },
-    {
-      "id": "br-2026-11-08-eisenkot",
-      "date": "2026-11-08",
-      "tag": "Middle East",
-      "unit": "D3",
-      "title": "Herzog asks Eisenkot to form Israel's next government",
-      "body": "President Isaac Herzog tasked opposition leader Gadi Eisenkot with forming a government after the 27 October election. Eisenkot's alliance won 48 seats and Netanyahu's bloc 53, both short of 61. Eisenkot has six weeks and said he is open to including Netanyahu. He has ruled out relying on Arab-led parties, which won a record 19 seats. Netanyahu stays caretaker prime minister.",
-      "why": "A change of Israeli government could affect the Gaza ceasefire and the war with Iran.",
-      "source": {
-        "name": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/11/8/israels-president-tasks-eisenkot-to-form-new-coalition-government"
-      },
-      "cards": [
-        {
-          "front": "Who was asked to form Israel's government in November 2026?",
-          "back": "Gadi Eisenkot, given six weeks by President Herzog."
         }
       ]
     }
