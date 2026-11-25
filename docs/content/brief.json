@@ -1,7 +1,63 @@
 {
-  "updated": "2026-11-22",
-  "week": "Week of 16 November 2026",
+  "updated": "2026-11-25",
+  "week": "Week of 23 November 2026",
   "stories": [
+    {
+      "id": "br-2026-11-24-election-peace-pact",
+      "date": "2026-11-24",
+      "tag": "Nigeria",
+      "unit": "A2",
+      "title": "12 parties sign peace pact as IGP warns against election violence",
+      "body": "Inspector-General of Police Olatunji Disu warned parties and their supporters against violence ahead of the 2027 elections, at a meeting with INEC and party leaders in Abuja. Twelve parties signed a peace agreement to renounce violence and thuggery and to take election disputes to court. INEC chairman Joash Amupitan said presidential and National Assembly elections are set for 16 January 2027, and governorship and state assembly elections for 6 February 2027.",
+      "why": "Election dates and election security are likely exam and interview topics in the run-up to 2027.",
+      "source": {
+        "name": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/top-news/927764-2027-igp-warns-against-violence-12-parties-sign-peace-agreement.html"
+      },
+      "cards": [
+        {
+          "front": "When are Nigeria's 2027 presidential and National Assembly elections (INEC)?",
+          "back": "16 January 2027. Governorship and state assembly elections follow on 6 February 2027."
+        },
+        {
+          "front": "Who is Nigeria's Inspector-General of Police (November 2026)?",
+          "back": "Olatunji Disu."
+        }
+      ]
+    },
+    {
+      "id": "br-2026-11-24-putin-refineries",
+      "date": "2026-11-24",
+      "tag": "Europe",
+      "unit": "D1",
+      "title": "Putin vows retaliation after Ukraine hits Russian oil refineries",
+      "body": "President Putin said Ukraine keeps attacking Russian refineries despite President Trump's request to stop, and that Russian retaliation is inevitable. Ukraine says it will stop hitting Russian energy targets only if Russia does the same. Industry sources told Reuters that Ukrainian drones have cut Russian refinery processing by 45 percent since late October; this is unconfirmed. Poland said three Russian missiles landed on its territory, and Ukraine said it sank a Russian corvette in a Libyan port with sea drones.",
+      "why": "Strikes on energy targets affect world fuel supply, and attacks spilling into NATO's Poland raise the risk of a wider war.",
+      "source": {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/24/putin-says-kyiv-hit-russian-oil-plants-despite-trump-plea-vows-retaliation"
+      },
+      "cards": []
+    },
+    {
+      "id": "br-2026-11-23-iran-shadow-banking",
+      "date": "2026-11-23",
+      "tag": "Middle East",
+      "unit": "D2",
+      "title": "US sanctions Iran's 'shadow banking'; Iran calls the blockade aggression",
+      "body": "The US Treasury sanctioned more than two dozen Iranian exchange houses, front companies and staff it says help Iran move billions of dollars, which Treasury Secretary Scott Bessent called the last financial lifeline of the regime. Iran's Foreign Ministry spokesman Esmaeil Baghaei said the sanctions and naval blockade amount to military aggression and that Iran will use all available means to respond, citing Article 51 of the UN Charter. Iran says Hormuz could reopen within two days if the US lifts the blockade and sanctions.",
+      "why": "Sanctions and the blockade keep Iranian oil off the market, and the risk of new fighting keeps oil prices high.",
+      "source": {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/23/us-escalates-sanctions-on-iran-targets-shadow-banking-networks"
+      },
+      "cards": [
+        {
+          "front": "What does Article 51 of the UN Charter cover?",
+          "back": "The right of self-defence if a country is attacked."
+        }
+      ]
+    },
     {
       "id": "br-2026-11-21-borgu",
       "date": "2026-11-21",
@@ -22,20 +78,6 @@
       ]
     },
     {
-      "id": "br-2026-11-21-gombe-lawanti",
-      "date": "2026-11-21",
-      "tag": "Nigeria",
-      "unit": "B2",
-      "title": "Three killed in Gombe community; residents blame Air Force personnel",
-      "body": "Three people died and 13 were injured in Lawanti community, Akko LGA, Gombe State, on the night of 20 November. Residents allege that personnel of the Nigerian Air Force's 109 Combat Reconnaissance Group shot and beat people during a row over suspected theft of armoured cables. The Air Force did not respond, and the causes of death are not established. Governor Inuwa Yahaya ordered an investigation.",
-      "why": "Alleged abuses by security forces against civilians damage public trust, which intelligence and security work depends on.",
-      "source": {
-        "name": "Premium Times",
-        "url": "https://www.premiumtimesng.com/regional/nnorth-east/927016-three-killed-13-injured-in-attack-on-gombe-community.html"
-      },
-      "cards": []
-    },
-    {
       "id": "br-2026-11-20-kushner-guarantees",
       "date": "2026-11-20",
       "tag": "Europe",
@@ -51,67 +93,6 @@
         {
           "front": "What is NATO's Article 5?",
           "back": "The collective defence clause: an attack on one member is treated as an attack on all."
-        }
-      ]
-    },
-    {
-      "id": "br-2026-11-20-iran-blockade",
-      "date": "2026-11-20",
-      "tag": "Middle East",
-      "unit": "D2",
-      "title": "US warns ships against ship-to-ship transfers of Iranian oil",
-      "body": "US Central Command said on 18 November that ships taking cargo from blockaded vessels loaded at Iranian ports could be stopped, boarded or captured. The US first imposed its naval blockade on 13 April, lifted it in June and reinstated it on 14 July. Reuters reported a tanker loading Iranian crude by ship-to-ship transfer in the Gulf, which would be the first successful export since July; Iran has not confirmed this. Oil is around 30 percent of Iran's economy.",
-      "why": "The blockade keeps Iranian oil off the market, which helps hold world oil prices up.",
-      "source": {
-        "name": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/11/20/us-targets-irans-ship-to-ship-transfers-can-tehran-break-the-blockade"
-      },
-      "cards": [
-        {
-          "front": "When did the US reinstate its naval blockade of Iran?",
-          "back": "14 July 2026, after a June understanding with Tehran collapsed. It was first imposed on 13 April."
-        }
-      ]
-    },
-    {
-      "id": "br-2026-11-17-inflation-oct",
-      "date": "2026-11-17",
-      "tag": "Economy",
-      "unit": "E1",
-      "title": "Inflation falls to 14.06 percent, but prices still rising",
-      "body": "The National Bureau of Statistics said headline inflation fell to 14.06 percent in October 2026, from 14.63 percent in September and 18.97 percent a year earlier. Food inflation was 19.13 percent. Month on month, prices rose 0.43 percent, up from 0.06 percent in September. Finance Minister Taiwo Oyedele said falling inflation does not mean falling prices, only that prices are rising more slowly.",
-      "why": "Knowing the latest inflation figure, and the difference between inflation and prices, is a common economy question.",
-      "source": {
-        "name": "Premium Times",
-        "url": "https://www.premiumtimesng.com/news/top-news/925980-fg-defends-rising-food-prices-despite-falling-inflation.html"
-      },
-      "cards": [
-        {
-          "front": "What was Nigeria's headline inflation in October 2026 (NBS)?",
-          "back": "14.06 percent, down from 14.63 percent in September."
-        },
-        {
-          "front": "Does falling inflation mean prices are falling?",
-          "back": "No. It means prices are rising more slowly. Falling prices is called deflation."
-        }
-      ]
-    },
-    {
-      "id": "br-2026-11-13-no-deal",
-      "date": "2026-11-13",
-      "tag": "Middle East",
-      "unit": "D2",
-      "title": "Trump: 'We don't need a deal with Iran'",
-      "body": "President Trump said the US does not need a deal with Iran and told Vice-President Vance, who had led negotiations, to focus on domestic issues. Secretary of State Rubio said economic pressure on Iran is working and will get worse, so large-scale military operations are unnecessary. Iran says it has sent a seven-condition proposal through Qatar and that the ball is in the US court. On the same day, Iran claimed it struck a US radar site in Bahrain; the US said it shot down two Iranian drones and nothing was damaged.",
-      "why": "A long 'no war, no peace' stand-off keeps Hormuz disrupted and oil prices high, which shapes Nigeria's revenue and fuel costs.",
-      "source": {
-        "name": "Al Jazeera",
-        "url": "https://www.aljazeera.com/features/2026/11/13/why-is-trump-saying-no-deal-necessary-with-iran-as-he-sidelines-jd-vance"
-      },
-      "cards": [
-        {
-          "front": "How did Chatham House describe the US–Iran situation in November 2026?",
-          "back": "\"No war, no peace\": neither a deal nor full-scale fighting."
         }
       ]
     }
